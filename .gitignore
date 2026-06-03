@@ -2,3 +2,4 @@ node_modules
 .DS_Store
 .env
 .claude/
+com.tkiefhaber.news-recap-push.plist
