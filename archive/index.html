@@ -2,12 +2,25 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Archive — Daily News Recap</title>
+<style>
+:root{--bg:#fafaf7;--fg:#1a1a1a;--muted:#6b6b66;--border:#e5e5e0;--accent:#c95f3a}
+@media(prefers-color-scheme:dark){:root{--bg:#0f0f0e;--fg:#e8e8e3;--muted:#9a9a93;--border:#2a2a28;--accent:#e07d57}}
+body{font-family:-apple-system,BlinkMacSystemFont,system-ui,sans-serif;background:var(--bg);color:var(--fg);max-width:720px;margin:0 auto;padding:28px 22px 80px;line-height:1.55;font-size:16px}
+h1{font-size:24px;font-weight:600;margin:0 0 24px;letter-spacing:-.02em}
+ul{list-style:none;padding:0;margin:0}li{padding:10px 0;border-bottom:1px solid var(--border)}
+a{color:var(--fg);text-decoration:none;display:flex;justify-content:space-between;align-items:baseline}
+a:hover{color:var(--accent)}
+.muted{color:var(--muted);font-size:13px}
+.back{color:var(--muted);font-size:13px;display:inline-block;margin-bottom:16px;text-decoration:none;border-bottom:1px solid var(--border)}
+</style>
 </head>
 <body>
+<a class="back" href="../">← Latest</a>
 <h1>Archive</h1>
-<p><a href="../">Back to today</a></p>
-<ul id="archive-list">
+<ul id="entries">
+<li><a href="2026-06-03.html"><span>Wed Jun 3, 2026</span><span class="muted">Iran ceasefire wobbles as Rubio pitches Congress</span></a></li>
 </ul>
 </body>
 </html>
