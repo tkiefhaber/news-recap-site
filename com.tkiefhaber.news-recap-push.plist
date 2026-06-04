@@ -8,14 +8,14 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>/Users/thomaskiefhaber/Documents/news-recap-site/scripts/push.sh</string>
+        <string>/Users/thomaskiefhaber/Sites/news-recap-site/scripts/push.sh</string>
     </array>
 
     <!-- Fire whenever the recap files change. Debounced via ThrottleInterval below. -->
     <key>WatchPaths</key>
     <array>
-        <string>/Users/thomaskiefhaber/Documents/news-recap-site/index.html</string>
-        <string>/Users/thomaskiefhaber/Documents/news-recap-site/archive</string>
+        <string>/Users/thomaskiefhaber/Sites/news-recap-site/index.html</string>
+        <string>/Users/thomaskiefhaber/Sites/news-recap-site/archive</string>
     </array>
 
     <!-- Don't fire more than once every 60 seconds, so a burst of writes coalesces into one push. -->

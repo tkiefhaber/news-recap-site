@@ -1,12 +1,13 @@
 #!/bin/bash
 # Daily push job for news-recap-site
-# Triggered by ~/Library/LaunchAgents/com.tkiefhaber.news-recap-push.plist at 7am local time.
-# Commits any new HTML files written by the Cowork scheduled task and pushes to GitHub,
-# which triggers Cloudflare Pages to auto-deploy.
+# Triggered by ~/Library/LaunchAgents/com.tkiefhaber.news-recap-push.plist whenever
+# files in the repo change (WatchPaths). Commits any new HTML files written by the
+# Cowork scheduled task and pushes to GitHub, which triggers Cloudflare Pages to deploy.
+# Repo lives outside ~/Documents so LaunchAgents can read/execute without Full Disk Access.
 
 set -euo pipefail
 
-REPO="$HOME/Documents/news-recap-site"
+REPO="$HOME/Sites/news-recap-site"
 LOG_TIMESTAMP="$(date '+%Y-%m-%d %H:%M:%S %Z')"
 
 cd "$REPO"
