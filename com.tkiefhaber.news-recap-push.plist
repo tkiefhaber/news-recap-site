@@ -11,13 +11,16 @@
         <string>/Users/thomaskiefhaber/Documents/news-recap-site/scripts/push.sh</string>
     </array>
 
-    <key>StartCalendarInterval</key>
-    <dict>
-        <key>Hour</key>
-        <integer>7</integer>
-        <key>Minute</key>
-        <integer>0</integer>
-    </dict>
+    <!-- Fire whenever the recap files change. Debounced via ThrottleInterval below. -->
+    <key>WatchPaths</key>
+    <array>
+        <string>/Users/thomaskiefhaber/Documents/news-recap-site/index.html</string>
+        <string>/Users/thomaskiefhaber/Documents/news-recap-site/archive</string>
+    </array>
+
+    <!-- Don't fire more than once every 60 seconds, so a burst of writes coalesces into one push. -->
+    <key>ThrottleInterval</key>
+    <integer>60</integer>
 
     <key>StandardOutPath</key>
     <string>/tmp/news-recap-push.log</string>
