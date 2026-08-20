@@ -12,6 +12,13 @@ LOG_TIMESTAMP="$(date '+%Y-%m-%d %H:%M:%S %Z')"
 
 cd "$REPO"
 
+# Regenerate the RSS feed from whatever is in archive/ before staging. This also
+# re-injects the feed autodiscovery <link> into index.html, which the daily task
+# overwrites each morning. Non-fatal: a feed failure shouldn't block the push.
+if ! python3 scripts/build-feed.py; then
+    echo "[$LOG_TIMESTAMP] WARNING: feed build failed; pushing without feed update."
+fi
+
 # Stage everything
 git add -A
 
