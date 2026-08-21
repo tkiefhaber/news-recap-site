@@ -24,11 +24,15 @@ h2.section{font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:va
 .bullets{list-style:none;padding:0;margin:12px 0 0}.bullets li{padding:6px 0;border-bottom:1px dashed var(--border)}.bullets li:last-child{border-bottom:none}.bullets strong{font-weight:600;margin-right:4px}
 footer{margin-top:64px;padding-top:20px;border-top:1px solid var(--border);font-size:12px;color:var(--muted);display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
 footer a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--border)}footer a:hover{color:var(--accent)}
+.stale{display:none;background:#fff4ed;border:1px solid var(--accent);border-left-width:4px;border-radius:4px;padding:12px 14px;margin:0 0 20px;font-size:14px;line-height:1.45;color:#8a3b1c}
+@media(prefers-color-scheme:dark){.stale{background:#2a1a12;color:#f0b393}}
+.stale strong{display:block;margin-bottom:2px}
 @media(max-width:600px){body{padding:20px 16px 56px;font-size:15px}.date{font-size:24px}.story h3{font-size:18px}}
 </style>
 <link rel="alternate" type="application/rss+xml" title="Daily News Recap" href="feed.xml">
 </head>
 <body>
+<div class="stale" id="stale-banner"></div>
 <header>
   <p class="eyebrow">Daily News Recap</p>
   <h1 class="date">Thursday, August 20, 2026</h1>
@@ -209,5 +213,25 @@ footer a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--b
   <span>Generated 06:55 ET</span>
   <a href="archive/">← Archive</a>
 </footer>
+<script>
+/* Staleness check: if the publish pipeline stops, Cloudflare keeps serving this
+   page unchanged, so the page reports its own age rather than looking current. */
+(function(){
+  var meta=document.querySelector('meta[name="recap-date"]');
+  var el=document.getElementById('stale-banner');
+  if(!meta||!el||!meta.content)return;
+  var p=meta.content.split('-');
+  if(p.length!==3)return;
+  var published=Date.UTC(+p[0],+p[1]-1,+p[2]);
+  var n=new Date();
+  var today=Date.UTC(n.getFullYear(),n.getMonth(),n.getDate());
+  var days=Math.round((today-published)/86400000);
+  if(days<2)return;
+  el.innerHTML='<strong>This recap is '+days+' days old.</strong>'+
+    'The daily publish job may have stopped — the newest recap here is dated '+
+    meta.content+'.';
+  el.style.display='block';
+})();
+</script>
 </body>
 </html>
