@@ -6,8 +6,190 @@
 <description>A balanced daily brief: the day&#x27;s top stories with straight facts, left and right framings, and expert read on downstream effects. Plus markets and a sports watercooler.</description>
 <language>en-us</language>
 <atom:link href="https://news-recap-site.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 24 Aug 2026 07:00:00 -0400</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 07:00:00 -0400</lastBuildDate>
 <ttl>720</ttl>
+<item>
+<title>Tue Aug 25, 2026 — Supreme Court clears part of Trump&#x27;s mail-voting order ahead of the midterms</title>
+<link>https://news-recap-site.pages.dev/archive/2026-08-25.html</link>
+<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-08-25.html</guid>
+<pubDate>Tue, 25 Aug 2026 07:00:00 -0400</pubDate>
+<description>Supreme Court clears part of Trump&#x27;s mail-voting order ahead of the midterms · Iran answers &quot;Operation Economic Outcast&quot; &amp;mdash; and oil falls anyway · Canada suspends trade talks as 50% US tariffs bite; retaliation set for Sept. 8 · Jackson Hole and Nvidia: a 48-hour week for the Fed and the AI trade</description>
+<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
+
+<article>
+  <h3>Supreme Court clears part of Trump's mail-voting order ahead of the midterms</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>In an unsigned order Monday, the Supreme Court divided 6&ndash;3 and lifted a June injunction from a Massachusetts federal judge that had blocked key parts of the president's elections executive order in California and 22 other states that sued.</li>
+    <li>The majority's stated basis was standing &mdash; the order was characterized as an internal directive to federal agencies that did not itself injure the states, meaning they sued too early rather than that the order is lawful.</li>
+    <li>What is now unblocked: DHS compiling a federal citizenship list to share with states, the Attorney General prioritizing prosecutions of officials who issue ballots to ineligible voters, and USPS rulemaking on mail-ballot design and tracking. The Postal Service's final rule says it will decline to deliver mail ballots in states that don't hand over lists of voters receiving them.</li>
+    <li>The Court did not reach the most contested piece &mdash; requiring USPS to verify each recipient's eligibility and withhold ballots from anyone missing from a government list.</li>
+    <li>The three liberal justices dissented; Justice Jackson wrote that the ruling injects avoidable chaos and uncertainty into the coming midterms.</li>
+    <li>A separate track of litigation continues before District Judge Indira Talwani, where voting-rights groups filed an emergency motion over the weekend arguing USPS defied an earlier injunction by publishing its final rule.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and CBS emphasize that the win is procedural and narrow &mdash; the Court said the states sued too early, not that the order survives review &mdash; and that real hurdles remain in the parallel voting-rights cases. MSNBC's legal desk (ms.now) frames it as a "for now" ruling whose durability is untested. The Guardian-aligned and Democratic-state position, quoted across coverage, is that federal control over ballot distribution is an extraordinary intrusion on state-run elections; Sen. Jack Reed argues the practical effect falls hardest on servicemembers voting from abroad. Votebeat stresses the operational risk: a national citizenship list goes stale quickly, and election officials in both parties warned of confusion and disenfranchisement if rules shift months before ballots go out.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News leads on it as a straightforward win for the administration's election-integrity agenda and reads the 6&ndash;3 line as the Court declining to let blue-state attorneys general pre-emptively block federal executive action. The broader argument on the right, echoed in Fox opinion, is that verifying eligibility before mailing a ballot is basic administrative hygiene, and that states resisting a shared citizenship list are objecting to the audit rather than the fraud. Worth noting for balance: the documented incidence of noncitizen voting found by states is real but far smaller than the scale the president has claimed.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Judge Talwani's ruling on the emergency motion is the near-term hinge &mdash; if she finds USPS violated the earlier injunction, parts of the rule could be frozen again within weeks. Election administrators are the practical bottleneck: ballots for November start going out in some states in late September, so any rule that isn't settled by roughly mid-September becomes very hard to implement cleanly. Expect a second Supreme Court application this fall on the eligibility-verification piece the Court sidestepped. Separately, SCOTUSblog notes the Court is also weighing late-arriving mail-ballot deadlines in a case that could reshape counting rules in several states.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.washingtonpost.com/politics/2026/08/24/supreme-court-eases-path-trumps-sweeping-limits-mail-in-balloting/">Washington Post</a>
+    <a href="https://www.scotusblog.com/2026/08/supreme-court-allows-trump-administration-to-move-forward-with-order-imposing-restrictions-on-ma/">SCOTUSblog</a>
+    <a href="https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court">NPR</a>
+    <a href="https://www.cbsnews.com/news/supreme-court-trump-mail-voting-order-usps-dhs/">CBS News</a>
+    <a href="https://www.foxnews.com/politics/trump-scores-supreme-court-win-mail-in-voting-restrictions-before-midterms">Fox News</a>
+    <a href="https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules">Axios</a>
+    <a href="https://www.votebeat.org/national/2026/08/24/supreme-court-lifts-stay-trump-executive-order-on-elections-mail-ballot-restrictions/">Votebeat</a>
+    <a href="https://www.ms.now/deadline-white-house/deadline-legal-blog/supreme-court-trump-mail-in-voting-executive-order-midterms-california">MSNBC</a>
+  </p>
+</article>
+
+<article>
+  <h3>Iran answers "Operation Economic Outcast" &mdash; and oil falls anyway</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Treasury Secretary Scott Bessent rolled out the sanctions package Monday under the name Operation Economic Outcast, designating roughly 60 individuals and entities based in Hong Kong, mainland China, Malaysia, the UAE, Singapore and other third countries for facilitating Iranian sanctions evasion.</li>
+    <li>The action widens the categories exposed to <em>secondary</em> sanctions &mdash; shipping, oil, gold, aviation, technology and digital assets &mdash; and sets country-by-country deadlines to sever ties. Bessent's line is that facilitators get cut off from the dollar system entirely.</li>
+    <li>Treasury says it has mapped Iran's oil-smuggling and evasion network and will present that mapping to governments still transacting with Tehran. Trump has been calling foreign leaders directly with specific requests.</li>
+    <li>Tehran's response Tuesday: it says it has a plan, calls the measures a violation of other states' sovereignty, and its president said Washington must change its approach and honor its own commitments under international law.</li>
+    <li>An oil tanker was attacked in the Strait of Hormuz off Oman on Tuesday. The June memorandum of understanding meant to end the war has not stopped periodic Iranian strikes on shipping.</li>
+    <li>Traffic is rerouting rather than stopping &mdash; more than 80% of liquids transiting in the past two weeks used the Omani corridor, and the US Navy has escorted over 15 million barrels of crude and products out of the strait in recent days.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR's coverage of the rollout foregrounds how much of this rests on third-country compliance the US cannot compel, and the humanitarian cost inside Iran of an economy already in crisis. Al Jazeera amplifies the sovereignty objection &mdash; that extraterritorial reach punishes Singaporean or Emirati firms for conduct legal where they operate. The Atlantic's Tom Nichols, appearing on C-SPAN Tuesday, situates the sanctions in a war now six months old with no settlement, and the persistent left critique is that maximum economic pressure has a long track record of hardening rather than toppling the regime.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Washington Post editorial page &mdash; center-right on this file &mdash; argues in a Monday column that "zero leakage" is the only version of this that works, and that the campaign will look hollow unless the administration is willing to impose secondary sanctions on China specifically. Fox News highlights Iranian state media's human-rights framing as regime propaganda. The broader right-of-center case is that economic containment is the defensible alternative to further bombing after strikes and talks both stalled &mdash; Reason-style critics on the libertarian right dissent, calling dollar-system weaponization a tool that accelerates de-dollarization.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Markets read the announcement as less severe than trailed: Brent fell 3.4% Tuesday to about $89.05 and WTI 3.6% to roughly $82. Morgan Stanley raised its Brent forecast and sees a peak near $100 in Q4; Commonwealth Bank of Australia expects a $70&ndash;$100 range through year-end and flags the tail risk that <em>effective</em> sanctions push Iran toward kinetic escalation in the strait. Fortune reports analysts see the war potentially running deep into 2027 precisely because Hormuz isn't fully closed &mdash; enough oil leaks out to make stalemate sustainable. The China question is the real test: if Beijing keeps buying and Washington doesn't designate a major Chinese bank, the deadlines lose force.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25">Bloomberg</a>
+    <a href="https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html">CNBC</a>
+    <a href="https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran">NPR</a>
+    <a href="https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103">NBC News</a>
+    <a href="https://www.washingtonpost.com/opinions/2026/08/24/zero-leakage-iran-would-mean-imposing-secondary-sanctions-china/">WaPo Opinion</a>
+    <a href="https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states">Al Jazeera</a>
+    <a href="https://www.thenationalnews.com/news/mena/2026/08/25/live-us-sanctions-on-iran/">The National</a>
+    <a href="https://fortune.com/2026/08/23/iran-war-outlook-2027-strait-of-hormuz-oil-exports-blockade-oman-corridor-escalation/">Fortune</a>
+    <a href="https://www.atlanticcouncil.org/dispatches/experts-react-will-trumps-operation-economic-outcast-isolate-iran/">Atlantic Council</a>
+  </p>
+</article>
+
+<article>
+  <h3>Canada suspends trade talks as 50% US tariffs bite; retaliation set for Sept. 8</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>US tariffs of 50% on roughly $20 billion of Canadian goods took effect at midnight between Aug. 21 and 22, covering hockey sticks, building materials, liquors and certain apparel categories.</li>
+    <li>Talks collapsed late Friday, Aug. 21. Prime Minister Mark Carney issued a formal statement suspending negotiations and blamed what he called uneconomic and unfair US demands.</li>
+    <li>Carney has committed to matching the tariffs dollar for dollar beginning Sept. 8, and separately vowed to counter US auto tariffs.</li>
+    <li>At a press conference Saturday, Carney said Canada is at war in the sense that it was attacked &mdash; unusually sharp language from a sitting Canadian PM about the United States.</li>
+    <li>Earlier in the cycle Canada had removed retaliatory tariffs on CUSMA-compliant US goods; the new round reverses that de-escalation.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR frames Carney's "at war" remark as the moment a technocratic former central banker concluded that accommodation had failed, and centers Canadian workers and cross-border supply chains. The Guardian-side critique is that tariffs on building materials land directly on US housing costs at a moment when affordability is already the dominant domestic complaint, making this a self-inflicted consumer-price story.</p>
+  <p><strong>Right view</strong></p>
+  <p>The administration's case, carried on Fox News and in NY Post coverage, is that Canada extracted favorable terms for decades on dairy, lumber and digital services and that leverage is the only thing that has ever moved Ottawa. The Wall Street Journal editorial board has been consistently hostile to this approach, arguing that tariffs on a treaty ally are a tax on Americans and that CUSMA was supposed to have settled these questions &mdash; a live split between free-trade and economic-nationalist wings of the right.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Sept. 8 is the date to circle. Auto and parts flows are the escalation risk with real GDP consequences on both sides given integrated assembly lines. Watch the Canadian dollar and lumber futures, and whether CUSMA's dispute-settlement machinery gets invoked &mdash; the treaty is up for joint review in 2026, so a failed round here poisons that process. NBC notes Carney called the new tariffs a miscalculation, language that leaves a door open if Washington moves first.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs">NPR</a>
+    <a href="https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510">NBC News</a>
+    <a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations">Office of the PM</a>
+    <a href="https://feeds.bbci.co.uk/news/articles/c994e312ev5o">BBC News</a>
+    <a href="https://globalnews.ca/video/11101712/carney-vows-canada-will-counter-us-auto-tariffs/">Global News</a>
+  </p>
+</article>
+
+<article>
+  <h3>Jackson Hole and Nvidia: a 48-hour week for the Fed and the AI trade</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The Kansas City Fed's Jackson Hole symposium opens Thursday, Aug. 27, with Chair Kevin Warsh delivering his first keynote as chair on Friday, Aug. 28.</li>
+    <li>Nvidia reports fiscal Q2 results after the close Wednesday, Aug. 26 &mdash; the same session as a major PCE inflation print, an unusually dense collision of catalysts.</li>
+    <li>Market-implied odds of a September cut are contested across sources, ranging from near-certain in some futures readings to very low in others &mdash; a sign the Warsh Fed's reaction function is not yet legible to traders.</li>
+    <li>Semiconductors sold off Monday, dragging the Nasdaq down 0.76% while the Dow rose &mdash; a rotation out of AI names rather than a broad risk-off move.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Left-of-center economics commentary (Vox, The Atlantic's business writers) has focused on labor-market softening as the reason to cut, and on the institutional question of Fed independence under a chair installed by a president who campaigned openly on lower rates. The concern is that a cut delivered under political pressure is worth less than the same cut delivered on the data.</p>
+  <p><strong>Right view</strong></p>
+  <p>WSJ and Barron's coverage runs the other way &mdash; with oil near $90 and gasoline at record August levels, cutting into an energy-driven price shock risks unanchoring expectations. National Review and other conservative outlets have generally welcomed Warsh as a hawk-by-reputation, which sits awkwardly with the administration's stated preference for easing. Reason and other libertarian writers see the whole episode as evidence that discretionary monetary policy is inherently politicized.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Warsh's Friday text is the single most consequential document of the week; the words to hunt for are whether energy prices are treated as a relative-price shock to look through or a genuine inflation impulse. On Nvidia, the market question has shifted from beat-or-miss to whether current multiples survive an oil shock &mdash; higher energy costs raise the discount rate applied to long-duration growth stories. If Nvidia guides strongly and Warsh sounds dovish, the two clear together; if they diverge, expect a sharp rotation into value and energy.</p>
+  <p><em>Sources:</em> 
+    <a href="https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html">Yahoo Finance</a>
+    <a href="https://www.techtimes.com/articles/325228/20260821/jackson-hole-2026-what-watch-when-warsh-steps-podium-friday.htm">TechTimes</a>
+    <a href="https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html">CNBC</a>
+    <a href="https://www.techtimes.com/articles/325291/20260824/iran-sanctions-launch-nvidia-week-oil-shock-tests-ai-stock-multiples.htm">TechTimes</a>
+  </p>
+</article>
+
+<article>
+  <h3>DRC's Ebola epidemic becomes the deadliest in the country's history</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>As of data through Aug. 22, the Democratic Republic of the Congo has recorded 5,514 confirmed cases and 2,642 deaths, surpassing the 2,299 deaths of the 2018&ndash;2020 outbreak and the 3,317 cases recorded then.</li>
+    <li>The pathogen is Bundibugyo virus, an Ebola species for which no approved vaccine or specific treatment exists &mdash; the licensed vaccines protect against Zaire ebolavirus, not this one.</li>
+    <li>UN Ebola coordinator Julien Harneis said Aug. 21 that transmission is accelerating faster than the response can contain it. Weekly deaths hit a record high this past week.</li>
+    <li>Cases have also been reported in neighboring Uganda, per ECDC monitoring.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>The Guardian and NPR's global health desks tie the trajectory directly to the contraction of US and European global health funding over the past two years &mdash; fewer contact tracers and labs mean detection lags, and detection lag is the whole ballgame with a filovirus. The Washington Post's reporting emphasizes that a species-specific vaccine gap is a market failure that only public funding was ever going to close.</p>
+  <p><strong>Right view</strong></p>
+  <p>Right-leaning coverage of this outbreak has been thin, which is itself worth noting. Where it appears &mdash; National Review, the Washington Examiner &mdash; the emphasis is on WHO's institutional performance and whether the agency has earned renewed US funding, and on securing borders and travel screening rather than expanding multilateral commitments. The Free Press has covered the vaccine-development gap as a case for reforming, not defunding, biomedical R&amp;D pipelines.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Two thresholds matter: sustained transmission in a major urban center such as Kinshasa, and confirmed spread beyond Uganda. Either would move this from a regional emergency to a global one. Watch for a WHO emergency committee reconvening, whether any Bundibugyo-specific candidate vaccine gets an emergency-use pathway, and whether donor governments announce supplemental funding. Airline and travel-sector exposure is currently negligible but is the first market channel if the outbreak reaches a capital city.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.washingtonpost.com/world/2026/08/11/death-toll-surpasses-2000-second-largest-ebola-outbreak-record/">Washington Post</a>
+    <a href="https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615">WHO</a>
+    <a href="https://news.un.org/en/story/2026/08/1168154">UN News</a>
+    <a href="https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record">Al Jazeera</a>
+    <a href="https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda">ECDC</a>
+  </p>
+</article>
+
+<article>
+  <h3>The midterm money gap: Republicans open a roughly half-billion-dollar edge</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>New filings show the DNC trailing the RNC by more than $100 million in cash on hand, with the party committee carrying millions in debt.</li>
+    <li>The DNC entered July with about $16 million on hand against roughly $18 million in debt &mdash; more owed than banked. The RNC reported about $129 million on hand and no debt.</li>
+    <li>Much of the Democratic debt traces to a $15 million loan taken after the 2024 cycle.</li>
+    <li>Counting allied outside groups, Republicans hold something close to a half-billion-dollar advantage with under 100 days to the November election.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>MSNBC (ms.now) reports the gap as real but argues committee cash is a weak predictor &mdash; candidate-level fundraising, small-dollar surges and volunteer energy have repeatedly outrun party balance sheets in recent midterms, and the out-party historically enjoys a turnout advantage regardless of committee reserves. Democratic officials quoted describe the lean committee posture as a deliberate reallocation toward state parties.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Washington Examiner frames it as a donor-confidence problem rather than a strategy, pointing to spending on non-voting territories while servicing debt. Fox News highlights that the DNC has no transfers planned into the stretch run. RedState and similar outlets read it as base demoralization. The counter-consideration: money advantages have failed to translate into seats in several recent cycles, and both parties' committees are only one slice of total spending.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Ad-reservation data in September is the tell &mdash; watch which House districts Democratic committees quietly stop reserving in, since that is where the cash constraint becomes a strategic retreat. Also watch whether major Democratic donors route around the DNC to super PACs, which would confirm the donor-confidence read while leaving total Democratic spending healthier than committee filings suggest.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.washingtonexaminer.com/in_focus/4542610/dnc-cash-crunch-rnc-fundraising-gap-2026-midterms/">Washington Examiner</a>
+    <a href="https://www.ms.now/news/republicans-money-2026-midterms">MSNBC</a>
+    <a href="https://www.foxnews.com/media/cash-strapped-dnc-shelled-out-more-than-800k-non-voting-territories-like-virgin-islands-while-debt">Fox News</a>
+    <a href="https://ballotpedia.org/Party_committee_fundraising,_2025-2026">Ballotpedia</a>
+    <a href="https://www.c-span.org/event/washington-journal/08-25-2026/446324">C-SPAN</a>
+  </p>
+</article>
+
+<h2>Markets &amp; Economy</h2>
+<ul>
+  <li><strong>S&amp;P 500:</strong> closed Monday at 7,652.86, down 0.28%. <strong>Dow:</strong> 53,417.16, up 140.15 points or 0.26%. <strong>Nasdaq:</strong> 25,980.19, down 0.76% on a chip-stock sell-off. Tuesday futures pointed higher &mdash; Dow and S&amp;P contracts up nearly 0.5%, Nasdaq-100 up 0.9%.</li>
+  <li><strong>Oil:</strong> falling hard Tuesday as the sanctions package landed lighter than trailed &mdash; Brent down 3.4% to about $89.05, WTI down 3.6% to roughly $81.99. WTI had settled at $85.83 on Aug. 20. Morgan Stanley sees Brent peaking near $100 in Q4; CBA models a $70&ndash;$100 range into year-end.</li>
+  <li><strong>Gas:</strong> the national average sits around $4.10 a gallon, a record for this point on the calendar and nearly a dollar above a year ago. August is on track for the highest monthly average ever at about $4.06, edging past August 2022's $3.97. Most expensive: California $5.58, Hawaii $5.42, Washington $5.24.</li>
+  <li><strong>Other:</strong> Nvidia reports Wednesday alongside PCE; Jackson Hole opens Thursday with Warsh's first keynote Friday. Canadian retaliatory tariffs hit Sept. 8. Treasury's Iran designations put dollar-clearing risk on firms in Hong Kong, Singapore, Malaysia and the UAE &mdash; watch Asian shipping and trade-finance names.</li>
+</ul>
+
+<h2>Sports Watercooler</h2>
+<ul>
+  <li><strong>Golf:</strong> Wyndham Clark closed out the BMW Championship at Bellerive at 17-under 263, winning by three for his third title of the season and sixth on Tour &mdash; $3.6 million and 750 FedExCup points. He led McIlroy and Cantlay by five through 54 holes and never gave it back. The field is now set at 30 for the Tour Championship at East Lake this week; Tommy Fleetwood limps in after a rough St. Louis but returns to the site of his first career win.</li>
+  <li><strong>Tennis:</strong> US Open qualifying is underway at Flushing Meadows &mdash; 128 men and 128 women chasing 16 main-draw spots each, with first-round matches split across Monday and Tuesday. The eight-team mixed doubles qualifying event runs Tuesday in the Grandstand, free to attend, for two main-draw slots. Main draw begins Aug. 30.</li>
+  <li><strong>Squash:</strong> the new PSA season opens with the CIB Zed Squash Open, Aug. 24&ndash;28. The bigger structural news: PSA moves to weekly world rankings starting Monday, Aug. 29, replacing the monthly cycle &mdash; entry lists will now track recent form much more closely, which should mean more volatility near the seeding cut lines.</li>
+  <li><strong>WWE:</strong> Raw from the Canadian Tire Centre in Ottawa. Stephanie Vaquer beat Roxanne Perez in her first match since WrestleMania 42, with Becky Lynch interfering. Rey Fenix and Penta both advanced through the World Heavyweight Title No. 1 contendership semifinals &mdash; setting up brother vs. brother in the final. Royce Keys returned with OTM and wrecked The Usos, LA Knight and Solo Sikoa in the main event. Oba Femi and Bron Breakker had a heated contract signing for Sunday Night's Main Event.</li>
+  <li><strong>Hockey:</strong> deep-August quiet, mostly depth moves &mdash; the Rangers signed Vincent Iorio and extended Scott Morrow at $850K apiece, Philadelphia extended Hunter McDonald two years, and Detroit picked up Sutter Muzzatti from Nashville for future considerations. Connor Hellebuyck and Dylan Larkin still top the trade boards after an unusually chaotic offseason of trade requests and voided deals.</li>
+  <li><strong>Soccer:</strong> Chelsea took the west London derby 3&ndash;2 at Fulham on Monday. Over the weekend: Manchester City 2&ndash;1 Bournemouth, Brighton 4&ndash;0 Aston Villa in the result of the round, and Newcastle 2&ndash;2 Liverpool.</li>
+  <li><strong>Football:</strong> the 53-man cutdown deadline is Aug. 30, so the churn starts now. Injury news is ugly for Arizona &mdash; rookie Chase Bisontis tore his MCL and is out for the year, and Jeremiyah Love has a high ankle sprain. Raiders RB Ashton Jeanty is believed to have a sprained ankle. Chicago's Luther Burden III (groin) should be ready for Week 1. Better news in Dallas: Jalen Ramsey came off PUP and is back at practice.</li>
+</ul>]]></content:encoded>
+</item>
 <item>
 <title>Mon Aug 24, 2026 — Bessent to unveil Iran &amp;ldquo;economic D-Day&amp;rdquo; as Tehran threatens Hormuz seizures</title>
 <link>https://news-recap-site.pages.dev/archive/2026-08-24.html</link>
@@ -4630,141 +4812,6 @@
   <li><strong>Hockey:</strong> NHL in its quiet stretch — ~95% of offseason roster moves done; a shortened 8-day preseason runs Sept 19–26.</li>
   <li><strong>Soccer:</strong> Premier League preseason friendlies in full swing ahead of the Aug 21 kickoff; Arsenal defend their title, with Coventry, Hull, and Ipswich promoted.</li>
   <li><strong>Football:</strong> NFL camps opening — all veterans report by July 28. Mahomes fully cleared after last year's knee injury; Kyle Shanahan limited after a July 14 car crash.</li>
-</ul>]]></content:encoded>
-</item>
-<item>
-<title>Wed Jul 22, 2026 — US–Iran fighting grinds into its tenth straight day around the Strait of Hormuz</title>
-<link>https://news-recap-site.pages.dev/archive/2026-07-22.html</link>
-<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-07-22.html</guid>
-<pubDate>Wed, 22 Jul 2026 07:00:00 -0400</pubDate>
-<description>US–Iran fighting grinds into its tenth straight day around the Strait of Hormuz · Trump&#x27;s primetime &quot;election vulnerabilities&quot; speech draws bipartisan fact-checks · Rubio convenes 60-plus nations on &quot;left-wing political terrorism&quot; · Andy Burnham becomes UK&#x27;s seventh prime minister in a decade</description>
-<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
-
-<article>
-  <h3>US–Iran fighting grinds into its tenth straight day around the Strait of Hormuz</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>US forces struck Iranian targets for a tenth consecutive day since the June ceasefire collapsed, and President Trump vowed Tehran "will pay" for attacks that killed American troops (Reuters, Fortune, Fox News).</li>
-    <li>NPR reports a third US service member has been killed since Friday; Iran says US strikes have killed at least 46 people and wounded more than 400 since hostilities resumed.</li>
-    <li>The core dispute remains control of the Strait of Hormuz — Iran reads "service fee" language in the collapsed 60-day deal as a right to charge and police shipping (ABC News, CNN).</li>
-    <li>Another tanker was reportedly hit near Hormuz, and Yemen's Houthis threatened Saudi traffic in the Red Sea (Fortune). Pakistan has again been asked to mediate (Euronews).</li>
-    <li>Brent crude sat near $95.47 and WTI near $84 early Wednesday (Fortune, Forbes).</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR frames the two sides as "blowing past red lines" and lurching back toward all-out war weeks after agreeing to stop, emphasizing mounting Iranian civilian casualties and US combat deaths. NPR and The Guardian note domestic anti-war protests and question the absence of a clear objective or exit.</p>
-  <p><strong>Right view</strong></p>
-  <p>The right is openly split. Fox News hosts such as Mark Levin argue diplomacy alone won't stop Iran and back sustained pressure, while Tucker Carlson has branded the campaign "Israel's war" (Media Matters). The Hill reports other Fox pundits are urging Trump to de-escalate before the midterms, and the WSJ editorial board has run pieces critical of open-ended escalation.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Analysts tie further Hormuz disruption directly to oil above $95 Brent and US pump prices back over $4/gal. Watch the US naval blockade, any Houthi move on Red Sea shipping, and whether Pakistani mediation produces a fresh pause — each a swing factor for energy markets and Gulf stability.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates">NPR</a>
-    <a href="https://www.foxnews.com/live-news/us-iran-war-strikes-07-20-26">Fox News</a>
-    <a href="https://fortune.com/article/price-of-oil-07-22-2026/">Fortune</a>
-    <a href="https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392">ABC News</a>
-    <a href="https://thehill.com/homenews/administration/5979968-fox-news-urges-trump-deescalate-iran/">The Hill</a>
-  </p>
-</article>
-
-<article>
-  <h3>Trump's primetime "election vulnerabilities" speech draws bipartisan fact-checks</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>In a July 16 White House address, Trump warned of "shocking vulnerabilities" in US election infrastructure and said systems could be "rigged and stolen," without offering evidence of any fraudulent vote (NPR, Salt Lake Tribune).</li>
-    <li>Aides published supporting documents online; reporters said the president drew selectively from them (NPR).</li>
-    <li>FactCheck.org notes his own Cybersecurity and Infrastructure Security Agency called the 2020 election "the most secure in American history," a line Trump mocked.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR and the Salt Lake Tribune call the claims "outlandish" and evidence-free, framing the speech as groundwork to contest unfavorable 2026 midterm results and to pressure election officials.</p>
-  <p><strong>Right view</strong></p>
-  <p>Coverage here is notable for convergence: the libertarian outlet Reason ran the address under a "stolen-election claims" banner and treated the assertions skeptically. Mainstream right and center outlets largely fact-checked rather than amplified, leaving Trump's framing with little elite conservative backing.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Election officials from both parties are pushing back. Watch for pre-emptive legal fights over certification, state-level responses, and whether the messaging shapes turnout and mail-ballot rules ahead of November.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address">NPR</a>
-    <a href="https://www.sltrib.com/news/nation-world/2026/07/16/trump-makes-outlandish-claims/">Salt Lake Tribune</a>
-    <a href="https://reason.com/2026/07/17/election-vulnerability/">Reason</a>
-    <a href="https://www.factcheck.org/2026/07/factchecking-trumps-election-security-speech/">FactCheck.org</a>
-  </p>
-</article>
-
-<article>
-  <h3>Rubio convenes 60-plus nations on "left-wing political terrorism"</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Secretary of State Marco Rubio gathered representatives from more than 60 countries on July 17 for the administration's initiative on what it calls "left-wing" political terrorism (NPR).</li>
-    <li>The effort is one of several administration moves this month framed around political violence and internal security (NPR, White House).</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Progressive outlets including Democracy Now and commentators cited by NPR warn the "left-wing terrorism" label is vague and risks being used to target protest movements, activists, and political opponents rather than genuine violence.</p>
-  <p><strong>Right view</strong></p>
-  <p>The White House and allied conservative commentators cast the summit as an overdue, coordinated response to real acts of political violence, arguing prior administrations downplayed threats from the left.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Watch whether the initiative produces concrete designations, funding, or law-enforcement guidance — and how civil-liberties groups and courts respond if enforcement touches domestic protest activity.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.npr.org/sections/politics/">NPR</a>
-    <a href="https://www.democracynow.org/2026/7/17/headlines">Democracy Now</a>
-    <a href="https://www.whitehouse.gov/news/">White House</a>
-  </p>
-</article>
-
-<article>
-  <h3>Andy Burnham becomes UK's seventh prime minister in a decade</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Andy Burnham, 56, took office as UK prime minister on July 20 after Keir Starmer resigned as Labour leader amid election defeats and scandals (Washington Post, NPR).</li>
-    <li>Burnham was acclaimed unchallenged with 379 Labour MP nominations and pledged to be a "circuit-breaker," promising a 10-year plan to restore stability (CNN, NPR).</li>
-    <li>Trump called Britain a "Poverty Stricken Disaster" as Burnham took over (CNBC).</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>The Guardian and NPR present Burnham — a former mayor of Greater Manchester with a more populist, left-of-Starmer profile — as a chance to reset Labour and end years of churn and unpopular U-turns.</p>
-  <p><strong>Right view</strong></p>
-  <p>Right-leaning coverage, amplified by the NY Post and Trump's own broadside, frames the rapid turnover of British leaders as evidence of national decline and doubts a new Labour PM can deliver growth.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Markets will watch the pound and gilts for reaction, and Washington–London relations after Trump's insult. Burnham's promised economic plan and any early cabinet moves will signal how far he breaks from Starmer.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.washingtonpost.com/world/2026/07/20/andy-burnham-take-charge-uk-prime-minister-replacing-keir-starmer/">Washington Post</a>
-    <a href="https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister">NPR</a>
-    <a href="https://www.cnn.com/2026/07/20/world/live-news/andy-burnham-uk-prime-minister-intl">CNN</a>
-    <a href="https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html">CNBC</a>
-  </p>
-</article>
-
-<article>
-  <h3>Nicaragua's 2027 elections effectively canceled</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Nicaragua's next national elections, originally set for November 2027, were effectively canceled on July 21 (Euronews).</li>
-    <li>Coverage so far is led by wire and center outlets; deep US partisan commentary is thin, so the framings below reflect each camp's established stance on the Ortega government.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Left-leaning outlets that track Latin America, such as The Guardian, typically frame moves like this as democratic backsliding and authoritarian consolidation under Daniel Ortega, warning of a fresh crackdown on dissent.</p>
-  <p><strong>Right view</strong></p>
-  <p>Conservative outlets like National Review generally cite Nicaragua as a cautionary tale about entrenched leftist regimes, using it to argue for sustained US sanctions and pressure.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Watch for new US or EU sanctions, OAS statements, and any uptick in Nicaraguan migration northward — the most likely downstream US-facing effect.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-midday">Euronews</a>
-    <a href="https://www.npr.org/sections/world/">NPR</a>
-  </p>
-</article>
-
-<h2>Markets &amp; Economy</h2>
-<ul>
-  <li><strong>S&amp;P 500:</strong> Rose about 0.89% in the prior session, though futures wobbled Wednesday ahead of Alphabet and Tesla earnings after the bell. <strong>Dow:</strong> +0.74%. <strong>Nasdaq:</strong> +1.29%, led by large-cap tech and chips (Yahoo Finance, KuCoin, Bloomberg).</li>
-  <li><strong>Oil:</strong> Brent ~$95.47/bbl and WTI ~$84.29, up on the tenth day of US–Iran strikes, a fresh tanker hit near Hormuz, and disruption at the Caspian Pipeline terminal on Russia's Black Sea coast (Fortune, Forbes).</li>
-  <li><strong>Gas:</strong> US national average climbed back above $4/gal as of July 21, up from ~$3.95 mid-month, driven by the Hormuz crisis; it peaked at $4.55 in May (AAA, LendingTree, Finder).</li>
-  <li><strong>Other:</strong> Fresh tariffs and rising oil keep inflation in focus; Alphabet (GOOG) and Tesla (TSLA) report after today's close — the first big-tech tests of earnings season (Yahoo Finance).</li>
-</ul>
-
-<h2>Sports Watercooler</h2>
-<ul>
-  <li><strong>Golf:</strong> New Zealand's Ryan Fox won the 154th Open Championship at Royal Birkdale (July 16–19) at -10, just the third Kiwi ever to lift the claret jug; Scottie Scheffler and Rory McIlroy trailed (Golf Channel, PGA Tour).</li>
-  <li><strong>Tennis:</strong> The tour rolls through ATP 250s in Kitzbühel and Estoril plus WTA stops in Prague and Hamburg as players build toward the North American hard-court swing; a big name has withdrawn from the Canadian Open (Tennis Connected, Tennis365).</li>
-  <li><strong>Squash:</strong> The World Junior Championships are underway, and the satellite President Squash event wrapped in Dhaka; updated PSA world rankings posted July 20 (PSA Squash Tour, SquashInfo).</li>
-  <li><strong>WWE:</strong> SummerSlam is a two-night event Aug. 1–2 at Minneapolis' U.S. Bank Stadium — Reigns–Rollins, CM Punk–Cody Rhodes, and Lesnar–Oba Femi in Hell in a Cell headline; Punk won the Undisputed title on July 6 (Fightful, Netflix Tudum).</li>
-  <li><strong>Hockey:</strong> A wild NHL offseason continues after Carolina's Cup win — Anaheim made Leo Carlsson the league's highest-paid player, Chicago locked up Connor Bedard (5 yrs, $15M AAV), and Florida added goalie Jacob Markström (ESPN, NHL.com).</li>
-  <li><strong>Soccer:</strong> Spain are World Cup champions; club focus shifts to a huge transfer window — Real Madrid landed Marc Cucurella (€55M), Tottenham signed Mateus Fernandes (~€98M), and the Premier League season opens Aug. 21 (ESPN, Yahoo Sports).</li>
-  <li><strong>Football:</strong> NFL camps are opening — Cardinals and Panthers veterans report July 22 ahead of the Aug. 6 Hall of Fame Game; defending champ Seattle and New England open the season Sept. 9 in a Super Bowl LX rematch (NFL.com, ESPN).</li>
 </ul>]]></content:encoded>
 </item>
 </channel>
