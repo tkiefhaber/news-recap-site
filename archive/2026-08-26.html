@@ -6,7 +6,6 @@
 <meta name="theme-color" content="#fafaf7" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0f0f0e" media="(prefers-color-scheme: dark)">
 <title>Daily News Recap — Wed Aug 26, 2026</title>
-<meta name="recap-date" content="2026-08-26">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📰</text></svg>">
 <style>
 :root{--bg:#fafaf7;--fg:#1a1a1a;--muted:#6b6b66;--border:#e5e5e0;--accent:#c95f3a;--left:#2563eb;--right:#dc2626;--watch:#059669}
@@ -32,7 +31,6 @@ footer a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--b
 <link rel="alternate" type="application/rss+xml" title="Daily News Recap" href="feed.xml">
 </head>
 <body>
-<div class="stale" id="stale-banner"></div>
 <header>
   <p class="eyebrow">Daily News Recap</p>
   <h1 class="date">Wednesday, August 26, 2026</h1>
@@ -228,27 +226,7 @@ footer a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--b
 
 <footer>
   <span>Generated 07:05 ET</span>
-  <a href="archive/">← Archive</a>
+  <a href="../">Latest →</a>
 </footer>
-<script>
-/* Staleness check: if the publish pipeline stops, Cloudflare keeps serving this
-   page unchanged, so the page reports its own age rather than looking current. */
-(function(){
-  var meta=document.querySelector('meta[name="recap-date"]');
-  var el=document.getElementById('stale-banner');
-  if(!meta||!el||!meta.content)return;
-  var p=meta.content.split('-');
-  if(p.length!==3)return;
-  var published=Date.UTC(+p[0],+p[1]-1,+p[2]);
-  var n=new Date();
-  var today=Date.UTC(n.getFullYear(),n.getMonth(),n.getDate());
-  var days=Math.round((today-published)/86400000);
-  if(days<2)return;
-  el.innerHTML='<strong>This recap is '+days+' days old.</strong>'+
-    'The daily publish job may have stopped — the newest recap here is dated '+
-    meta.content+'.';
-  el.style.display='block';
-})();
-</script>
 </body>
 </html>
