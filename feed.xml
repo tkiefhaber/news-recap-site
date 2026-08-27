@@ -6,8 +6,178 @@
 <description>A balanced daily brief: the day&#x27;s top stories with straight facts, left and right framings, and expert read on downstream effects. Plus markets and a sports watercooler.</description>
 <language>en-us</language>
 <atom:link href="https://news-recap-site.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 26 Aug 2026 07:00:00 -0400</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 07:00:00 -0400</lastBuildDate>
 <ttl>720</ttl>
+<item>
+<title>Thu Aug 27, 2026 — US shifts from strikes to sanctions on Iran as Oman floats a Hormuz workaround</title>
+<link>https://news-recap-site.pages.dev/archive/2026-08-27.html</link>
+<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-08-27.html</guid>
+<pubDate>Thu, 27 Aug 2026 07:00:00 -0400</pubDate>
+<description>US shifts from strikes to sanctions on Iran as Oman floats a Hormuz workaround · Nvidia&#x27;s blowout quarter lands the night before Warsh&#x27;s first Jackson Hole speech · CIA director&#x27;s secret Moscow trip, and Kyiv is asked to hold its fire · States and the Postal Service scramble to implement Trump&#x27;s mail-voting order</description>
+<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
+
+<article>
+  <h3>US shifts from strikes to sanctions on Iran as Oman floats a Hormuz workaround</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Secretary of State Marco Rubio told several foreign counterparts that the US does not expect to launch new strikes on Iran &ldquo;for the time being,&rdquo; with pressure shifting to economic tools, according to reporting compiled by Just Security's daily brief.</li>
+    <li>The Treasury package — branded &ldquo;Operation Economic Outcast&rdquo; — targets Iranian aviation, shipping, technology, gold and digital assets, and threatens secondary sanctions on countries that keep economic ties to Tehran. Treasury Secretary Scott Bessent has called it an &ldquo;economic D-Day.&rdquo;</li>
+    <li>Iran and Oman say they have discussed a framework for a temporary joint shipping corridor through the Strait of Hormuz as a precursor to a permanent arrangement. Iranian Foreign Minister Abbas Araghchi said the strait will not reopen until Washington eases sanctions and pays war reparations.</li>
+    <li>Oil fell for a third straight session Wednesday on those talks: Brent down about 2.5% to roughly $86.38, WTI down about 2.2% to roughly $80.52.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Al Jazeera quoted analysts describing the sanctions rollout as a sign of desperation after six months of strikes failed to force terms. CNN's political desk made the structural point more bluntly: the strategy only works if it changes China's behavior, and Beijing — Iran's largest trading partner — says the threats will only intensify tensions. NPR and Democracy Now! have emphasized the humanitarian cost inside Iran of a blockade-plus-sanctions squeeze.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News and allied outlets frame the pivot as leverage working as designed — cutting every economic lifeline to force Tehran to the table without additional American casualties. The Wall Street Journal editorial side has argued the risk is not that sanctions are too harsh but that enforcement against Chinese buyers stays symbolic. The Free Press and The Dispatch have been more split, with some writers warning that an open-ended economic war with no defined endpoint is how the US drifted into past quagmires.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Whether the Iran–Oman corridor is actually signed, and on what terms. Energy desks at Reuters and Bloomberg note that traders are already pricing in partial reopening — a confirmed deal could take Brent below $80, while a collapse would put $95 back in play within days. The swing variable is Chinese compliance with secondary sanctions; watch shipments to Shandong teapot refineries as the tell.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html">CNBC</a>
+    <a href="https://www.cnn.com/2026/08/26/politics/iran-sanctions-china">CNN</a>
+    <a href="https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say">Al Jazeera</a>
+    <a href="https://www.justsecurity.org/155288/early-edition-august-26-2026/">Just Security</a>
+    <a href="https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz">Al Jazeera (Hormuz)</a>
+  </p>
+</article>
+
+<article>
+  <h3>Nvidia's blowout quarter lands the night before Warsh's first Jackson Hole speech</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Nvidia reported fiscal Q2 results after Wednesday's close: earnings of $2.22 per share on revenue of $96.2 billion, up roughly 106% year over year and above the $93–95 billion analysts had modeled. The company guided Q3 above expectations.</li>
+    <li>Shares jumped in after-hours trading. The major indexes had closed lower on the day — the S&amp;P 500 essentially flat around 7,676, the Dow off about 0.2%, the Nasdaq slipping.</li>
+    <li>The Kansas City Fed's Jackson Hole symposium runs today through Saturday, themed &ldquo;Financial Innovation: Implications for Payments and Policy.&rdquo; Kevin Warsh, who succeeded Jerome Powell as Fed chair in May, delivers his first keynote as chair Friday at 10:00 a.m. ET.</li>
+    <li>Futures markets put roughly 89% odds on a quarter-point cut at the September 17 FOMC meeting. Core PCE is running near 3.3% year over year, unemployment is 4.1%, payroll growth has slowed to a 12-month average near 34,000 a month, and Q2 GDP came in at 1.5% annualized.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Vox and The Atlantic have pressed the concentration argument: a labor market adding 34,000 jobs a month is close to stall speed, and the headline economy is being propped up by a handful of firms building data centers for each other. NPR's business coverage adds that AI capex is not translating into hiring, which is why consumer sentiment keeps diverging from index levels.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Wall Street Journal editorial board and Reason argue the Fed should not be cutting with core inflation above 3%, and see Warsh — a longtime critic of Fed balance-sheet expansion — as the right person to say so. National Review's finance writers have used Nvidia's numbers as evidence that the AI buildout is a genuine productivity story, not a bubble, and that the risk is regulatory rather than financial.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Warsh's Friday text is the week's biggest market event. Bloomberg reports investors still do not have a clear read on his reaction function; if he declines to validate September, rate-sensitive trades — small caps, homebuilders, the long end of the curve — reprice quickly. On the corporate side, watch whether Nvidia's beat lifts the broader semiconductor complex or just Nvidia, which has been the pattern for three quarters.</p>
+  <p><em>Sources:</em> 
+    <a href="https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html">Yahoo Finance</a>
+    <a href="https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026">Kiplinger</a>
+    <a href="https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair">Bloomberg</a>
+    <a href="https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html">CNBC</a>
+  </p>
+</article>
+
+<article>
+  <h3>CIA director's secret Moscow trip, and Kyiv is asked to hold its fire</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>CIA Director John Ratcliffe flew from Riga to Moscow on Tuesday aboard a US Air Force C-17. The Kremlin confirmed he held talks with Russian intelligence counterparts — a rare visit given the state of relations.</li>
+    <li>Kremlin spokesman Dmitry Peskov said Ratcliffe did not meet Vladimir Putin, that Putin was briefed on contacts held &ldquo;on the intelligence agencies' level,&rdquo; and declined to describe the agenda.</li>
+    <li>A senior Ukrainian official told the Associated Press that Washington notified Kyiv in advance and asked it to suspend strikes on Moscow, St. Petersburg and some northern regions while the delegation was in country. The stated US purpose was to assess whether peace talks can resume.</li>
+    <li>President Trump played the trip down, calling it &ldquo;sort of semi-routine.&rdquo;</li>
+    <li>Separately, former defense chief Mykhailo Fedorov's call for wartime elections continues to pressure Zelenskyy, who said a vote now would be a &ldquo;tsunami&rdquo; that could split the country. Polling cited by Foreign Policy found only about 15% of Ukrainians want elections before hostilities end.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>The Guardian and MSNBC commentators focus on the sequencing: the US asked Ukraine to stop hitting Russian territory before any Russian reciprocity was on the table, which they read as a unilateral concession made through a back channel with limited allied coordination. The Atlantic has argued that intelligence-level diplomacy without a State Department track tends to produce deals that cannot survive contact with Congress or NATO capitals.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Dispatch and National Review make the practical case that intelligence channels are historically how wars actually get wound down, and that a quiet trip is preferable to a summit that locks in positions. On Ukraine's internal politics, The Hill's opinion page and HotAir both argued Fedorov's election push mainly serves Moscow, and that he has overplayed a weak hand given how unpopular a wartime vote is with Ukrainian voters.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Two tells in the next week: whether a formal negotiating round gets scheduled, and whether Ukrainian long-range strikes resume at their prior tempo now that the delegation has left. Analysts quoted by Reuters see the Ratcliffe channel as a probe rather than a breakthrough — the substantive gap on territory and security guarantees has not moved. A Fedorov campaign launch would complicate any US-brokered timeline.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.usnews.com/news/world/articles/2026-08-26/the-kremlin-says-the-cia-director-held-talks-in-moscow-with-his-intelligence-counterparts">AP / US News</a>
+    <a href="https://time.com/article/2026/08/24/volodymyr-zelensky-elections-ukraine-wartime-mykhailo-fedorov/">TIME</a>
+    <a href="https://foreignpolicy.com/2026/08/25/fedorov-ukraine-zelensky-elections/">Foreign Policy</a>
+    <a href="https://www.nbcnews.com/world/ukraine/fedorov-election-video-war-russia-ukraine-zelenskyy-corruption-rcna593284">NBC News</a>
+    <a href="https://thehill.com/opinion/national-security/6038488-fedorov-ukraine-wartime-elections/">The Hill (opinion)</a>
+  </p>
+</article>
+
+<article>
+  <h3>States and the Postal Service scramble to implement Trump's mail-voting order</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>On Monday the Supreme Court voted 6–3 to lift a lower-court injunction blocking parts of Trump's March executive order on mail voting, holding that California and 22 other states lacked standing. The order expressly does not rule on whether the executive order is lawful.</li>
+    <li>What is now permitted to proceed: DHS compiling a federal citizenship list and sharing it with states; the Attorney General prioritizing prosecution of state officials who issue ballots to ineligible voters; and USPS rulemaking governing state mail-ballot designs.</li>
+    <li>A second injunction, from a separate case, remains in place, and the ACLU's challenge is proceeding with respect to the midterms. Election officials in several states spent this week trying to determine what changes, if any, apply before November 3.</li>
+    <li>Justice Ketanji Brown Jackson's dissent said the ruling would create a &ldquo;Kafkaesque nightmare&rdquo; that injects chaos into the midterms.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Mother Jones voting correspondent Ari Berman, speaking on Democracy Now!, argued the order would radically restrict vote-by-mail and that the practical burden falls hardest on voters with disabilities and rural voters who have no realistic in-person alternative. Senate Democratic leader Chuck Schumer called the order blatantly unconstitutional and said the Court declined to stop it. NPR's coverage stressed that state election directors still do not know which rules govern their ballot printing.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News covered the decision as a straightforward win for the administration and for election-integrity advocates who have pushed for citizenship verification. Notably, the right is not unified: Reason's write-up was skeptical, framing federal direction of state ballot design as exactly the centralization conservatives have historically opposed, and several state-level Republican election officials have raised the same objection.</p>
+  <p><strong>Watch for</strong></p>
+  <p>The operational clock. Legal analysts writing at SCOTUSblog and The Conversation note the ruling settled standing, not constitutionality — so the underlying merits fight continues while USPS rulemaking races ballot-printing deadlines that begin in September in most states. If the rules land after printing starts, expect a wave of emergency litigation in October and real variation in what a mail ballot looks like state to state.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.votebeat.org/national/2026/08/24/supreme-court-lifts-stay-trump-executive-order-on-elections-mail-ballot-restrictions/">Votebeat</a>
+    <a href="https://www.scotusblog.com/2026/08/supreme-court-allows-trump-administration-to-move-forward-with-order-imposing-restrictions-on-ma/">SCOTUSblog</a>
+    <a href="https://www.washingtonpost.com/politics/2026/08/24/supreme-court-eases-path-trumps-sweeping-limits-mail-in-balloting/">Washington Post</a>
+    <a href="https://www.foxnews.com/politics/trump-scores-supreme-court-win-mail-in-voting-restrictions-before-midterms">Fox News</a>
+    <a href="https://reason.com/2026/08/25/voting-by-mail/">Reason</a>
+    <a href="https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court">NPR</a>
+  </p>
+</article>
+
+<article>
+  <h3>Record August gas prices become the midterms' loudest number</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>AAA's national average for regular was about $4.10 a gallon as of August 20. The month-to-date average of roughly $4.06 makes this the most expensive August on record, surpassing 2022's $3.97.</li>
+    <li>Gasoline is running roughly 30% above August 2025. Diesel is near $5.47, up about 48% year over year — a freight-cost pass-through that shows up in goods prices with a lag.</li>
+    <li>House Speaker Mike Johnson acknowledged the Iran conflict has been the cause of rising pump prices, while predicting improvement in what he called a new phase of the conflict.</li>
+    <li>Trump has shifted his framing over the month, earlier telling Americans to expect sustained high fuel prices and more recently describing the war's economic toll as a small detour while attributing inflation to Democrats.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>MSNBC and Spotlight PA have made pump prices the center of their midterm coverage, arguing this is the rare economic statistic every voter checks weekly and that Republicans in swing districts have no message for it. Democratic senators including Richard Blumenthal have pushed the administration for an accounting of the war's household cost, tying $4 gas directly to a discretionary conflict.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News has covered the Democratic offensive as opportunism, noting the same members opposed domestic production expansions that would cushion a supply shock. The New York Post and WSJ energy writers argue the binding constraint is refining capacity and permitting, not the war, and that prices fall on their own once Hormuz traffic normalizes. Several conservative commentators have privately conceded, per reporting in The Dispatch, that the number is a genuine political problem regardless of whose fault it is.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Crude's three-day slide should reach the pump in roughly two to four weeks if it holds — energy analysts generally cite that lag. Labor Day travel demand is the near-term test. The number to watch politically is whether the national average drops back under $4 before early voting begins in October; if it does not, expect it to headline every closing ad in a swing district.</p>
+  <p><em>Sources:</em> 
+    <a href="https://gasprices.aaa.com/high-crude-oil-prices-push-up-national-average/">AAA</a>
+    <a href="https://www.foxnews.com/politics/democrats-pounce-4-gallon-gas-blame-trumps-iran-war-broken-promise.amp">Fox News</a>
+    <a href="https://www.ms.now/news/high-gas-prices-republicans">MSNBC</a>
+    <a href="https://www.spotlightpa.org/news/2026/05/republicans-gas-prices-trump-surge-iran-federal-government/">Spotlight PA</a>
+    <a href="https://www.jalopnik.com/2239434/august-2026-gas-prices-set-new-record/">Jalopnik</a>
+  </p>
+</article>
+
+<article>
+  <h3>Haiti's largest mass kidnapping in years follows an attack that killed 47</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The United Nations says at least 47 people were killed and more than 50 kidnapped when armed men attacked Kenscoff, a community in the hills above Port-au-Prince, on Sunday.</li>
+    <li>It is believed to be the largest mass kidnapping in Haiti in recent years. Kenscoff had until recently been considered one of the safer areas near the capital.</li>
+    <li>In a video posted to social media, a gang leader threatened to kill the hostages if any of his fighters are harmed, addressing Haitian National Police director Vladimir Paraison directly.</li>
+    <li>Romain Le Cour of the Global Initiative Against Transnational Organized Crime described the situation as a major political and security test, noting the hostage threat is designed as a trap: inaction means failing to protect hostages, while a raid that goes wrong lets gangs blame the state.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and The Guardian have framed this as the predictable result of an underfunded and understaffed international support mission, and have pressed on the gap between pledged and delivered support. Coverage has emphasized displacement figures and the collapse of basic services rather than a security-first framing.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Washington Times and New York Post have led with the security and spillover angle — migration pressure on the region, and the argument that successive internationally backed missions have failed to produce a functioning Haitian state. National Review writers have used Haiti as a case against open-ended nation-building commitments.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Whether Haitian police attempt a rescue, and how the UN Security Council responds on mission funding, which has repeatedly stalled. Regional analysts expect renewed migration pressure toward the Dominican Republic and the US within weeks if Kenscoff residents flee en masse — a dynamic with obvious US political resonance in an election year.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead">NPR</a>
+    <a href="https://www.washingtontimes.com/news/2026/aug/25/50-kidnapped-violent-gang-attack-haiti-leaves-47-dead/">Washington Times</a>
+    <a href="https://www.usnews.com/news/world/articles/2026-08-25/more-than-50-kidnapped-after-violent-gang-attack-in-haiti-leaves-47-dead">AP / US News</a>
+  </p>
+</article>
+
+<h2>Markets &amp; Economy</h2>
+<ul>
+  <li><strong>S&amp;P 500:</strong> closed essentially flat near 7,676 Wednesday. <strong>Dow:</strong> off about 0.2%, ending a three-day win streak. <strong>Nasdaq:</strong> lower, with the Nasdaq 100 down roughly 0.5% ahead of Nvidia. Nvidia jumped after hours on a $96.2B quarter and a strong Q3 guide.</li>
+  <li><strong>Oil:</strong> third straight decline. Brent about $86.38 (−2.5%), WTI about $80.52 (−2.2%), on reports Iran and Oman are negotiating a temporary Hormuz shipping corridor.</li>
+  <li><strong>Gas:</strong> AAA national average near $4.10; the August month-to-date average of about $4.06 is the highest August on record. Diesel around $5.47, up roughly 48% year over year.</li>
+  <li><strong>Other:</strong> futures put roughly 89% odds on a quarter-point cut September 17. Core PCE near 3.3% y/y, unemployment 4.1%, 12-month average payroll growth about 34,000/month, Q2 GDP 1.5% annualized. Jackson Hole runs today through Saturday; Warsh speaks Friday at 10:00 a.m. ET.</li>
+</ul>
+
+<h2>Sports Watercooler</h2>
+<ul>
+  <li><strong>Golf:</strong> Tour Championship begins today at East Lake. Top 30 in FedEx Cup points, no staggered starting strokes under the revised format — 72 holes, level footing. Scottie Scheffler is the No. 1 seed and already banked roughly $23 million in bonus money after the BMW; Ryan Fox is No. 30. Wyndham Clark arrives off last week's win and is tied with Matt Fitzpatrick and Chris Gotterup for most wins this year at three. Tommy Fleetwood, Ludvig Åberg, Xander Schauffele, Si Woo Kim and Sam Burns are all top-12 seeds still looking for a first 2026 title.</li>
+  <li><strong>Tennis:</strong> US Open qualifying wraps at Flushing Meadows this week; the main draw opens Sunday, August 30. The field took a hit — eight ATP players have withdrawn, including Jannik Sinner with a knee injury, which reshapes the top half of the men's draw.</li>
+  <li><strong>Squash:</strong> the PSA season opened with the CIB Zed Squash Open in Cairo, running August 24–28. Bigger structural news: PSA moves to weekly world rankings starting Saturday, August 29, replacing monthly updates — so results in Cairo from Salma Hany, Nour El Tayeb, Youssef Soliman and Victor Crouin show up in the table almost immediately.</li>
+  <li><strong>WWE:</strong> Raw came from the Canadian Tire Centre in Ottawa Monday with Seth Rollins in the main event, plus Stephanie Vaquer vs. Roxanne Perez and World Heavyweight Championship contender tournament matches. Fightful and Slam Wrestling report AJ Lee is expected to wrestle again despite being off television since WrestleMania 42, and that Blake Monroe could make her main-roster in-ring debut against Giulia at Sunday Night's Main Event on September 6.</li>
+  <li><strong>Hockey:</strong> quiet late-August, but the Flyers' five-year, $18 million-per-season offer sheet on Anaheim center Leo Carlsson is still outstanding and is the offseason's biggest open question. Montreal locked up Ivan Demidov on an eight-year extension at $9.15 million AAV. Connor Hellebuyck and Dylan Larkin top the trade boards heading into camp.</li>
+  <li><strong>Soccer:</strong> Premier League deadline day is Tuesday, September 1 at 23:00 BST. Chelsea's roughly €138 million move for Morgan Rogers is the summer's biggest deal; Spurs paid about £100 million for Sandro Tonali, Manchester City added Elliot Anderson from Forest, and Arsenal took Ezri Konsa from Villa. Early table: Arsenal opened with a 3–0 win over Coventry, City beat Bournemouth, and Manchester United stumbled against Hull City.</li>
+  <li><strong>Football:</strong> NFL rosters must be down to 53 by Sunday, August 30 — roughly 1,184 players will be released league-wide from 90-man rosters, with many returning on practice squads. Churn has already started: New England traded Kayshon Boutte and Arizona cut running back Trey Benson. The final preseason week ends Saturday.</li>
+</ul>]]></content:encoded>
+</item>
 <item>
 <title>Wed Aug 26, 2026 — Tanker hit in the Strait of Hormuz as Bessent&#x27;s sanctions campaign widens</title>
 <link>https://news-recap-site.pages.dev/archive/2026-08-26.html</link>
@@ -4713,161 +4883,6 @@
   <li><strong>Hockey:</strong> A busy NHL offseason after Carolina's first Stanley Cup since 2006; No. 1 pick Gavin McKenna signed with Toronto amid heavy free-agency and trade churn.</li>
   <li><strong>Soccer:</strong> The summer transfer window is open (English window June 15–Aug 31); ESPN is grading the biggest men's signings so far.</li>
   <li><strong>Football:</strong> All 32 NFL teams have opened training camp; the Cardinals and Panthers reported first ahead of the Aug 6 Hall of Fame Game.</li>
-</ul>]]></content:encoded>
-</item>
-<item>
-<title>Tue Jul 28, 2026 — Netanyahu meets Trump at the White House with Iran and Gaza on the table</title>
-<link>https://news-recap-site.pages.dev/archive/2026-07-28.html</link>
-<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-07-28.html</guid>
-<pubDate>Tue, 28 Jul 2026 07:00:00 -0400</pubDate>
-<description>Netanyahu meets Trump at the White House with Iran and Gaza on the table · AI stocks slide as Nvidia weighs a $250B backstop for OpenAI · Gas near $4 becomes a midterm liability for Republicans · Zelenskyy meets Britain&#x27;s new PM as Ukraine war grinds on</description>
-<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
-
-<article>
-  <h3>Netanyahu meets Trump at the White House with Iran and Gaza on the table</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Israeli PM Benjamin Netanyahu meets Trump in the Oval Office today — their first face-to-face since the US-Iran war began. He's also in Washington for Sen. Lindsey Graham's funeral at the National Cathedral.</li>
-    <li>The US and Iran have held fire for a third straight day. Qatar and Pakistan are shuttling messages; mediators floated a 10-day pause to revive an interim memorandum of understanding.</li>
-    <li>Reporting (Times of Israel, Haaretz) says the White House was reluctant to schedule the meeting until Israel offered a tangible step — its security cabinet approved limited entry of an international stabilization force into Gaza, backing Trump's 20-point plan.</li>
-    <li>Trump is weighing whether to expand strikes on Iran or lock in a diplomatic off-ramp over the Strait of Hormuz and Iran's nuclear program.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Outlets like Al Jazeera and coverage cited by NPR frame the pause as vindication for restraint: the war has driven up gas prices and troop risk with no clear endgame, and Democrats have pushed (unsuccessfully) to require congressional authorization. The emphasis is on reaching a durable ceasefire and humanitarian relief in Gaza.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News and allied voices stress Trump saying the US is "winning big time" and that Iran must never get a nuclear weapon "with a deal or without a deal." Hawks worry a premature truce leaves Iran's enrichment capacity intact. Notably, even a Fox News poll shows 56% of voters oppose military action and Trump's disapproval on Iran hit a record 66% — a strain the right acknowledges.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Whether today's meeting yields a joint signal on the MoU or, instead, a green light for broader strikes. Analysts tie the next move directly to oil and gas prices (see below) and to GOP midterm exposure. A Gaza stabilization-force deployment could become the visible "win" both leaders point to.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.usnews.com/news/world/articles/2026-07-28/netanyahus-first-meeting-with-trump-since-the-iran-war-began-is-a-chance-to-smooth-over-strains">US News</a>
-    <a href="https://www.timesofisrael.com/liveblog-july-27-2026/">Times of Israel</a>
-    <a href="https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day">Al Jazeera</a>
-    <a href="https://www.foxnews.com/live-news/us-war-strikes-talks-iran-strait-hormuz-warning-russia-ukraine-july-27">Fox News</a>
-    <a href="https://foreignpolicy.com/2026/07/27/netanyahu-trump-visit-israel-iran-war-elections-mamdani-united-nations/">Foreign Policy</a>
-  </p>
-</article>
-
-<article>
-  <h3>AI stocks slide as Nvidia weighs a $250B backstop for OpenAI</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Nvidia is reportedly in talks to guarantee up to $250 billion in financing tied to OpenAI's data-center buildout — including a 10-gigawatt project in southern Ohio developed by SoftBank's SB Energy. Total spend could top $500 billion.</li>
-    <li>Nvidia fell about 5% to roughly $196 and slipped further overnight; AMD dropped ~8%. Chip weakness pulled the Nasdaq lower.</li>
-    <li>The sell-off deepened globally: South Korea's Kospi tumbled more than 10% as SK Hynix and Samsung sank double digits.</li>
-    <li>Bears including Jim Chanos and Michael Burry flagged the "circular" structure — Nvidia effectively financing buyers of its own chips.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Vox- and Atlantic-style commentary casts this as evidence the AI boom is propped up by financial engineering rather than real cash flow — a concentration risk that could hit ordinary 401(k)s if the trade unwinds. Concern about a few mega-caps carrying the whole market is front and center.</p>
-  <p><strong>Right view</strong></p>
-  <p>Market-oriented outlets (WSJ, CNBC, Reason-adjacent commentators) split: some see healthy price discovery and legitimate worry about vendor financing; others argue this is a normal capex supercycle and that cheap Chinese open-source models, not accounting, are the real threat to US chip demand. The framing leans "let markets sort it out."</p>
-  <p><strong>Watch for</strong></p>
-  <p>Whether other AI names disclose similar vendor-financing arrangements, and Nvidia's next earnings guidance. Strategists warn that with a handful of stocks driving index gains, a sustained AI repricing could drag the S&amp;P and Nasdaq even as the broader economy holds.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html">CNBC</a>
-    <a href="https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-moves-backstop-250-015059079.html">Yahoo Finance</a>
-    <a href="https://www.benzinga.com/markets/equities/26/07/60689552/jim-chanos-says-nvidia-is-effectively-financing-its-own-ai-chip-sales-in-reported-openai-deal">Benzinga</a>
-    <a href="https://www.cnbc.com/2026/07/28/daily-open-ai-boom-chip-selloff-sk-hynix.html">CNBC Daily Open</a>
-  </p>
-</article>
-
-<article>
-  <h3>Gas near $4 becomes a midterm liability for Republicans</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>The national average hit about $4.09/gal on July 23 after jumping ~15 cents, up sharply from a year ago; the war with Iran and Hormuz risk have kept energy elevated.</li>
-    <li>Trump traveled to Michigan to promote his economic agenda as Republicans worry rising prices hurt them in November.</li>
-    <li>Polling cited by NPR and others: 51% blame Trump most for current gas prices; 59% say higher pump prices forced them to cut back spending.</li>
-    <li>Regional spread is wide — California around $5.20, Texas near $3.37.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR, Axios and The Hill frame this as a broken campaign promise — Trump pledged sub-$2 gas within a year — now colliding with a war he escalated. The narrative: inflation is his weakest issue and Democrats are gaining a midterm edge on pocketbook anxiety.</p>
-  <p><strong>Right view</strong></p>
-  <p>Right-leaning outlets (ZeroHedge, conservative economic writers) argue the spike is largely a geopolitical oil-price shock, not domestic policy, and that prices had been drifting down before combat reignited. Some press for more domestic production and a quick, decisive end to the Hormuz threat to relieve prices.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Pump prices track the Iran off-ramp almost directly — a credible ceasefire could ease oil and gas within weeks, while expanded strikes risk another leg up. Expect both parties to hammer gas prices through the fall; watch AAA's weekly average and crude's reaction to today's Trump-Netanyahu readout.</p>
-  <p><em>Sources:</em> 
-    <a href="https://newsroom.aaa.com/2026/07/gas-prices-keep-climbing-national-average-jumps-15-cents/">AAA Newsroom</a>
-    <a href="https://www.axios.com/2026/07/19/gas-prices-iran-war-trump-election">Axios</a>
-    <a href="https://www.npr.org/2026/05/06/nx-s1-5810555/trump-iran-gas-prices-midterms-polling">NPR</a>
-    <a href="https://thehill.com/homenews/administration/5943334-trump-republicans-inflation-gas-prices-midterms/">The Hill</a>
-  </p>
-</article>
-
-<article>
-  <h3>Zelenskyy meets Britain's new PM as Ukraine war grinds on</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Ukrainian President Volodymyr Zelenskyy met new UK Prime Minister Andy Burnham on Monday — Burnham's first hosted foreign leader after taking office a week ago.</li>
-    <li>The two met aboard a British aircraft carrier, where Burnham pledged to honor every commitment Britain has made to Ukraine.</li>
-    <li>The war has now outlasted four British prime ministers.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>The Guardian and BBC coverage emphasizes continuity of Western support and the symbolism of a new government reaffirming aid amid war fatigue and stretched budgets.</p>
-  <p><strong>Right view</strong></p>
-  <p>Right-leaning commentators question open-ended commitments and press for a clear strategy and burden-sharing, especially with the US preoccupied by Iran and European finances tight.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Whether Burnham's pledge translates into concrete new capabilities, and how a distracted Washington affects the aid picture. Any movement toward negotiations would reverberate across European defense budgets.</p>
-  <p><em>Sources:</em> 
-    <a href="https://wng.org/podcasts/the-world-and-everything-in-it-july-28-2026-1785181631">WORLD</a>
-    <a href="https://www.bbc.com/news">BBC News</a>
-  </p>
-</article>
-
-<article>
-  <h3>US and Saudi Arabia announce a civil-nuclear energy agreement</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>A new US-Saudi nuclear energy agreement was announced, part of the broader diplomatic push tied to Netanyahu's visit and regional realignment.</li>
-    <li>Saudi normalization with Israel and security guarantees have been recurring threads in the Trump-Netanyahu talks.</li>
-    <li>Details on enrichment terms and safeguards were not fully public at announcement.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Left-leaning arms-control voices raise proliferation concerns — any Saudi enrichment or weak safeguards could spur a regional nuclear race, especially amid the Iran standoff.</p>
-  <p><strong>Right view</strong></p>
-  <p>Conservatives frame it as strategic: locking Riyadh into a US-supplied program (rather than Chinese or Russian) advances American influence and could grease Saudi-Israel normalization.</p>
-  <p><strong>Watch for</strong></p>
-  <p>The fine print on enrichment and inspections, and whether it's bundled with a normalization framework. Congress could scrutinize any "123 Agreement" terms. Mainstream detail is still thin — worth watching as more emerges.</p>
-  <p><em>Sources:</em> 
-    <a href="https://wng.org/podcasts/the-world-and-everything-in-it-july-28-2026-1785181631">WORLD</a>
-    <a href="https://www.jta.org/2026/07/27/israel/netanyahu-to-meet-trump-with-iran-gaza-and-saudi-arabia-on-the-line">JTA</a>
-  </p>
-</article>
-
-<article>
-  <h3>Cracker Barrel CEO steps down a year after failed rebrand</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Cracker Barrel's CEO is stepping down roughly a year after a costly rebranding effort that flopped; David Deno takes over.</li>
-    <li>The reversal followed customer backlash and weak results tied to the redesign.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Business coverage treats it mostly as a straightforward turnaround story — a leadership change to stabilize brand identity and win back core customers.</p>
-  <p><strong>Right view</strong></p>
-  <p>Some right-leaning commentators cite it as a cautionary tale about brands chasing modern makeovers and alienating their traditional base.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Deno's first strategic moves, guidance on same-store sales, and whether the chain fully unwinds the rebrand. A lighter item, but a useful read on consumer sentiment amid pricier gas and groceries.</p>
-  <p><em>Sources:</em> 
-    <a href="https://wng.org/podcasts/tuesday-morning-news-july-28-2026-1785181632">WORLD</a>
-  </p>
-</article>
-
-<h2>Markets &amp; Economy</h2>
-<ul>
-  <li><strong>S&amp;P 500:</strong> ~7,400, roughly flat to slightly lower (prior close 7,413). <strong>Dow:</strong> closed July 27 at 52,210 (+0.51%); futures modestly higher. <strong>Nasdaq:</strong> 24,932 at last close, under pressure as chips sell off (futures ~-0.8%).</li>
-  <li><strong>Oil:</strong> Retreating as the US-Iran pause holds and diplomatic talk resumes; crude off recent war-driven highs.</li>
-  <li><strong>Gas:</strong> National average ~$4.09/gal (July 23), near the $4 line; West Coast ~$4.83, Gulf Coast ~$3.42.</li>
-  <li><strong>Other:</strong> Global chip rout — Kospi -10%+, SK Hynix and Samsung down double digits — on the Nvidia/OpenAI financing story and China AI-cost fears.</li>
-</ul>
-
-<h2>Sports Watercooler</h2>
-<ul>
-  <li><strong>Golf:</strong> 21-year-old Jackson Koivun won the 3M Open in just his third pro start, closing at 25-under to hold off world No. 1 Scottie Scheffler by three; McCarthy, Matsuyama and Harman tied third.</li>
-  <li><strong>Tennis:</strong> The Mubadala DC Open (combined ATP/WTA 500) is underway in Washington, July 27-Aug 2, with a field including de Minaur and Fritz.</li>
-  <li><strong>Squash:</strong> Diego Elias became the first South American to win the PSA Squash Tour Finals — the 23rd title of his career; the tour rolls on with events in Valencia and Budapest next month.</li>
-  <li><strong>WWE:</strong> Final SummerSlam build — on Monday's Raw, Seth Rollins stomped champ Roman Reigns ahead of their match; the two-night SummerSlam is Aug 1-2 at U.S. Bank Stadium, headlined by CM Punk vs. Cody Rhodes and Lesnar vs. Oba Femi in a Hell in a Cell.</li>
-  <li><strong>Hockey:</strong> NHL offseason — the trade tracker is churning; the 2026-27 schedule features Carolina raising its Stanley Cup banner, with Vegas and Dallas among Western contenders.</li>
-  <li><strong>Soccer:</strong> Post-World Cup (Spain beat Argentina for the title July 19), the Premier League transfer window is busy — Morgan Rogers to Chelsea, Tielemans to Man United, Cucurella to Real Madrid; new EPL season kicks off Aug 22.</li>
-  <li><strong>Football:</strong> NFL training camps are opening across the league as teams ramp toward the preseason.</li>
 </ul>]]></content:encoded>
 </item>
 </channel>
