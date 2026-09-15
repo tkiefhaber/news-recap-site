@@ -6,8 +6,208 @@
 <description>A balanced daily brief: the day&#x27;s top stories with straight facts, left and right framings, and expert read on downstream effects. Plus markets and a sports watercooler.</description>
 <language>en-us</language>
 <atom:link href="https://news-recap-site.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 14 Sep 2026 07:00:00 -0400</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 07:00:00 -0400</lastBuildDate>
 <ttl>720</ttl>
+<item>
+<title>Tue Sep 15, 2026 — 10-year Treasury hits 5% as the Fed opens a meeting markets expect to end in a rate hike</title>
+<link>https://news-recap-site.pages.dev/archive/2026-09-15.html</link>
+<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-09-15.html</guid>
+<pubDate>Tue, 15 Sep 2026 07:00:00 -0400</pubDate>
+<description>10-year Treasury hits 5% as the Fed opens a meeting markets expect to end in a rate hike · Trump rejects the AI industry&#x27;s own call for a slowdown · Supreme Court blocks Trump&#x27;s mail-ballot rules for the midterms · EPA repeals power plant climate rules — and moves to bar future ones</description>
+<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
+
+<article>
+  <h3>10-year Treasury hits 5% as the Fed opens a meeting markets expect to end in a rate hike</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The 10-year Treasury yield touched 5.0% on Monday before easing back — its highest since October 2023, and a level otherwise unseen since 2007. It traded near 5.04% early Tuesday.</li>
+    <li>The FOMC's two-day meeting begins today, with the decision and Chair Kevin Warsh's press conference Wednesday afternoon. Futures put the odds of a 25bp hike around 90%. The target range has sat at 3.50%–3.75% since a divided 9–3 hold in July.</li>
+    <li>It would be the Fed's first increase since 2023. August CPI came in at +0.4% for the month and 3.4% year over year, with core at +0.3%; energy did most of the work. Goldman Sachs flipped its call from hold to hike after that print.</li>
+    <li>Stocks closed lower Monday on a chip selloff, and futures were down again Tuesday morning.</li>
+    <li>The average 30-year fixed mortgage rate rose to 6.76% last week, up from 6.15% at the start of the year.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and CNN Business frame the yield move as the bill coming due for an energy shock the administration's Iran policy helped create — households face higher mortgage, auto and card costs for a war they didn't vote for. Commentators on the left also note the political trap: the Fed is being asked to raise rates into a midterm year, and the White House spent the past 18 months arguing rates should be lower.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Wall Street Journal editorial page and Washington Times coverage put the emphasis on inflation being above target since the Biden years and argue Warsh's credibility depends on acting rather than talking. Analysts at CNBC framed the same point more bluntly: having warned about prices for months, a hold now would revive questions about who is actually setting Fed policy.</p>
+  <p><strong>Watch for</strong></p>
+  <p>The dot plot lands with the decision Wednesday and is the real signal — one hike or a series. Bloomberg reported strategist Brian Barrow, who called 5% early, expects the selloff to run further. If yields hold above 5%, expect knock-on pressure in mortgages, regional bank balance sheets and highly levered corporate credit, plus a stronger dollar that squeezes emerging-market borrowers. Watch also whether Trump attacks the decision publicly; he has pressured the Fed repeatedly.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html">CNBC</a>
+    <a href="https://www.cnn.com/2026/09/14/investing/bond-yields-market-turmoil">CNN Business</a>
+    <a href="https://www.bloomberg.com/news/articles/2026-09-14/strategist-who-foresaw-10-year-treasuries-at-5-says-selloff-isn-t-done-yet">Bloomberg</a>
+    <a href="https://www.washingtontimes.com/news/2026/sep/11/prices-climbed-slightly-august-fed-weighs-interest-rate-increase/">Washington Times</a>
+    <a href="https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026">Kiplinger</a>
+  </p>
+</article>
+
+<article>
+  <h3>Trump rejects the AI industry's own call for a slowdown</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Anthropic CEO Dario Amodei published a roughly 3,800-word essay Saturday arguing the race to build frontier AI needs to slow, with international coordination and new government rules, because safety work is falling behind capability.</li>
+    <li>OpenAI's Sam Altman said companies need to pace the frontier; Elon Musk said Amodei was right; Google DeepMind's Demis Hassabis called the direction correct.</li>
+    <li>Trump rejected the idea on Truth Social Monday, writing that the only guardrail AI needs is a strong, smart president, and later warning against killing the golden goose. He compared the warnings to past climate alarm and called the push against AI data centers a conspiracy.</li>
+    <li>The Washington Post reported that Anthropic, OpenAI and Google have discussed creating a new joint AI safety body.</li>
+    <li>Congress is not moving quickly. A Republican proposal for a 10-year moratorium on state AI regulation remains live; Amodei has called that approach too blunt.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and CNN frame this as the president siding with growth over catastrophic-risk warnings coming from the builders themselves — the unusual fact being that the people asking for brakes are the ones with the most to lose. Left-leaning commentary ties it to the departure of the US AI Safety Institute's head and argues the administration has hollowed out federal capacity to evaluate the models it is cheering on.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News casts Trump as defending American competitiveness against China, on the logic that a US slowdown is a Chinese speedup. But the right is split: Reason argues the executives asking for international regulation could simply slow down on their own and don't need Washington to do it, and Townhall warns that federal rules would hand incumbents a government-protected moat. The libertarian critique and the nationalist one land in the same place — no new federal AI regime.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Whether the voluntary safety body materializes with real commitments or stays a talking point; whether the state-preemption moratorium gets attached to a moving vehicle in Congress before the midterms; and whether AI capex sentiment cracks — Monday's chip selloff showed the debate now moves semiconductor prices, not just op-ed pages. Data-center siting fights at the state and local level are the near-term flashpoint.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html">CNBC</a>
+    <a href="https://www.foxnews.com/politics/trump-unloads-tech-titans-pushing-slowdown-emerging-industry-whoever-wins-ai-wins">Fox News</a>
+    <a href="https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown">NPR</a>
+    <a href="https://www.cnn.com/2026/09/13/politics/ai-washington-regulation-politics-obama-trump">CNN</a>
+    <a href="https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei">Axios</a>
+    <a href="https://reason.com/2026/09/14/ai-executives-want-international-regulation-they-could-just-slow-down-themselves/">Reason</a>
+    <a href="https://www.washingtonpost.com/technology/2026/09/14/anthropic-openai-google-discussed-creating-new-ai-safety-body/">Washington Post</a>
+  </p>
+</article>
+
+<article>
+  <h3>Supreme Court blocks Trump's mail-ballot rules for the midterms</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The Supreme Court on Monday declined to lift lower-court injunctions against Trump's March executive order directing the Postal Service to impose uniform ballot and envelope requirements in federal elections.</li>
+    <li>The order would also have required states to hand USPS lists of mail and absentee voters 60 days before Election Day, and would have let the Postal Service decline to deliver ballots that did not conform.</li>
+    <li>Justice Brett Kavanaugh wrote that applying the rule to the 2026 elections would be arbitrary and capricious, because state and local election officials lack time to implement it.</li>
+    <li>Roughly two dozen Democratic-led states sued in April; both cases went to the same federal judge in Boston, who enjoined the order. A second judge issued a separate block on Sept. 3.</li>
+    <li>The ruling is about timing for this cycle, not a final judgment on the order's legality. An earlier decision in August had let other parts of the order take effect.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and CNN report it as a significant defeat for an effort that would have given the Postal Service unprecedented power to withhold millions of ballots, and note the practical relief for election administrators who have been planning under uncertainty since spring. Democratic state AGs are presenting it as proof the courts still function as a check.</p>
+  <p><strong>Right view</strong></p>
+  <p>Coverage on the right emphasizes that the Court ruled on timing and implementability, not on the merits of uniform federal ballot standards, and that the administration retains the parts of the order already cleared in August. Conservative election-integrity groups argue the underlying goal — consistent ballot handling across states — survives and returns after November.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Election officials now finalize mail-ballot procedures under existing state law, which removes a major operational unknown roughly seven weeks out. The merits litigation continues and could reach the Court after the midterms. Expect the administration to look for narrower administrative routes at USPS in the meantime, and expect mail-ballot rules to remain a live campaign theme in close Senate races.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump">NPR</a>
+    <a href="https://www.cnn.com/2026/09/14/politics/supreme-court-rejects-trump-plan-to-limit-mail-in-voting-in-midterms">CNN</a>
+    <a href="https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html">CNBC</a>
+    <a href="https://thehill.com/regulation/court-battles/6087668-second-judge-freeze-donald-trump-usps-mail-in-voting-restrictions-midterms/">The Hill</a>
+    <a href="https://theconversation.com/why-the-supreme-court-blocked-trump-and-the-postal-service-from-restricting-mail-in-voting-for-the-midterms-291319">The Conversation</a>
+  </p>
+</article>
+
+<article>
+  <h3>EPA repeals power plant climate rules — and moves to bar future ones</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>EPA announced Monday it is repealing the Biden-era greenhouse gas standards for coal- and gas-fired power plants, which required certain coal plants to cut emissions 90% by 2032 and new gas plants to offset most of theirs.</li>
+    <li>In a separate but linked action, the agency proposes to find that the Clean Air Act does not authorize EPA to regulate power-plant greenhouse gases for climate purposes at all — a step intended to constrain future administrations.</li>
+    <li>EPA estimates the rescission saves consumers $310 billion.</li>
+    <li>The Natural Resources Defense Council said within hours it will sue to block the repeal.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and the Washington Post lead on the second action as the more consequential one: repealing a rule is ordinary policy reversal, but declaring the authority itself nonexistent is an attempt to take the question off the table permanently. Environmental groups dispute the $310 billion figure as counting compliance costs while ignoring health and climate damages.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Daily Signal and allied outlets frame it as a legal correction — the agency conceding it exceeded statutory authority rather than making a policy choice — and tie it to electricity reliability and price, an argument with extra force while gas and power demand rise alongside AI data-center buildout. The savings estimate is presented as relief for ratepayers.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Litigation is certain and the authority question is squarely aimed at the Supreme Court's major-questions line of cases; a ruling endorsing EPA's reading would outlast this administration. Near term, watch utility capital plans and coal retirement schedules, several of which were built around the 2032 deadline, and watch whether states with their own carbon rules move to fill the gap.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.washingtonpost.com/climate-environment/2026/09/14/epa-plans-scrap-biden-era-rules-that-limit-power-plant-climate-emissions/">Washington Post</a>
+    <a href="https://www.npr.org/2026/09/15/nx-s1-5968872/epa-rolls-back-biden-era-rules-for-power-plants-that-limit-greenhouse-gas-emissions">NPR</a>
+    <a href="https://www.dailysignal.com/2026/09/14/epa-moves-scrap-biden-power-plant-rule-saying-federal-law-doesnt-allow-climate-change-regulations/">Daily Signal</a>
+    <a href="https://www.local10.com/business/2026/09/14/epa-eliminates-rule-that-limits-planet-warming-greenhouse-gas-emissions-from-power-plants/">AP</a>
+  </p>
+</article>
+
+<article>
+  <h3>Russian drone hits Warsaw-bound train two kilometers from Poland</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>A Russian strike drone hit the locomotive of a Warsaw-bound passenger train in Ukraine's Volyn region Sunday, about two kilometers from the Polish border near the Yahodyn crossing.</li>
+    <li>The train carried 206 passengers. There were no casualties; a monitoring team's advance warning is credited.</li>
+    <li>Passengers included EU security advisers and former UK Prime Minister Boris Johnson. Former CIA Director David Petraeus was reportedly on another train at the station.</li>
+    <li>Polish authorities identified the weapons as jet-powered Geran-5 drones. Ukraine and Poland called the strike an escalation.</li>
+    <li>NATO Secretary-General Mark Rutte pledged additional support for Kyiv. Allies committed €70 billion in military aid for 2026 at the Ankara summit and have pledged to match it in 2027; over $10 billion has flowed through PURL and US foreign military sales in the past year.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>The Guardian and France 24 present the strike as deliberate signaling at a NATO border rather than a stray, pointing to the Yahodyn rail gateway's role as the main EU–Ukraine supply artery and to who was aboard. The argument is that incremental probing works unless allies make the cost explicit, and that European air defense commitments have lagged the rhetoric.</p>
+  <p><strong>Right view</strong></p>
+  <p>Right-leaning coverage is split. Hawks at National Review-style outlets read it as confirmation that Moscow escalates when it senses hesitancy and push for tighter Article 4 consultations. Restraint-minded outlets argue the near-miss is precisely why the US should press harder for a negotiated end rather than deepen exposure, and note that a strike with no casualties is being used to justify open-ended commitments.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Whether Poland invokes Article 4 consultations again, and whether allies extend air-defense coverage over western Ukrainian rail corridors — a step that edges toward direct involvement. Insurance and freight rates on the Ukraine–EU rail route are the practical tell. Also watch for movement on the stalled US-brokered proposal that envoys carried between Moscow and Kyiv earlier this month.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.france24.com/en/europe/20260913-poland-ukraine-slam-russian-strikes-near-border-as-escalation">France 24</a>
+    <a href="https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train">Al Jazeera</a>
+    <a href="https://nato.int/en/news-and-events/articles/news/2026/09/08/nato-secretary-general-welcomes-new-support-for-ukraine-urges-nations-to-continue-to-step-up">NATO</a>
+    <a href="https://www.allsides.com/news/2026-09-14-0700/ukraine-war-attack-drone-hits-warsaw-bound-passenger-train-near-polish-border-raising-nato-spillover-risk">AllSides</a>
+  </p>
+</article>
+
+<article>
+  <h3>Pennsylvania measles outbreak nears 700 cases with a third death under review</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Pennsylvania's health department confirmed 693 measles cases across 38 counties as of Monday, up from 624 a week earlier and 460 earlier in the outbreak.</li>
+    <li>More than 130 people have been hospitalized. The state has confirmed two measles-associated deaths this year; a third — an adult woman with underlying health problems — is under review. Two infants died last month of related complications.</li>
+    <li>Four vaccinated people have contracted the disease: three adults and one child. Two MMR doses are about 97% effective, and breakthrough cases are typically milder.</li>
+    <li>The department has run more than 100 pop-up vaccination clinics, including in churches, community centers and homes.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and CNN tie the outbreak's size to falling MMR coverage and to federal messaging that has softened on vaccine recommendations, arguing that state health departments are absorbing the consequences of a national retreat. The breakthrough cases are presented carefully — evidence of how much virus is circulating, not of vaccine failure.</p>
+  <p><strong>Right view</strong></p>
+  <p>Right-leaning outlets have given the outbreak lighter coverage, focusing on local response and on the breakthrough infections as reason for candor about vaccine limits rather than mandates. Some argue the deaths involved people with serious underlying conditions and that the policy response should be targeted protection of the vulnerable, not broad restrictions. Mainstream and left coverage is clearly leading on this story.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Whether the case curve bends after the vaccination push — measles has a roughly 10–14 day incubation, so this week's numbers reflect exposures from Labor Day weekend. Watch for spread into neighboring states, school exclusion policies as the academic year gets underway, and whether the third death is confirmed, which would make this Pennsylvania's deadliest measles year in decades.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.pa.gov/agencies/health/newsroom/pa-department-of-health-provides-statewide-update-on-measles-out2">PA Dept. of Health</a>
+    <a href="https://edition.cnn.com/2026/09/13/health/measles-death-pennsylvania">CNN</a>
+    <a href="https://www.nbcnews.com/health/health-news/pennsylvania-measles-woman-death-risk-unvaccinated-cdc-rcna597702">NBC News</a>
+    <a href="https://www.abc27.com/pennsylvania/pennsylvania-measles-cases-nearly-700-cases-reported-as-some-vaccinated-people-contract-the-disease/">ABC27</a>
+  </p>
+</article>
+
+<article>
+  <h3>Saudi Arabia threatens a firm response to Houthi attacks as Gulf risk premium holds</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Saudi Arabia warned it will react firmly to Yemen's Houthis after ballistic missile and drone attacks wounded 13 civilians in the kingdom's south.</li>
+    <li>Saudi Arabia shut a major crude pipeline after drone attacks — a route specifically built to bypass the Strait of Hormuz.</li>
+    <li>Brent crude rose as much as 7.1% last week to $108, its highest settlement since May 19 and its biggest one-day move in six weeks. It has held above $108.</li>
+    <li>Iran's security chief Ali Larijani has ruled out negotiations with Washington until conditions are met; Trump said on Sept. 1 he is not trying to force Iran back to talks.</li>
+    <li>China's foreign ministry separately warned against a space arms race, urging Washington to stop expanding military capabilities in orbit.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>The Guardian and NPR argue the strike-for-strike cycle has produced no diplomatic opening and a large economic bill, and that the administration's refusal to pursue talks leaves the conflict without an off-ramp. The Yemen front is presented as the predictable widening of a war framed at the outset as narrow.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News and the Washington Examiner frame Saudi resolve as evidence that regional partners are carrying more of the burden, and treat Larijani's refusal as proof Tehran was never a serious negotiating partner. The counterargument from restraint-minded conservatives at outlets like The American Conservative is that energy prices are now an American domestic problem with a midterm attached.</p>
+  <p><strong>Watch for</strong></p>
+  <p>S&amp;P Global's crude research head Jim Burkhard describes a market adjusting to unresolved conflict and persistent maritime risk rather than returning to calm. Watch whether Saudi retaliation hits Yemeni port infrastructure, which would tighten Bab al-Mandab further; whether the shut pipeline restarts; and diesel, which at a record $6.06 a gallon is the freight-cost channel that pushes energy inflation into everything else.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.timesofisrael.com/liveblog-september-15-2026/">Times of Israel</a>
+    <a href="https://www.cnn.com/2026/09/10/investing/oil-iran-war-diesel">CNN Business</a>
+    <a href="https://www.nbcnews.com/business/energy/us-crude-oil-iran-trump-hormuz-rcna596997">NBC News</a>
+    <a href="https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260902-rferl06.htm">RFE/RL</a>
+    <a href="https://www.rigzone.com/news/brent_oil_passes_108_per_barrel-14-sep-2026-184604-article/">Rigzone</a>
+  </p>
+</article>
+
+<h2>Markets &amp; Economy</h2>
+<ul>
+  <li><strong>S&amp;P 500:</strong> closed Monday at 7,619.98, −0.48%. <strong>Dow:</strong> 52,421.20, −152.09 points or −0.29%. <strong>Nasdaq:</strong> 26,186.41, −0.56%. Futures were lower again early Tuesday (S&amp;P −0.49%, Dow −0.66%, Nasdaq 100 −0.48%).</li>
+  <li><strong>Rates:</strong> 10-year Treasury near 5.04%, highest since 2007 outside a brief 2023 touch. FOMC decision Wednesday 2:00 p.m. ET, Warsh presser at 2:30; ~90% odds of a 25bp hike off 3.50%–3.75%. Summary of Economic Projections and dot plot accompany the decision.</li>
+  <li><strong>Oil:</strong> Brent holding above $108, highest since May, on Iran-war supply risk, a shut Saudi bypass pipeline and Bab al-Mandab disruption.</li>
+  <li><strong>Gas:</strong> AAA national average about $4.31/gal as of Sept. 13, up from roughly $4.14 at the start of the month and about $3 before the war. Diesel at a record $6.06. California highest near $5.81; Indiana lowest near $3.45.</li>
+  <li><strong>Other:</strong> August CPI +0.4% m/m, 3.4% y/y; core +0.3%. Fuel costs up 28% y/y, diesel +52%. 30-year fixed mortgage 6.76%, up from 6.15% in January. Chipmakers led Monday's decline as the AI-pace debate moved into the tape.</li>
+</ul>
+
+<h2>Sports Watercooler</h2>
+<ul>
+  <li><strong>Golf:</strong> Off week on the PGA Tour — the Biltmore Championship in Asheville runs Sept. 17–20. Presidents Cup rosters are set for Medinah No. 3, Sept. 24–27: Brandt Snedeker picked Jacob Bridgeman, Patrick Cantlay, Chris Gotterup, Jackson Koivun, Xander Schauffele and Justin Thomas to join qualifiers Scottie Scheffler, Cameron Young, Wyndham Clark, Russell Henley, Sam Burns and Collin Morikawa. Geoff Ogilvy took Corey Conners, Nico Echavarria, Sungjae Im, Ryo Hisatsune, Nick Taylor and Christiaan Bezuidenhout alongside Si Woo Kim, Hideki Matsuyama, Ryan Fox, Tom Kim, Min Woo Lee and Adam Scott. Koivun, Bridgeman and Gotterup are debutants.</li>
+  <li><strong>Tennis:</strong> Post-US Open lull, but the calendar reloads fast — Davis Cup qualifiers Sept. 18–20 (14 nations for seven Finals spots, Finals in Bologna in November), Laver Cup in London Sept. 25–27, then Seoul, Singapore and the Billie Jean King Cup the week of Sept. 21, and the Chinese swing (Chengdu, Hangzhou) from Sept. 23.</li>
+  <li><strong>Squash:</strong> The PSA stop in Doha is live through Sept. 18, following events in London, Tashkent, Hong Kong and Maspeth, New York earlier this month. Busiest stretch of the early season.</li>
+  <li><strong>WWE:</strong> Raw ran Arena CDMX Monday — WWE's first televised Raw from Mexico City since the 2011 SuperShow. Roman Reigns retained the World Heavyweight Title over Penta in a 21-minute main event. Chad Gable beat Dragon Lee to keep the Intercontinental Title. Money in the Bank qualifiers went to Je'Von Evans (over Big Cass and Austin Theory) and Lola Vice, who won her Raw in-ring debut over Raquel Rodriguez and Kelani Jordan.</li>
+  <li><strong>Hockey:</strong> Main NHL camps open mid-week — Winnipeg and Vancouver on Sept. 17. Preseason is a compressed eight-day, 65-game slate from Sept. 19–26, the first under the new CBA, which also scraps mandatory fitness testing and expands the regular season to 84 games. Opening night is Sept. 29 with an ESPN tripleheader.</li>
+  <li><strong>Soccer:</strong> Champions League Matchday 2 is Tuesday and Wednesday. Matchday 1 highlights: Real Madrid 2–1 Inter, Barcelona 5–1 Feyenoord, Bayern 5–0 Bodø/Glimt, PSG 6–1 Slovan Bratislava, Liverpool 2–1 Atlético, Napoli 0–1 Arsenal, Man City 2–0 at Porto, Man United 4–0 Sabah, Aston Villa 3–2 at Club Brugge.</li>
+  <li><strong>Football:</strong> Week 1 closed Monday night with Kansas City beating Denver 31–10. Week 2 opens Thursday; the Monday nighter is Giants at Rams, 8:15 p.m. ET on ESPN/ABC.</li>
+</ul>]]></content:encoded>
+</item>
 <item>
 <title>Mon Sep 14, 2026 — Hormuz reopening talks collapse before they start</title>
 <link>https://news-recap-site.pages.dev/archive/2026-09-14.html</link>
@@ -5287,163 +5487,6 @@
   <li><strong>Hockey:</strong> Quiet mid-August, but the money keeps moving. Nico Hischier signed a five-year extension with New Jersey at an $11.7M AAV; Tyson Foerster re-upped eight years in Philadelphia; Bowen Byram signed six years at $12.5M AAV with Chicago, kicking in 2027-28. Carolina is defending its first Cup since 2006; No. 1 pick Gavin McKenna landed in Toronto.</li>
   <li><strong>Soccer:</strong> Premier League 2026-27 kicks off Friday Aug 21 — defending champions Arsenal host newly promoted Coventry City. Opening weekend also brings Hull v Manchester United, Brentford v Spurs, Newcastle v Liverpool on Sunday, and Fulham v Chelsea to close it out Monday night.</li>
   <li><strong>Football:</strong> NFL preseason Week 2 runs Aug 20–23, with Raiders at Texans on ESPN Thursday night and Seahawks at Titans on FOX Sunday. Carolina and Arizona each play a fourth exhibition this summer thanks to the Hall of Fame Game in Canton.</li>
-</ul>]]></content:encoded>
-</item>
-<item>
-<title>Fri Aug 14, 2026 — US–Iran war: Hormuz blockade to run &quot;indefinitely&quot; as deal stalls</title>
-<link>https://news-recap-site.pages.dev/archive/2026-08-14.html</link>
-<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-08-14.html</guid>
-<pubDate>Fri, 14 Aug 2026 07:00:00 -0400</pubDate>
-<description>US–Iran war: Hormuz blockade to run &quot;indefinitely&quot; as deal stalls · Trump executive order to shrink childhood vaccine schedule draws pushback · Federal judge blocks Trump&#x27;s mail-in voting order nationwide · Huckabee rebukes West Bank settlers in rare US criticism</description>
-<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
-
-<article>
-  <h3>US–Iran war: Hormuz blockade to run "indefinitely" as deal stalls</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>The US said its naval blockade of Iranian ports can continue "indefinitely," reigniting concern over energy flows as Iran and Oman failed to finalize a deal to reopen the Strait of Hormuz.</li>
-    <li>Trump reiterated the US has "total control" of the strait and called the blockade a "wall of steel"; Iran's IRGC and Basij commanders insist the waterway is "under Iran's control" and will stay closed until US demands are met.</li>
-    <li>Hormuz transit has fallen to near three-month lows; the strait has been effectively shut since fighting began, with Iran striking shipping to snarl the route.</li>
-    <li>Tehran's demands to reopen include ending the blockade, sanctions relief, US troop withdrawals and war reparations.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Al Jazeera and CNN coverage frames Trump's "total control" claims as rhetoric outrunning reality on the ground, with transit data undercutting the White House and no clear diplomatic offramp — emphasizing the humanitarian and economic toll of an open-ended blockade.</p>
-  <p><strong>Right view</strong></p>
-  <p>Bloomberg and administration voices (Defense Secretary Hegseth) cast the blockade as effective leverage inflicting "severe economic damage" on Tehran, arguing sustained pressure forces Iran to the table rather than rewarding its demands. Right-leaning framing treats reopening on Iran's terms as capitulation.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Energy analysts tie any Hormuz headline directly to crude: Brent and WTI ticked up Friday on the "indefinitely" comment. A prolonged closure keeps oil elevated (Brent near $88) and pressures US pump prices already at record August highs; a surprise Oman-brokered accord could trigger a sharp oil selloff.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.cnn.com/2026/08/13/world/live-news/iran-war-trump">CNN</a>
-    <a href="https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims">Al Jazeera</a>
-    <a href="https://www.bloomberg.com/news/articles/2026-08-12/trump-claims-hormuz-control-as-us-iran-harden-their-positions">Bloomberg</a>
-    <a href="https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html">CNBC</a>
-  </p>
-</article>
-
-<article>
-  <h3>Trump executive order to shrink childhood vaccine schedule draws pushback</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Trump signed an executive order Aug. 10 directing more "research and flexibility" on childhood vaccines, narrowing which shots are recommended and splitting the MMR vaccine into three separate doses.</li>
-    <li>Medical and public-health groups pushed back, citing decades of studies showing vaccine safety and no link to autism.</li>
-    <li>Legal experts say the order lacks the force of law and is likely to face court challenges; parents are unlikely to see immediate changes to vaccine access.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Washington Post and CNN coverage, plus Sen. Kirsten Gillibrand (D), call the order "reckless," warning it strips recommendations for flu and other vaccines against deadly diseases and elevates debunked claims over scientific consensus.</p>
-  <p><strong>Right view</strong></p>
-  <p>Rep. Nancy Mace (R) and supporters applaud the move as aligning the US schedule with international norms and "restoring parental rights," framing it as added choice and flexibility rather than a mandate against vaccination.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Expect litigation and pushback from pediatric associations; the practical impact hinges on whether HHS/ACIP formally revise recommendations, which insurers and schools rely on. A drawn-out fight over required school shots could follow into the fall.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/">Washington Post</a>
-    <a href="https://www.cnn.com/2026/08/10/politics/trump-vaccine-autism-rfk">CNN</a>
-    <a href="https://abcnews.com/Politics/trump-executive-order-childhood-vaccine-schedule/story?id=135524851">ABC News</a>
-    <a href="https://mace.house.gov/media/press-releases/rep-nancy-mace-applauds-president-trumps-vaccine-reform">Rep. Mace</a>
-  </p>
-</article>
-
-<article>
-  <h3>Federal judge blocks Trump's mail-in voting order nationwide</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>US District Judge Indira Talwani (Boston) issued a nationwide order Aug. 11 barring the Postal Service from carrying out Trump's directives to overhaul mail-in voting before the November midterms, expanding an earlier partial block.</li>
-    <li>Trump's March order asked USPS to build a system regulating who could vote by mail and let it refuse to deliver ballots in non-cooperating states, citing alleged noncitizen voting.</li>
-    <li>Talwani ruled the president "has no authority to regulate elections"; it is the second legal hold on the order, with the first pending before the Supreme Court's 6–3 conservative majority.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR and Votebeat frame the ruling as a check on executive overreach, stressing the judge's finding that election administration belongs to states and Congress, not the White House, and warning the order risked disenfranchising voters.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News coverage centers the administration's stated goal of election integrity and preventing noncitizen voting, and notes the fight is not over — a favorable Supreme Court ruling could revive the order's core provisions.</p>
-  <p><strong>Watch for</strong></p>
-  <p>All eyes on the Supreme Court, which could rule before ballots are printed. The outcome shapes mail-voting mechanics in swing states for a midterm that will decide control of Congress.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps">NPR</a>
-    <a href="https://www.axios.com/2026/08/11/trump-mail-in-voting-executive-order-us-postal-service">Axios</a>
-    <a href="https://www.bloomberg.com/news/articles/2026-08-11/judge-expands-block-on-trump-s-mail-in-voting-plan-for-midterms">Bloomberg</a>
-    <a href="https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-from-enforcing-mail-in-voting-rules-executive-order.amp">Fox News</a>
-  </p>
-</article>
-
-<article>
-  <h3>Huckabee rebukes West Bank settlers in rare US criticism</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>US Ambassador to Israel Mike Huckabee condemned some Israeli settlers in the West Bank, referring to a group as "terrorists" — an unusual rebuke from a strongly pro-Israel envoy.</li>
-    <li>His comments followed a multi-night standoff between dozens of settlers and Palestinian families occupying three homes in the West Bank.</li>
-    <li>Settler violence in the West Bank has escalated amid the broader regional conflict.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Outlets covering the story note the significance of even a Trump-aligned ambassador breaking to call out settler violence, framing it as belated acknowledgment of a long-documented pattern that Palestinian advocates say has gone unpunished.</p>
-  <p><strong>Right view</strong></p>
-  <p>Right-leaning framing emphasizes Huckabee's continued strong support for Israel and reads the remark as isolating a fringe minority rather than indicting Israeli policy — a distinction between lawbreakers and the settlement enterprise itself. Mainstream US coverage of this specific incident is thinner than wire reporting from abroad.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Whether the rebuke prompts Israeli enforcement action against settlers, and how it lands with Netanyahu's coalition. Analysts watch for friction between Washington and Israel's right flank while the US-Iran war dominates the region.</p>
-  <p><em>Sources:</em> 
-    <a href="https://wng.org/podcasts/friday-morning-news-august-14-2026-1786641744">WORLD</a>
-    <a href="https://www.euronews.com/top-news-stories-today">Euronews</a>
-  </p>
-</article>
-
-<article>
-  <h3>Senate punts crypto "Clarity Act" to September</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>The Senate left for its five-week August recess without voting on the Digital Asset Market Clarity Act, the sweeping crypto market-structure bill.</li>
-    <li>Majority Leader John Thune filed to tee up a procedural vote for when the Senate returns in mid-September.</li>
-    <li>Sticking points remain on government-ethics rules, law-enforcement provisions, and stablecoin yield/rewards.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Democratic critics (per CoinDesk/CNBC) argue the bill lacks sufficient anti-money-laundering safeguards and strong ethics provisions, pushing to let state attorneys general enforce a ban on officials running crypto businesses — a jab at conflicts around the administration's own crypto ventures.</p>
-  <p><strong>Right view</strong></p>
-  <p>Republican backers frame the delay as procedural, not fatal, and cast clear market rules as overdue certainty for a US crypto industry they say has been driven offshore by regulation-by-enforcement. WSJ/industry voices see September passage as achievable.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Limited September working days before midterm campaigning could squeeze the window. Bitcoin ETF inflows have stayed strong despite the delay; a stalled bill keeps regulatory uncertainty hanging over exchanges and token issuers.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.cnbc.com/2026/08/08/senate-advances-landmark-crypto-bill-before-heading-on-august-recess.html">CNBC</a>
-    <a href="https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month">CoinDesk</a>
-    <a href="https://www.dwt.com/blogs/financial-services-law-advisor/2026/07/senate-updates-crypto-market-bill">Davis Wright Tremaine</a>
-  </p>
-</article>
-
-<article>
-  <h3>Progressives keep winning primaries as midterm map firms up</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Minnesota Gov. Peggy Flanagan won the Democratic Senate primary, extending a run of progressive wins over centrists.</li>
-    <li>In the GOP governor's primary, Trump-endorsed Mike Lindell lost to state House Speaker Lisa Demuth, who will face Democratic Sen. Amy Klobuchar in the fall.</li>
-    <li>Earlier in the month, the Senate confirmed Todd Blanche as attorney general 50–49; a South Carolina special-primary runoff between Sen. Darline Graham and Rep. Ralph Norman looms later this month.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR-style coverage frames Flanagan's win as evidence of energized progressive base ahead of the midterms, arguing the party's left flank is setting the agenda on economic and health messaging.</p>
-  <p><strong>Right view</strong></p>
-  <p>Conservative outlets read Lindell's loss as the GOP base favoring electability over loyalty tests, and cast progressive primary wins as gifts to Republicans in swing seats — betting Demuth vs. Klobuchar is more competitive than polls suggest.</p>
-  <p><strong>Watch for</strong></p>
-  <p>These primaries shape the battle for a closely divided Congress. Control of the Senate and House will determine the fate of stalled items like the crypto bill and the reach of Trump's executive orders now tangled in court.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.npr.org/sections/elections/">NPR</a>
-    <a href="https://www.cnn.com/election/2026">CNN Politics</a>
-    <a href="https://www.cnbc.com/politics/">CNBC</a>
-  </p>
-</article>
-
-<h2>Markets &amp; Economy</h2>
-<ul>
-  <li><strong>S&amp;P 500:</strong> Closed at a record 7,798.99 Thu (+0.65%), above 7,800 intraday for the first time; futures roughly flat Fri. <strong>Dow:</strong> 53,839.99 (+0.13%). <strong>Nasdaq:</strong> 26,803.03 (+0.81%), led by Meta, Micron, Netflix.</li>
-  <li><strong>Drivers:</strong> Cooler-than-expected July inflation eased Fed rate-hike fears and fueled the record run; markets heading for a winning week.</li>
-  <li><strong>Oil:</strong> Brent ~$87.9/bbl and WTI ~$82.1 rose Fri after the US said the Iran blockade could run "indefinitely"; Hormuz risk keeps a premium in crude.</li>
-  <li><strong>Gas:</strong> National average ~$4.03/gal (Aug 12) — a record high for this late in the calendar year, up in every state from a year ago.</li>
-  <li><strong>Crypto:</strong> Bitcoin ETF inflows stayed strong even as the Senate delayed the Clarity Act to September.</li>
-</ul>
-
-<h2>Sports Watercooler</h2>
-<ul>
-  <li><strong>Golf:</strong> FedEx Cup Playoffs open with the FedEx St. Jude Championship (Aug 13–16, TPC Southwind, Memphis), 70 players, no cut — first of three legs before the East Lake finale.</li>
-  <li><strong>Tennis:</strong> Cincinnati Open (ATP/WTA 1000) rolls on; defending champ Iga Swiatek back, but Sinner (knee) and Alcaraz (wrist) both sitting out injured.</li>
-  <li><strong>Squash:</strong> PSA action at the Valencia Memorial (Aug 11–15) and Karachi; Mostafa Asal leads the men's world rankings, Hania El Hammamy the women's.</li>
-  <li><strong>WWE:</strong> Post-SummerSlam fallout continues — Roman Reigns retained the World Heavyweight title over Seth Rollins; Big Cass returned after eight years away.</li>
-  <li><strong>Hockey:</strong> NHL offseason churns on after Carolina's first Cup since 2006; Ovechkin re-upped with Washington (1 yr), while RFAs Jason Robertson and Adam Fantilli and UFA Patrick Kane remain unsigned.</li>
-  <li><strong>Soccer:</strong> Premier League 2026/27 kicks off Aug 21 — champions Arsenal host promoted Coventry in the Friday opener; late start allows recovery from the World Cup.</li>
-  <li><strong>Football:</strong> NFL preseason Week 1 in full swing (Aug 13–15, all 32 teams); regular season opens Sept 9 with a Patriots–Seahawks Super Bowl rematch.</li>
 </ul>]]></content:encoded>
 </item>
 </channel>
