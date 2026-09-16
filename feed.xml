@@ -6,8 +6,186 @@
 <description>A balanced daily brief: the day&#x27;s top stories with straight facts, left and right framings, and expert read on downstream effects. Plus markets and a sports watercooler.</description>
 <language>en-us</language>
 <atom:link href="https://news-recap-site.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Tue, 15 Sep 2026 07:00:00 -0400</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 07:00:00 -0400</lastBuildDate>
 <ttl>720</ttl>
+<item>
+<title>Wed Sep 16, 2026 — Fed decides today, and Wall Street expects Warsh to hike into Trump&#x27;s objections</title>
+<link>https://news-recap-site.pages.dev/archive/2026-09-16.html</link>
+<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-09-16.html</guid>
+<pubDate>Wed, 16 Sep 2026 07:00:00 -0400</pubDate>
+<description>Fed decides today, and Wall Street expects Warsh to hike into Trump&#x27;s objections · The 10-year sits at 5% — and the AI borrowing binge is part of why · Houthis complete control of Bab el-Mandeb; Brent above $107 · Supreme Court blocks Trump&#x27;s mail-ballot rules for the midterms</description>
+<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
+
+<article>
+  <h3>Fed decides today, and Wall Street expects Warsh to hike into Trump's objections</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The FOMC announces its decision at 2 p.m. ET today, closing a two-day meeting. Futures markets put the odds of a quarter-point increase above 90%, per CNBC.</li>
+    <li>That would lift the target range to 3.75%–4.00% and mark the first Fed rate increase since 2023. The rate has sat at 3.50%–3.75% since December 2025.</li>
+    <li>Chair Kevin Warsh set up the move at Jackson Hole on Aug. 28, warning that underlying inflation is not slowing. CPI ran 3.4% in the twelve months through July; the Fed's preferred PCE gauge ran 3.7%.</li>
+    <li>Trump, Vice President Vance, the Treasury secretary and a senior White House economic counselor have all publicly urged the Fed not to raise rates over the past two weeks — an unusually broad pressure campaign. Trump said he would not have picked Warsh if he wanted hikes.</li>
+    <li>Warsh holds a press conference after the decision.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and NBC News frame this as the test of whether the Fed still works: Trump hand-picked Warsh expecting a dove, and the institution's credibility now rests on Warsh doing the unpopular thing anyway. NPR's coverage notes the awkward position — Warsh's independence has to be demonstrated by defying the president who appointed him, which is a thin kind of independence. The Guardian and others tie the inflation problem back to administration policy itself: tariffs and an energy shock driven by a war the White House is prosecuting.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Washington Times and Fox Business coverage cast the hike as the Fed cleaning up after years of accommodation, with Warsh's hawkishness the reason conservatives wanted him in the first place. Trump's own line — that the ruling class at the Fed is strangling growth before the midterms — gets amplified on the populist right, but institutionalist conservatives at outlets like the WSJ editorial page have argued that a Fed that caves to a sitting president is worth less than one that hikes.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Economists quoted by CNBC and Fortune say the real signal is the dot plot and Warsh's press conference, not the 25 basis points. If he leaves the door open to a second hike, the 10-year could push past 5.10% and mortgage rates follow within days. If he frames it as a one-off insurance move against the energy shock, expect a relief rally in equities. The political tail risk analysts keep flagging: a public Trump attack on Warsh, or renewed talk of removing a governor, which is what drove the Lisa Cook fight last year. Rate-sensitive sectors — housing, regional banks, small caps — move first.</p>
+  <p><em>Sources:</em> 
+    <a href="https://us.cnn.com/2026/09/16/economy/fed-rate-decision-september">CNN</a>
+    <a href="https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html">CNBC</a>
+    <a href="https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates">NPR</a>
+    <a href="https://www.washingtontimes.com/news/2026/sep/15/federal-reserve-expected-raise-benchmark-rate-defying-donald-trumps/">Washington Times</a>
+    <a href="https://www.nbcnews.com/business/economy/trump-federal-reserve-warsh-interest-rates-rcna597896">NBC News</a>
+    <a href="https://fortune.com/2026/09/07/wall-street-hike-expectations-kevin-warsh-fed-trump/">Fortune</a>
+  </p>
+</article>
+
+<article>
+  <h3>The 10-year sits at 5% — and the AI borrowing binge is part of why</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The 10-year Treasury yield touched 5.04% Tuesday, the highest since 2007, and closed the New York session at 5.00%, per Bloomberg.</li>
+    <li>Stocks fell for the sixth time in seven sessions. The S&amp;P 500 lost 0.45% to 7,585.73; the Dow fell 328.09 points to 52,093.11; the Nasdaq dropped 0.78% to 25,981.57.</li>
+    <li>Three forces are pushing yields up at once: the energy shock from the Middle East, the expected Fed hike, and a flood of long-dated corporate issuance from AI companies.</li>
+    <li>Hyperscalers have issued roughly $132B–$220B of AI-related debt so far in 2026 by various counts, including a multitranche deal near $53B — among the largest corporate bond sales on record — and a rare 100-year bond. Full-year estimates for the broader AI ecosystem run $300B–$570B.</li>
+    <li>The Bank for International Settlements named an AI capex bust one of its top three global financial stability risks in its 2026 annual report.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Vox and The Atlantic have run the argument that this is a privately funded bubble with publicly borne costs: a handful of firms are crowding out the bond market and bidding up the cost of every mortgage and car loan in the country to build data centers whose revenue case is still unproven. The Guardian adds the energy angle — the same buildout is straining grids and raising utility bills in states hosting the centers.</p>
+  <p><strong>Right view</strong></p>
+  <p>The WSJ editorial page and National Review treat the yield move as a sovereign-debt story first: investors are demanding more to hold US paper because Washington keeps borrowing, and blaming AI firms for market-priced capital is backwards. Reason and The Dispatch have argued the AI capex is genuine productive investment, and that a 5% risk-free rate is closer to historical normal than the decade of near-zero that preceded it.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Vanguard and JPMorgan strategists flag the same tell: whether new AI deals still clear at reasonable spreads. Bond investors have started demanding wider concessions, and a failed or heavily discounted mega-deal would be the first real crack. On the consumer side, 30-year mortgages tracking a 5% 10-year put housing affordability back at 2023 lows — watch existing-home sales and homebuilder guidance. And if yields stay here into Q4, expect renewed pressure on Treasury's issuance mix.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.bloomberg.com/news/articles/2026-09-15/us-10-year-treasury-yields-rise-to-highest-level-since-2007">Bloomberg</a>
+    <a href="https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html">CNBC</a>
+    <a href="https://edition.cnn.com/2026/09/14/investing/bond-yields-market-turmoil">CNN Business</a>
+    <a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/ai-buildout-comes-to-bond-market.html">Vanguard</a>
+    <a href="https://www.forbes.com/sites/robertszczerba/2026/07/17/bond-investors-push-back-as-ai-debt-heads-toward-570-billion/">Forbes</a>
+    <a href="https://www.semafor.com/article/09/15/2026/us-10-year-yield-hits-highest-level-since-2007">Semafor</a>
+  </p>
+</article>
+
+<article>
+  <h3>Houthis complete control of Bab el-Mandeb; Brent above $107</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Houthi forces have seized Perim (Mayun) Island, the port of Mokha, and the Greater and Lesser Hanish islands, giving them effective control of both sides of the Bab el-Mandeb Strait, per NPR, NBC News and PBS.</li>
+    <li>Roughly 12% of global trade and about 7% of global petroleum supply normally transit the strait.</li>
+    <li>The group declared a naval blockade of Saudi shipping in the Red Sea on July 20. A Houthi attack on a cargo ship in the strait last month killed six — the first fatalities from Red Sea shipping attacks in over a year.</li>
+    <li>A Saudi oil pipeline struck in an attack is out of service; repairs are estimated at three to five weeks. Saudi Arabia had been routing exports through the Red Sea as an alternative to the Strait of Hormuz, where Iran has been targeting vessels.</li>
+    <li>Brent settled around $107.46 Tuesday. Trump has described the US naval response as a "wall of steel"; the Houthis dispute his characterization of the situation.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>NPR and The Guardian frame this as the predictable cost of an open-ended war with Iran: the US has spent months striking Iranian assets and now faces a proxy that has taken territory rather than been degraded. The Christian Science Monitor's reporting emphasizes that naval escort operations protect ships but cannot dislodge a force holding the shoreline, and that there is no stated endgame. MSNBC commentary ties the gas price at the pump directly to the administration's escalation choices heading into the midterms.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News and the New York Post argue the opposite causal story: years of accommodating Iran and treating the Houthis as a nuisance rather than a state-backed military let this happen, and the answer is heavier strikes, not withdrawal. The Free Press and National Review have pushed for re-designating and directly targeting Houthi leadership, and criticize the 2025 Oman-brokered ceasefire that shielded American ships but left Israeli-linked shipping exposed — which, they argue, taught the Houthis that attacks pay.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Energy analysts cited by CNBC and CSIS say the near-term question is insurance: war-risk premiums for Red Sea transits are the mechanism that actually closes a strait, and a further spike pushes carriers back around the Cape, adding 10–14 days and cost to Asia–Europe freight. Watch Saudi export loadings and whether Riyadh restarts the damaged pipeline on schedule. A move above $110 Brent feeds straight into US pump prices with a two-to-three-week lag, which lands in late October — weeks before the midterms. Also watch whether the administration expands the naval mission, which would require either a new authorization fight or another executive-authority argument in Congress.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island">NPR</a>
+    <a href="https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186">NBC News</a>
+    <a href="https://www.pbs.org/newshour/world/houthis-seize-2-strategic-red-sea-islands-and-other-mideast-developments">PBS NewsHour</a>
+    <a href="https://thehill.com/homenews/administration/5980851-trump-red-sea-houthi-blockade/">The Hill</a>
+    <a href="https://www.csmonitor.com/World/Middle-East/2026/0724/yemen-houthis-iran-red-sea-war-hormuz">CS Monitor</a>
+    <a href="https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html">CNBC</a>
+  </p>
+</article>
+
+<article>
+  <h3>Supreme Court blocks Trump's mail-ballot rules for the midterms</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The Supreme Court on Monday refused to lift a lower-court block on new USPS rules governing mail ballots, leaving existing procedures in place for the Nov. 3 midterms.</li>
+    <li>The rules, which followed a Trump executive order, would have required states to hand the Postal Service lists of voters' names and addresses and to use specific barcodes and envelope designs before ballots could be delivered.</li>
+    <li>The order was unsigned and three sentences long, saying the administration is unlikely to succeed on the merits. Justice Kavanaugh wrote separately that even if the rule might fall within USPS authority, applying it this cycle would be unlawful because election officials lack time to implement it.</li>
+    <li>Justices Alito and Thomas dissented. Justice Barrett joined the majority.</li>
+    <li>Trump called it a "big loss for Republicans, and America itself," and praised Alito and Thomas. Separately, the Court heard argument this week on whether states may count mail ballots arriving after Election Day.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>The Washington Post and NPR report this as a guardrail holding: an attempt to rewrite ballot rules months before an election, through the Postal Service rather than Congress or the states, was stopped by a Court with a conservative majority. Democracy Now! and the Brennan Center-aligned commentary emphasize the voter-list handover, which they characterize as a federal database of mail voters assembled without statutory authority.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News documented a real split on the right: populist commentators attacked Barrett personally — one called her the biggest judicial disappointment since Souter — while the Daily Caller and others reported the ruling straight as a timing loss rather than a merits loss, noting Kavanaugh explicitly left the door open for the rule in a later cycle. Election-integrity groups including the Honest Elections Project are focused on the separate late-arriving-ballot case, where conservatives think they have the better argument.</p>
+  <p><strong>Watch for</strong></p>
+  <p>The late-ballot case is the one with real consequences: a ruling that federal law requires receipt by Election Day would invalidate deadlines in roughly a dozen states and could decide close House races. Analysts expect a decision before November given the timing. Also watch whether the administration reissues a narrower rule for 2028, and whether the Barrett backlash shapes how the White House talks about the Court through the campaign.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.washingtonpost.com/politics/2026/09/14/supreme-court-blocks-sweeping-mail-ballot-restrictions-midterm-elections/">Washington Post</a>
+    <a href="https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump">NPR</a>
+    <a href="https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html">CNBC</a>
+    <a href="https://www.foxnews.com/politics/conservatives-revolt-after-trump-appointed-barrett-joins-liberals-shockingly-wrong-mail-ballot-ruling">Fox News</a>
+    <a href="https://dailycaller.com/2026/09/15/supreme-court-blocks-trump-mail-in-ballot-rule-2026-midterms/">Daily Caller</a>
+    <a href="https://www.cbsnews.com/news/supreme-court-blocks-new-postal-service-mail-ballots-trump/">CBS News</a>
+  </p>
+</article>
+
+<article>
+  <h3>House kills Al Green's impeachment push, with 64 Democrats helping</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The House voted 232–147 on Tuesday to table H.Res. 1486, Rep. Al Green's privileged resolution to impeach President Trump. Forty-seven members voted present.</li>
+    <li>Sixty-four Democrats joined Republicans to table, including the 47 voting present. Minority Leader Hakeem Jeffries voted present.</li>
+    <li>Green's articles centered on the killing of two US citizens by federal immigration officers earlier this year.</li>
+    <li>This is the latest in a series of privileged impeachment resolutions Green has forced to the floor this Congress; each has been tabled.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Axios reported the story primarily as a Democratic leadership problem — Jeffries and most of the caucus want the midterms fought on cost of living, not impeachment, and a floor vote that fails makes the party look divided. Progressive outlets including Mother Jones argue the underlying grievance is serious enough that leadership's procedural dodge is itself the story, and that the deaths at issue have not received a real congressional inquiry.</p>
+  <p><strong>Right view</strong></p>
+  <p>Just the News and the Washington Examiner led with the Democratic defections, framing the 64 votes as evidence that even Trump's opponents regard impeachment as theater. Republican members including Rep. Walberg issued statements calling the resolution a distraction from appropriations work. The broader right-leaning argument is that repeated failed impeachment votes cheapen the tool and help Trump.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Practically nothing changes in the near term — the resolution is dead and leadership on both sides wants it to stay dead. The number to watch is whether Green files again before November, which would force vulnerable Democrats in swing districts into a second uncomfortable vote. The immigration-enforcement deaths remain live as a litigation and oversight matter regardless of the impeachment vehicle.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.axios.com/2026/09/15/trump-impeachment-house-vote-al-green-democrats">Axios</a>
+    <a href="https://justthenews.com/government/congress/dozens-house-democrats-help-republicans-table-trump-impeachment-attempt">Just the News</a>
+    <a href="https://algreen.house.gov/media/press-releases/congressman-al-green-announces-vote-hres1486-articles-impeachment-against">Rep. Al Green</a>
+    <a href="https://repcloakroom.house.gov/floor/tuesday-september-15th-2026/">House Republican Cloakroom</a>
+  </p>
+</article>
+
+<article>
+  <h3>Judge blocks DHS limits on student, academic and journalist visas</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>US District Judge F. Dennis Saylor IV in Massachusetts temporarily blocked a DHS rule capping the duration of several visa categories.</li>
+    <li>The rule would have capped F student visas and J exchange visas at four years, and cut I visas for foreign journalists — currently open-ended in practice — to a maximum of 240 days.</li>
+    <li>Saylor called the government's national-security justification "exceptionally weak" and said DHS gave no reasonable explanation for the journalist cap specifically.</li>
+    <li>The block is temporary while a suit by a coalition of educational organizations and unions proceeds.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>The Guardian and Democracy Now! frame the journalist provision as press-freedom-adjacent: a 240-day cap makes it structurally impossible for foreign correspondents to cover a full US election cycle, which they argue is the point. Higher-education groups quoted by NPR emphasize the enrollment and research consequences — international students are a significant share of graduate STEM programs and of university revenue.</p>
+  <p><strong>Right view</strong></p>
+  <p>Right-leaning coverage of this one is thin so far, which is itself worth noting. The general immigration-restrictionist case, made at the Washington Examiner and by groups like the Center for Immigration Studies, is that open-ended visa durations invite overstays and that fixed terms with renewal are normal in most countries. There is also a recurring conservative complaint about single district judges issuing nationwide blocks on federal immigration rules — expect that procedural argument on appeal.</p>
+  <p><strong>Watch for</strong></p>
+  <p>An emergency appeal to the First Circuit is the near-certain next step, and this administration has shown a pattern of going to the Supreme Court's emergency docket quickly. Universities are already into the spring admissions cycle, so the practical question is whether the block holds through the application window. If the rule is eventually revived, the immediate effect falls on students already mid-program who would need to reapply.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.irishtimes.com/world/us/2026/09/15/judge-blocks-trump-limits-on-how-long-foreign-students-and-journalists-can-stay-in-us/">Irish Times</a>
+    <a href="https://www.editorandpublisher.com/stories/judge-blocks-new-homeland-security-restrictions-on-foreign-journalists-and-students,263529">Editor &amp; Publisher</a>
+    <a href="https://www.democracynow.org/2026/9/15/headlines/judge_blocks_trumps_restrictions_on_visas_for_international_students_academics_and_journalists">Democracy Now!</a>
+  </p>
+</article>
+
+<h2>Markets &amp; Economy</h2>
+<ul>
+  <li><strong>S&amp;P 500:</strong> 7,585.73, −0.45%. <strong>Dow:</strong> 52,093.11, −328.09 pts (−0.63%). <strong>Nasdaq:</strong> 25,981.57, −0.78%. Sixth decline in seven sessions.</li>
+  <li><strong>Rates:</strong> 10-year Treasury 5.00% after touching 5.04%, highest since 2007. Fed decision 2 p.m. ET today; futures price a 25bp hike at better than 90%.</li>
+  <li><strong>Oil:</strong> Brent around $107.46, up sharply on the Bab el-Mandeb seizure and the damaged Saudi pipeline. Brent rose roughly 8% and WTI nearly 10% over the prior week.</li>
+  <li><strong>Gas:</strong> AAA national average about $4.33/gal, up from $4.17 a week earlier and $4.15 on Sept. 4. Every state is higher than a year ago.</li>
+  <li><strong>Inflation:</strong> CPI 3.4% y/y through July; PCE 3.7%. Both well above the Fed's 2% target, which is Warsh's stated reason for tightening.</li>
+  <li><strong>Other:</strong> AI-related corporate debt issuance is the year's dominant supply story — $220B by one count, with full-year ecosystem estimates up to $570B. The BIS lists an AI capex bust among its top global stability risks.</li>
+</ul>
+
+<h2>Sports Watercooler</h2>
+<ul>
+  <li><strong>Golf:</strong> Europe took the Solheim Cup 15–13 over the US at Bernardus Golf in the Netherlands (Sept. 11–13) after the Americans led into Sunday singles. At the DP World Tour's BMW PGA Championship, Jon Rahm talked about LIV Golf's fight to stay viable. Next Ryder Cup isn't until Sept. 2027 at Adare Manor.</li>
+  <li><strong>Tennis:</strong> Quiet stretch post-US Open. The Asian hardcourt swing picks up with ATP 250s in China Sept. 23–29, and the Laver Cup is in London Sept. 25–27. Points here matter mainly for the November ATP and WTA Finals races.</li>
+  <li><strong>Squash:</strong> The QTerminals Qatar Classic runs in Doha Sept. 12–18. Paul Coll won the London Squash Classic earlier this month, beating Joel Makin 13–11, 11–7, 11–8 for his 28th PSA title; Amina Orfi took the women's draw. PSA's Aug–Dec calendar has 24 events across 14 countries.</li>
+  <li><strong>WWE:</strong> Sami Zayn beat CM Punk on the Sept. 11 SmackDown to win the Undisputed WWE Title — the week's big one. On NXT Tuesday, Mason Rook won a triple threat over Tony D'Angelo and Saquon Shugars for the NXT Title No. 1 contendership. Raw was in Springfield, Mass. Monday.</li>
+  <li><strong>Hockey:</strong> Camps open this week — Nashville today, most clubs Sept. 17. The preseason is a compressed eight-day, 65-game slate Sept. 19–26, the first under the new CBA's 84-game regular season. Gavin McKenna, the Leafs' No. 1 pick, is the camp story; Connor Bedard is out until November after July shoulder surgery. Regular season opens Sept. 29.</li>
+  <li><strong>Soccer:</strong> Arsenal stayed perfect in the Premier League with a 2–0 win over Sunderland, while Liverpool, Chelsea and Tottenham all dropped points. Forest beat Villa 2–1, leaving Emery still winless. No Champions League this week — the league phase resumes Oct. 13 after the opening round Sept. 8–10.</li>
+  <li><strong>Football:</strong> Week 1 was the highest-scoring opening Sunday in NFL history at 53.3 points per game. Chicago hung 59 on Carolina, with Caleb Williams posting a line no Bear had before. The Giants beat Dallas 28–20, Arizona snapped a nine-game skid, and the Chiefs handled Denver 31–10 on Monday night. Week 2 starts Thursday; Giants–Rams on Monday.</li>
+</ul>]]></content:encoded>
+</item>
 <item>
 <title>Tue Sep 15, 2026 — 10-year Treasury hits 5% as the Fed opens a meeting markets expect to end in a rate hike</title>
 <link>https://news-recap-site.pages.dev/archive/2026-09-15.html</link>
@@ -5311,182 +5489,6 @@
   <li><strong>Hockey:</strong> Deep offseason. Carolina is the reigning Stanley Cup champion — first since 2006. No. 1 pick Gavin McKenna went to Toronto. The recurring storyline is player leverage: Connor Hellebuyck's rumored desire out of Winnipeg and Dylan Larkin's trade demand are the two names driving August chatter.</li>
   <li><strong>Soccer:</strong> Premier League 2026/27 kicks off Friday Aug. 21. Defending champion Arsenal opens against newly promoted Coventry City; Newcastle-Liverpool is the pick of the weekend, with Hull City hosting Manchester United and two London derbies (Brentford-Spurs, Fulham-Chelsea).</li>
   <li><strong>Football:</strong> NFL preseason Week 1 is in the books — all 32 teams played Aug. 13-15. Week 2 runs the coming weekend, with the preseason wrapping Aug. 29 and roster cuts right behind it.</li>
-</ul>]]></content:encoded>
-</item>
-<item>
-<title>Sat Aug 15, 2026 — Trump says he will declare the Strait of Hormuz a U.S. territory; Iran says it stays closed</title>
-<link>https://news-recap-site.pages.dev/archive/2026-08-15.html</link>
-<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-08-15.html</guid>
-<pubDate>Sat, 15 Aug 2026 07:00:00 -0400</pubDate>
-<description>Trump says he will declare the Strait of Hormuz a U.S. territory; Iran says it stays closed · Consumer sentiment falls to 51.0, ending a two-month recovery · Second federal court blocks Trump&#x27;s mail-in voting order ahead of the midterms · Luigi Mangione pleads guilty to federal stalking charges in UnitedHealthcare CEO&#x27;s killing</description>
-<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
-
-<article>
-  <h3>Trump says he will declare the Strait of Hormuz a U.S. territory; Iran says it stays closed</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Speaking Friday at the David S. Mack Center in Garden City, N.Y., Trump said that once Iran is defeated he will declare the Strait of Hormuz a territory of the United States. He offered no legal mechanism, timetable, or formal territorial process.</li>
-    <li>Iran's deputy foreign minister rejected the claim, saying the strait will remain Iranian and cannot be taken by declaration, aircraft carrier, or campaign speech. Tehran's Persian Gulf Strait Authority repeated that the waterway stays blocked until Iran's conditions are met.</li>
-    <li>The strait has been effectively closed since fighting began in late February. Transit traffic sank to near three-month lows this week, per CNBC, and the IEA warns inventory buffers are draining.</li>
-    <li>Trump said he would "never apologize" for the military campaign and asked Americans to tolerate higher pump prices while it continues. Press secretary Karoline Leavitt said low gas prices and denying Iran a nuclear weapon are equally important goals.</li>
-    <li>A carrier strike group is en route to the region to replace the USS Lincoln, a U.S. official told CNN.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Al Jazeera and Common Dreams frame the declaration as legally empty and rhetorically reckless — a president claiming an international waterway with no authority to do so. NPR-adjacent and Guardian-style coverage stresses that UNCLOS guarantees transit passage through international straits and that no state can acquire one unilaterally. Rep. Ted Lieu mocked the announcement on X. The National Iranian American Council's Ryan Costello argued the bravado is undercut by U.S. bases near the strait being largely abandoned under Iranian missile and drone threat.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News is not uniformly on board: Bret Baier pressed Energy Secretary Chris Wright on air over the administration's claim that Washington controls the strait, and Wright struggled to substantiate it. Fox's live coverage has run Iran's "miscalculated" taunts prominently. The broader pro-administration case is that maximum pressure — reinstated port blockade, naval interdiction — is the only lever that forces Tehran to reopen the waterway, and that a nuclear-armed Iran would be far costlier than $4 gas. Notably, parts of the right (Tucker Carlson, Megyn Kelly, Marjorie Taylor Greene, Joe Rogan) have broken with Trump on the war entirely.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Maritime law scholars say any transit toll or territorial claim would be unenforceable and would invite challenge; expect no formal executive action to actually follow. Energy analysts are watching whether draining OECD inventories force a strategic reserve release or coordinated IEA action. Brent above $88 with the strait shut keeps the U.S. pump average pinned near $4; a genuine reopening deal is the single biggest downside catalyst for oil. Politically, the gas-price line is the one Democrats intend to run on in November.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.cnn.com/2026/08/14/world/live-news/iran-war-trump">CNN</a>
-    <a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-elections-doj-live-updates-rcna592467">NBC News</a>
-    <a href="https://www.usnews.com/news/us/articles/2026-08-14/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric">Reuters/US News</a>
-    <a href="https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory">Al Jazeera</a>
-    <a href="https://www.foxnews.com/live-news/iran-war-trump-strait-of-hormuz-08-13-26">Fox News</a>
-    <a href="https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html">CNBC</a>
-  </p>
-</article>
-
-<article>
-  <h3>Consumer sentiment falls to 51.0, ending a two-month recovery</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>The preliminary University of Michigan consumer sentiment index for August fell about 8% to 51.0 from 55.2 in July, well under the 55.0 consensus.</li>
-    <li>Expectations dropped to 50.6 from 55.4; current conditions fell to 51.8 from 54.8. Expected business conditions sank 11% short-run and 17% long-run.</li>
-    <li>One-year inflation expectations ticked up to 4.3% from 4.2%, still far above the 3.4% pre-war reading in February. Five-to-ten-year expectations held at 3.3% for a third month.</li>
-    <li>Declines were broad across demographic and political lines, with unusually sharp drops among Republicans, older consumers, lower-income households, and non-college respondents. Only 8% expect income growth to outpace inflation, down from 18% in December 2024.</li>
-    <li>Stocks slipped on the print after the S&amp;P 500 set a record earlier in the week.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>MS NOW (formerly MSNBC) and The Washington Post's politics desk tie the sentiment collapse directly to the Iran war: a president who campaigned on cheaper energy has instead delivered a 29% year-over-year jump at the pump, and the Republican-heavy drop in confidence is the tell that his own coalition is feeling it. Time's coverage emphasizes Democrats calling the "peanuts" framing on gas prices out of touch.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News has documented the GOP's own tonal shift — from attacking Biden over gas prices to calling today's prices a small price to pay — and is reporting Democratic attacks on the "broken promise" straight rather than dismissing them. The steadier conservative economic case, made in outlets like the WSJ editorial page and The Dispatch, is that soft-survey sentiment has diverged from hard data for years, that the labor market and equity markets remain intact, and that a war-driven energy shock is temporary and reversible in a way structural inflation is not.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Economists generally treat sentiment as a weak predictor of actual spending, but a sustained sub-52 reading paired with 4%+ one-year inflation expectations complicates the Fed's path. Futures pricing has leaned toward another cut around September; a fresh energy-driven inflation impulse argues the other way. Watch the final August UMich reading, the next CPI print, and back-to-school retail data for whether pessimism is converting into weaker consumption.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.bloomberg.com/news/articles/2026-08-14/us-consumer-sentiment-declines-for-first-time-in-three-months">Bloomberg</a>
-    <a href="https://www.sca.isr.umich.edu/">U. Michigan</a>
-    <a href="https://finance.yahoo.com/economy/articles/u-consumer-sentiment-falls-august-171815784.html">Yahoo Finance</a>
-    <a href="https://www.foxnews.com/politics/from-bidens-war-gas-prices-small-price-pay-gop-shifts-tone-iran-conflict-hits-pumps.amp">Fox News</a>
-    <a href="https://www.washingtonpost.com/politics/2026/05/02/trump-gas-prices-iran/">Washington Post</a>
-  </p>
-</article>
-
-<article>
-  <h3>Second federal court blocks Trump's mail-in voting order ahead of the midterms</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>U.S. District Judge Indira Talwani granted a preliminary injunction Tuesday barring the U.S. Postal Service from implementing the mail-voting provisions of Trump's March executive order, nullifying that directive nationwide.</li>
-    <li>The order had directed USPS to build a system regulating who may vote by mail and pushed states to create special absentee-request lists. Plaintiffs include the League of Women Voters.</li>
-    <li>This is the second judicial hold on the order. The first is pending before the Supreme Court, where the administration has urged the justices to rule and challenging states have asked them to leave the limits in place.</li>
-    <li>The practical effect is that the order is now very unlikely to be operative for the November 3 election.</li>
-    <li>Separately, the Supreme Court ruled 5–4 in June that federal law does not bar states from counting mail ballots that arrive after Election Day, upholding a Mississippi grace period. Justice Barrett joined the majority; Justice Alito dissented.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR, Votebeat, and the ACLU frame this as courts holding the line against an executive attempt to rewrite election administration by decree — a power the Constitution assigns to states and Congress. The Brennan Center's argument is that the order's real function was deterrence and confusion in the weeks before a midterm, and that blocking it nationwide is the only remedy that works.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News covered the June Supreme Court ruling largely through the lens of conservative revolt, quoting Sen. Eric Schmitt calling the opinion shockingly wrong and Cleta Mitchell warning it hands the left a weapon in every close race. PJ Media declared election integrity effectively dead as a legal project. The substantive right-of-center case is Alito's: post-Election Day counting invites litigation and erodes public confidence, and the answer is legislation like the SAVE Act rather than judicial improvisation.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Election lawyers expect the Supreme Court to act on the pending application in the next several weeks; an emergency-docket order either way sets the ground rules for November. If the injunctions hold, expect the fight to shift to state legislatures and to post-election certification disputes in close races. With Democrats leading the generic ballot by roughly 5 to 11 points depending on pollster, the margin questions may matter most in a handful of House seats.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps">NPR</a>
-    <a href="https://www.votebeat.org/national/2026/08/12/trump-executive-order-mail-in-voting-postal-service-injunction/">Votebeat</a>
-    <a href="https://www.scotusblog.com/2026/08/states-challenging-executive-order-on-mail-in-voting-ask-justices-to-leave-in-place-limits-on-it/">SCOTUSblog</a>
-    <a href="https://thehill.com/regulation/court-battles/6023907-judge-blocks-usps-trump-voter-order/">The Hill</a>
-    <a href="https://www.foxnews.com/politics/conservatives-revolt-after-trump-appointed-barrett-joins-liberals-shockingly-wrong-mail-ballot-ruling">Fox News</a>
-    <a href="https://www.brennancenter.org/our-work/analysis-opinion/federal-court-allows-challenge-executive-order-restricting-mail-voting">Brennan Center</a>
-  </p>
-</article>
-
-<article>
-  <h3>Luigi Mangione pleads guilty to federal stalking charges in UnitedHealthcare CEO's killing</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Mangione, 28, entered an open plea Friday in Manhattan federal court to two counts of stalking resulting in death — guilty to all pending federal counts with no agreement or concessions from prosecutors.</li>
-    <li>He admitted trailing Brian Thompson to a December 2024 investor conference, having contacted the company posing as an investor at a large firm to obtain details, and shooting Thompson on a Manhattan street on the morning of December 4, 2024.</li>
-    <li>Federal guidelines suggest roughly 24 to 30 years; prosecutors remain free to seek life. Judge Garnett set sentencing for December 18.</li>
-    <li>Thompson's mother, widow, and other family members were in the front row. The family called the plea an important step toward justice; UnitedHealthcare thanked law enforcement.</li>
-    <li>Defense counsel immediately moved to dismiss the pending New York state trial on double jeopardy grounds.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>PBS NewsHour and CNN largely keep the framing on the victim's family and the legal mechanics, while noting the case became a cultural flashpoint over health insurance denials — including audience cheers at a Saturday Night Live mention. Left-leaning commentary tends to separate the two threads explicitly: the killing was indefensible, and the wave of public sympathy is a symptom of real grievance about coverage denials that the industry has not answered.</p>
-  <p><strong>Right view</strong></p>
-  <p>Conservative commentary, including The Conservative Treehouse, has focused on what it calls the unnerving volume of online support for a confessed murderer, treating the folk-hero response as evidence of moral rot rather than as a policy signal. NY Post-style coverage emphasizes the premeditation admitted in open court and argues the guidelines range is too lenient for a planned assassination.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Two legal questions now drive the case: whether Judge Garnett departs upward toward life at the December 18 sentencing, and whether New York's double jeopardy statute — broader than the federal constitutional rule — actually knocks out the state prosecution. A dismissal there would be a meaningful precedent for federal-first charging strategies. The federal death penalty is off the table given the counts pled.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.cnn.com/2026/08/14/us/live-news/luigi-mangione-hearing-plea-deal-talks">CNN</a>
-    <a href="https://www.nbcnews.com/news/us-news/luigi-mangione-guilty-plea-federal-court-case-ceo-shooting-rcna592421">NBC News</a>
-    <a href="https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html">CNBC</a>
-    <a href="https://www.pbs.org/newshour/nation/luigi-mangione-to-appear-in-court-for-expected-guilty-plea-in-killing-of-unitedhealthcare-ceo">PBS NewsHour</a>
-  </p>
-</article>
-
-<article>
-  <h3>Colombia's new president invites the U.S. antidrug military campaign into his country</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Abelardo de la Espriella, sworn in Friday in Cali rather than Bogotá, has asked the Trump administration to extend its lethal counternarcotics military campaign to Colombia, the world's largest cocaine producer.</li>
-    <li>Defense Secretary Pete Hegseth said the new president authorized joint U.S.–Colombian military operations targeting cartels; Colombia is joining Trump's Shield of the Americas program.</li>
-    <li>De la Espriella delivered his first remarks from a military base and pledged to eradicate illicit crops using aerial herbicides he says are safe for people and the environment.</li>
-    <li>Trump endorsed de la Espriella during the campaign. His predecessor, leftist Gustavo Petro, called the U.S. boat strikes off South America murder and disputed the administration's unevidenced claims that the vessels carried drugs.</li>
-    <li>The Trump administration had already begun fast-tracking military cooperation with Bogotá earlier this month.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>The Washington Post's reporting foregrounds that the U.S. campaign has killed people at sea without publicly demonstrated evidence, and that a new government is now inviting that model onshore. CEPR's running tracker of U.S. escalation in the Caribbean and Latin America frames it as an expansion of extrajudicial force with minimal congressional authorization, and notes aerial fumigation was suspended in Colombia for years over health and environmental findings.</p>
-  <p><strong>Right view</strong></p>
-  <p>The Washington Examiner presents the shift as a democratically elected partner choosing cooperation after years of Petro's obstruction — a validation of the pressure strategy. The broader argument on the right is that supply-side interdiction plus a willing host government is the fastest route to cutting cocaine flows, and that Colombian sovereignty is respected precisely because Bogotá requested the operations.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Regional analysts expect friction over rules of engagement, evidentiary standards for strikes, and whether U.S. forces operate on Colombian soil or only offshore. Watch for congressional demands for a War Powers accounting, for coca cultivation and eradication data over the next two quarters, and for how Venezuela and Brazil respond to a permanent U.S. military footprint on the continent's Pacific and Caribbean approaches.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.washingtonpost.com/world/2026/08/14/new-president-asks-trump-bring-deadly-antidrug-campaign-colombia/">Washington Post</a>
-    <a href="https://www.washingtonexaminer.com/policy/defense/4685357/colombia-president-joint-military-drug-cartels-lethal-hegseth-abelardo-espriella/">Washington Examiner</a>
-    <a href="https://cepr.net/publications/us-escalation-in-the-caribbean-and-latin-america-live-updates-august-2026/">CEPR</a>
-    <a href="https://colombiaone.com/2026/08/08/trump-administration-colombia/">Colombia One</a>
-  </p>
-</article>
-
-<article>
-  <h3>UN warns Yemen is closer to full-scale war than at any point since the 2022 truce</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>UN Special Envoy Hans Grundberg told the Security Council that Yemen faces a more serious risk of returning to large-scale conflict than at any time since the UN-mediated 2022 truce.</li>
-    <li>He cited the most significant intensification of military activity since that truce, including Houthi attacks in Marib, Hadramout, and Mocha, with military and civilian casualties.</li>
-    <li>The UN says more than half of Yemen's population is experiencing acute hardship.</li>
-    <li>Grundberg called for maximum restraint and protection of civilians, and warned that renewed fighting would hit a fragmented state and an economy with little capacity to absorb another shock while the wider region is at war.</li>
-    <li>Several Security Council members condemned the escalating Houthi attacks.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Al Jazeera and Guardian-style coverage put the humanitarian arithmetic first — a decade of war, collapsed institutions, and aid budgets already cut — and argue the Yemen front cannot be separated from the U.S.–Iran war, since escalation there raises the odds here. Coverage in this camp is skeptical that more military pressure produces anything but more displacement.</p>
-  <p><strong>Right view</strong></p>
-  <p>Right-of-center defense outlets and FDD's daily brief treat Houthi shipping and territorial attacks as an Iranian proxy problem that diplomacy has failed to contain, arguing the 2022 truce mainly bought Ansar Allah time to rearm. The prescription is sustained interdiction and pressure on Tehran rather than a renewed negotiating track. Mainstream U.S. coverage of Yemen is thin right now; the war with Iran is absorbing the bandwidth.</p>
-  <p><strong>Watch for</strong></p>
-  <p>The direct market channel is Red Sea and Bab al-Mandab shipping. With Hormuz already shut, a second chokepoint under threat would compound tanker and container rerouting around the Cape and push freight rates higher — a live inflation input. Watch insurance war-risk premiums for Red Sea transits, any Security Council product beyond statements, and whether Marib frontline movement resumes in force.</p>
-  <p><em>Sources:</em> 
-    <a href="https://press.un.org/en/2026/sc16431.doc.htm">United Nations</a>
-    <a href="https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns">Al Jazeera</a>
-    <a href="https://www.thenationalnews.com/news/us/2026/08/13/yemen-at-serious-risk-of-return-to-large-scale-conflict-un-envoy-says/">The National</a>
-    <a href="https://www.fdd.org/overnight-brief/august-14-2026/">FDD</a>
-  </p>
-</article>
-
-<h2>Markets &amp; Economy</h2>
-<ul>
-  <li><strong>S&amp;P 500:</strong> 7,786, down 0.17% Friday, slipping from Wednesday's record but capping a third straight weekly gain. <strong>Dow:</strong> 53,732, down 0.20%. <strong>Nasdaq:</strong> 26,729, down 0.28%, still barely positive for the week.</li>
-  <li><strong>Oil:</strong> Both benchmarks rose Friday on Hormuz supply anxiety. Brent around $88 a barrel, up roughly 1.5% on the day; WTI near $81. The IEA is flagging that inventory buffers are running down as the strait stays shut.</li>
-  <li><strong>Gas:</strong> AAA national average around $4.08 a gallon, up about 29% year over year and up from roughly $2.98 before the war began in late February. Prices had eased for a week in early August before turning up again.</li>
-  <li><strong>Other:</strong> UMich preliminary sentiment 51.0 (from 55.2); one-year inflation expectations 4.3%, five-to-ten-year steady at 3.3%. Broadcom fell about 6% Friday on disappointing guidance. Futures markets still lean toward a Fed cut around September, though the energy shock cuts against it.</li>
-</ul>
-
-<h2>Sports Watercooler</h2>
-<ul>
-  <li><strong>Golf:</strong> Scottie Scheffler shot a nine-under 61 Friday at TPC Southwind — 11 birdies, tying the course record — to lead the FedEx St. Jude Championship at 11 under, three clear of Sungjae Im and Viktor Hovland through 36 holes. Adam Scott opened with a 66. Round 3 Saturday, playoffs opener.</li>
-  <li><strong>Tennis:</strong> The Cincinnati Open (ATP/WTA 1000, Lindner Family Tennis Center) runs Aug 13–23. Jannik Sinner (knee) and Carlos Alcaraz (wrist) are both out injured, leaving Djokovic — seeded third and playing his first event since Wimbledon — as a co-favorite alongside Zverev, Fritz, and Shelton. Sabalenka, defending champ Rybakina, Gauff, and Pegula headline the women's draw; Paolini and Raducanu withdrew injured.</li>
-  <li><strong>Squash:</strong> PSA world rankings updated Aug 10. Men: Mostafa Asal still No. 1, with Paul Coll and Diego Elias behind him. Women: Hania El Hammamy No. 1 ahead of Amina Orfi and Nour ElSherbini. Two Americans in the women's top 10 — Olivia Weaver at 4 and Amanda Sobhy at 10.</li>
-  <li><strong>WWE:</strong> SummerSlam ran two nights, Aug 1–2, at U.S. Bank Stadium in Minneapolis — the first under the new domestic deal streaming exclusively on ESPN Unlimited, with Netflix carrying it internationally. Headline matches were Roman Reigns defending the World Heavyweight Title against Seth Rollins and CM Punk vs. Cody Rhodes for the WWE Championship, plus Oba Femi vs. Brock Lesnar in Hell in a Cell.</li>
-  <li><strong>Hockey:</strong> Quiet mid-August, but the money keeps moving. Nico Hischier signed a five-year extension with New Jersey at an $11.7M AAV; Tyson Foerster re-upped eight years in Philadelphia; Bowen Byram signed six years at $12.5M AAV with Chicago, kicking in 2027-28. Carolina is defending its first Cup since 2006; No. 1 pick Gavin McKenna landed in Toronto.</li>
-  <li><strong>Soccer:</strong> Premier League 2026-27 kicks off Friday Aug 21 — defending champions Arsenal host newly promoted Coventry City. Opening weekend also brings Hull v Manchester United, Brentford v Spurs, Newcastle v Liverpool on Sunday, and Fulham v Chelsea to close it out Monday night.</li>
-  <li><strong>Football:</strong> NFL preseason Week 2 runs Aug 20–23, with Raiders at Texans on ESPN Thursday night and Seahawks at Titans on FOX Sunday. Carolina and Arizona each play a fourth exhibition this summer thanks to the Hall of Fame Game in Canton.</li>
 </ul>]]></content:encoded>
 </item>
 </channel>
