@@ -6,8 +6,131 @@
 <description>A balanced daily brief: the day&#x27;s top stories with straight facts, left and right framings, and expert read on downstream effects. Plus markets and a sports watercooler.</description>
 <language>en-us</language>
 <atom:link href="https://news-recap-site.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Tue, 29 Sep 2026 07:00:00 -0400</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 07:00:00 -0400</lastBuildDate>
 <ttl>720</ttl>
+<item>
+<title>Wed Sep 30, 2026 — Trump and AI CEOs sign a voluntary &amp;ldquo;self-policing&amp;rdquo; accord at the White House</title>
+<link>https://news-recap-site.pages.dev/archive/2026-09-30.html</link>
+<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-09-30.html</guid>
+<pubDate>Wed, 30 Sep 2026 07:00:00 -0400</pubDate>
+<description>Trump and AI CEOs sign a voluntary &amp;ldquo;self-policing&amp;rdquo; accord at the White House · Iran talks stall after Trump rejects Hormuz reopening plan; oil stays above $90 · Consumer confidence sinks to a 12-year low as PCE inflation data lands today · Putin orders another army expansion as Zelenskyy warns of 10,000 more North Korean troops</description>
+<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
+
+<article>
+  <h3>Trump and AI CEOs sign a voluntary &ldquo;self-policing&rdquo; accord at the White House</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Executives from OpenAI, Anthropic, Meta, Google, Microsoft, Nvidia and others met Trump at the White House on Tuesday; Axios and NBC report the companies signed a &ldquo;White House Accord on Superintelligence.&rdquo;</li>
+    <li>The accord is voluntary and non-binding. Per The Week's summary, it calls for internal monitoring during training and deployment, dedicated safeguard teams, independent external audits, and an independent board committee that reviews audit results; it says it may &ldquo;make sense to codify&rdquo; the steps into law later.</li>
+    <li>Trump called it &ldquo;morally binding&rdquo; and said companies will police each other. He also ordered federal agencies to say &ldquo;Super Intelligence&rdquo; (&ldquo;SI&rdquo;) instead of &ldquo;AI,&rdquo; per NBC and Axios, and unveiled an AI-built America.gov portal meant to fold in some 29,000 federal sites by 2027.</li>
+    <li>Full text and enforcement details had not been released as of Axios's report.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Coverage from NPR, Axios and The Week leans on skeptics: AI researchers doubt companies can credibly police themselves when their profits depend on faster deployment, and note there is no clear scope or enforcement. Progressive commentary (for example a widely shared Substack post) called it a &ldquo;secret&rdquo; pact meant to head off federal regulation. I could not retrieve statements from named Democratic lawmakers today.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News's live coverage and the administration's framing stress that the US must not slow down against China. House Speaker Mike Johnson called the accord voluntary principles and warned against &ldquo;hyperregulation,&rdquo; while backing transparency and outside audits. Right-leaning outlets I could reach today (Washington Examiner) had little direct analysis; its issue page instead flagged Big Tech skepticism growing on the right in Texas.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Whether the text is published and whether any company is audited in practice. Congress could still move on binding rules; the accord itself concedes that possibility. Separate news that day: reports of OpenAI shelving a model over safety and Anthropic flagging agent-related legal risk in an IPO filing show the industry's own risk debate is live.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg">Axios</a>
+    <a href="https://www.nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853">NBC News</a>
+    <a href="https://www.foxnews.com/live-news/trump-ai-white-house-meeting-september-29">Fox News</a>
+    <a href="https://www.theweek.in/news/sci-tech/2026/09/30/ai-safety-white-house-accord-analysis.html">The Week</a>
+    <a href="https://www.houstonpublicmedia.org/npr/2026/09/30/nx-s1-5985699/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/">NPR/Houston Public Media</a>
+  </p>
+</article>
+
+<article>
+  <h3>Iran talks stall after Trump rejects Hormuz reopening plan; oil stays above $90</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Trump rejected Iran's seven-day proposal to reopen the Strait of Hormuz, telling Axios it &ldquo;is not the deal that I want to make,&rdquo; but expects talks to continue through mediators (The National, CBS).</li>
+    <li>Iran's plan would have had the US lift its blockade and sanctions while Iran reopens the strait and negotiates on nuclear issues; a senior Iranian official said there is &ldquo;no flexibility&rdquo; on enrichment or shipping out enriched uranium (via WSJ as relayed by Breitbart).</li>
+    <li>The WSJ reported Trump told aides he expects US strikes to resume after the November midterms, with scope undecided; the US has said it will not lift its maritime blockade of Iranian ports.</li>
+    <li>Brent jumped about 4% Monday to roughly $108.6 and WTI to roughly $96.3 (The National). On Tuesday oil eased on renewed talk of diplomacy; analysts cited by TheStreet say Gulf flows are back above 90% of pre-war levels.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Al Jazeera's news analysis framed the rejection as a bid for a &ldquo;better deal&rdquo; and its coverage questions the link between the midterm calendar and the timing of any strikes. I could not retrieve US left-leaning commentary (MSNBC, Vox, The Guardian) on this today, so treat the left view here as thin.</p>
+  <p><strong>Right view</strong></p>
+  <p>A Republican strategist, Adolfo Franco, argued in an Al Jazeera op-ed that rejecting the offer was right: accepting would show US policy bends to the election calendar and give Iran breathing room to rearm. Breitbart's write-up leans on the WSJ report and emphasizes the blockade staying in place.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Oil traders are pricing a &ldquo;less acute&rdquo; supply shock than earlier in the war, so headlines about talks or strikes can swing crude several dollars in a day. Analysts note a prolonged stalemate keeps crude above $90 and gasoline elevated into the midterms.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.thenationalnews.com/business/energy/2026/09/28/oil-prices-rise-as-us-iran-peace-talks-hit-stalemate/">The National</a>
+    <a href="https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956">NBC News</a>
+    <a href="https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz">NPR</a>
+    <a href="https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer">Al Jazeera (op-ed)</a>
+    <a href="https://www.breitbart.com/politics/2026/09/25/trump-rejects-iran-seven-day-hormuz-proposal-expects-renew-strikes-midterms/">Breitbart</a>
+    <a href="https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-29-2026">TheStreet</a>
+  </p>
+</article>
+
+<article>
+  <h3>Consumer confidence sinks to a 12-year low as PCE inflation data lands today</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The Conference Board index fell 6.7 points to 81.9 in September, the lowest since 2014 and well below the 89.2 economists expected (Axios, Benzinga).</li>
+    <li>The Expectations Index dropped to 63.6, its third straight decline and below the 80 level that often signals recession risk; 12-month inflation expectations rose to 6.1%, and 68.4% of respondents expect higher rates.</li>
+    <li>Respondents cited prices and fuel costs most; the labor market is holding up, with 46,000 jobs added in August and layoffs low.</li>
+    <li>The Fed hiked 25 bp on Sept 16 in a 12-0 vote to 3.75%&ndash;4.00%, its first hike since 2023, and 16 of 19 officials see at least one more this year (Schwab summary). NY Fed's John Williams said there is &ldquo;no need for urgency,&rdquo; nudging markets toward an October hold (Yahoo Finance). August PCE inflation is out today at 8:30 ET; core is expected around 3.3% year over year.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>I could not retrieve left-leaning outlets' takes today. Framing from the center-left press (Axios, The Hill) stresses the disconnect between a solid jobs market and gloomy households, with the Iran war's fuel-price shock and the Fed's hike as pressure points.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Washington Examiner's current issue focuses on how the midterms will position Democrats for 2028, and on business worries such as H-1B costs. Conservative economic commentary I could reach did not cover the confidence report directly; expect the argument to center on energy policy and inflation.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Today's PCE print and any Fed-speaker comments. A core reading above 3.3% would revive October-hike talk; a soft print supports the hold the market now expects. Economists cited by Benzinga warn that three months of falling expectations raises recession risk.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.axios.com/2026/09/29/new-12-year-low-in-consumer-confidence">Axios</a>
+    <a href="https://www.benzinga.com/markets/economic-data/26/09/62064057/us-consumer-confidence-sinks-lowest-since-2014-fuel-costs-fed-hike">Benzinga</a>
+    <a href="https://www.schwab.com/learn/story/fomc-meeting">Schwab</a>
+    <a href="https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html">Yahoo Finance</a>
+    <a href="https://www.washingtonexaminer.com/issue/september-30-2026/">Washington Examiner</a>
+  </p>
+</article>
+
+<article>
+  <h3>Putin orders another army expansion as Zelenskyy warns of 10,000 more North Korean troops</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Putin ordered a further 15,500 troops, the fourth increase of 2026 and nearly 48,000 since March, lifting authorized strength to 2,441,630 (Al Jazeera).</li>
+    <li>Zelenskyy said Russia is preparing to deploy about 10,000 additional North Korean soldiers (CNBC, PBS). South Korea's defense minister separately said North Korean troops crossed the demarcation line to plant a landmine (SBS News).</li>
+    <li>Al Jazeera reports Russian advances have slowed after 4.5 years of war, while Ukraine says it retook about 176 sq km in Donetsk; Russian strikes killed at least eight across Ukraine on Sunday. US-brokered ceasefire talks are being revived but remain stalled on territory and NATO.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Coverage in left-leaning and international outlets (Al Jazeera, Guardian-style briefings) stresses civilian casualties, Russia's manpower strain, and a diplomatic track that Washington is only tentatively reviving. I could not retrieve a named left-leaning US outlet today.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Washington Examiner is running a feature on training Ukraine's future officers, a sign of continued right-of-center interest in sustaining Ukraine's military, though the right is split on aid. No direct right-leaning take on today's expansion was retrieved.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Analyst Alexey Muraviev reads the expansion as a longer-term posture toward NATO rather than an immediate battlefield fix; analyst Olena Halushka says talks are unlikely while Moscow thinks continuing costs less than ending. Watch for confirmation of North Korean deployments and any US sanctions or aid moves.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army">Al Jazeera</a>
+    <a href="https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html">CNBC</a>
+    <a href="https://news.sbs.co.kr/english/article.do?news_id=N1008775767">SBS News</a>
+    <a href="https://www.washingtonexaminer.com/issue/september-30-2026/">Washington Examiner</a>
+  </p>
+</article>
+
+<h2>Markets &amp; Economy</h2>
+<ul>
+  <li><strong>Tuesday close:</strong> S&amp;P 500 -0.19%, with the Nasdaq and Dow also lower and the Russell 2000 down 0.71% (TheStreet). Wednesday futures: Dow +0.4%, S&amp;P +0.2%, Nasdaq-100 flat ahead of PCE (Yahoo Finance).</li>
+  <li><strong>Movers:</strong> Fair Isaac plunged about 21.6% after the FHFA changed mortgage pricing rules in a way that adds credit-score competition; Carnival rose about 11.7% on strong quarterly results; Bloom Energy gained about 10.9%.</li>
+  <li><strong>Oil:</strong> Brent about $108.6 and WTI about $96.3 on Monday; oil eased Tuesday on renewed US-Iran diplomacy, with WTI roughly $91&ndash;95 depending on the source and time.</li>
+  <li><strong>Gas:</strong> National regular average $4.456 on Sept 29, down 2 cents on the week but up 37 cents on the month and $1.32 on the year; diesel $6.439 (OilGasPrices.com). California is highest at $6.38, Indiana lowest at $3.86.</li>
+  <li><strong>Other:</strong> Treasury yields are near multi-decade highs; Robinhood is launching AI-powered trading accounts; Apple's new CEO is reportedly planning layoffs amid rising memory-chip costs (Yahoo Finance).</li>
+</ul>
+
+<h2>Sports Watercooler</h2>
+<ul>
+  <li><strong>Golf:</strong> The Bank of Utah Championship at Black Desert Resort runs Thursday&ndash;Sunday, with Presidents Cup standout Jackson Koivun the betting favorite and Tony Finau playing near his hometown; the US just beat the Internationals in a final-day comeback at Medinah, with Koivun the only player on either side without a loss (PGA Tour, GOLF.com).</li>
+  <li><strong>Tennis:</strong> Asia swing is on: WTA China Open (Rybakina and Sabalenka lead the field, Anisimova out injured), ATP Beijing, and the Japan Open where Alcaraz defends after a four-month wrist layoff. Sinner has withdrawn from the China Open (Sports Illustrated).</li>
+  <li><strong>Squash:</strong> The Swedish Open began Sept 29, and the PSA lists the US Open field with newly crowned world No. 1 Orfi (PSA Squash Tour).</li>
+  <li><strong>WWE:</strong> Monday's Raw in Milwaukee set up Bronson Reed vs. Oba Femi at Money in the Bank, a Liv Morgan vs. Becky Lynch No. 1 contender match, and ended with Jaida Parker revealing herself as part of The 946 (Slam Wrestling).</li>
+  <li><strong>Hockey:</strong> The NHL regular season opens Sept 29&ndash;30; defending champion Carolina raises its banner against Florida, and McDavid closed preseason with a goal and an assist (NHL.com).</li>
+  <li><strong>Soccer:</strong> Champions League league phase is underway (through Jan 27); matchday one saw Barcelona beat Feyenoord 5-1, PSG beat Slovan Bratislava 6-1 and Bayern beat Bod&oslash;/Glimt 5-0 (UEFA). I did not find fresh Premier League results today.</li>
+  <li><strong>Football:</strong> Monday Night Football: Bears 27, Eagles 7, behind 37-year-old Case Keenum's 247 yards and two TDs; both teams are 2-1 (NBC Sports/PFT). NBC's injury report headlines Dolphins RB De'Von Achane with an ACL injury.</li>
+</ul>]]></content:encoded>
+</item>
 <item>
 <title>Tue Sep 29, 2026 — Trump rejects Iran&#x27;s 7-day Hormuz plan, but expects talks to resume this week</title>
 <link>https://news-recap-site.pages.dev/archive/2026-09-29.html</link>
@@ -5024,181 +5147,6 @@
   <li><strong>Hockey:</strong> Quiet stretch before mid-September camps, but Connor Hellebuyck has made his trade request public — the biggest goaltending story of the offseason. Jamie Benn re-signed with Dallas for another year, and PTO season is underway league-wide.</li>
   <li><strong>Soccer:</strong> Transfer deadline day. The Premier League window shuts at 11pm BST tonight, two hours later than the past two summers, with a two-hour grace period for paperwork filed on time. Alexander Isak's move to Liverpool and Randal Kolo Muani to Tottenham headline the day.</li>
   <li><strong>Football:</strong> College football's Week 1 main slate is Saturday, September 5, with Thursday the 3rd as the appetizer — third year of the 12-team Playoff. The NFL opens Wednesday, September 9 with Patriots–Seahawks on NBC and Peacock, a Super Bowl LX rematch.</li>
-</ul>]]></content:encoded>
-</item>
-<item>
-<title>Mon Aug 31, 2026 — US and Iran trade fire again: Larak Island strike, then missiles at bases in Jordan</title>
-<link>https://news-recap-site.pages.dev/archive/2026-08-31.html</link>
-<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-08-31.html</guid>
-<pubDate>Mon, 31 Aug 2026 07:00:00 -0400</pubDate>
-<description>US and Iran trade fire again: Larak Island strike, then missiles at bases in Jordan · Venezuela oil deal draws fire from both parties — including the WSJ editorial board · Fed&#x27;s Warsh signals rate hikes are back on the table — ten weeks before the midterms · Russian drone strike on Kyiv-area depot kills 38 — the war&#x27;s deadliest attack this year</description>
-<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
-
-<article>
-  <h3>US and Iran trade fire again: Larak Island strike, then missiles at bases in Jordan</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>US forces struck two Iranian launchers on Larak Island after observing IRGC units preparing to fire rockets carrying sea mines into the Strait of Hormuz, US officials said. It was the first strike on Iranian territory in roughly a month.</li>
-    <li>Early Monday the IRGC said its Aerospace Force hit the King Hussein and Azraq airbases in Jordan in a combined missile-and-drone operation, and warned that further US attacks would draw a stronger response. Al Jazeera reported Iran also claimed strikes on a site in the UAE.</li>
-    <li>Jordan's armed forces said they intercepted eight missiles that entered Jordanian airspace. Iran said the US strike killed and wounded both fighters and civilians and called it a grave blunder.</li>
-    <li>The war began in February. A 60-day ceasefire framework lapsed earlier this month, and Trump has said no talks with Tehran are scheduled. He maintains Hormuz is open and demined; CENTCOM has not confirmed that, referring questions to the White House.</li>
-    <li>Congress has twice rebuked the administration on war powers — the House passed a resolution 214–208 in July with four Republicans joining Democrats, while a companion Senate measure failed 47–49.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR frames this as a war that has outrun its own promises: a swift victory was pledged in February, and six months on the conflict has battered the global economy, strained Gulf allies and drawn down US munitions stocks. Al Jazeera and left-leaning commentators emphasize that each round of tit-for-tat now lands on third countries — Jordan intercepting missiles aimed at American bases on Jordanian soil — and argue that with no negotiating track, escalation is the only remaining policy. Democrats who backed the war powers resolutions, led in the House by Rep. Pramila Jayapal, say the campaign has no defined mission or endpoint and that Congress was never consulted.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News coverage stresses the operational trigger: Iranian forces were caught in the act of preparing to lay mines in a waterway the US has committed to keeping open, making the strike preemptive rather than escalatory. Fox contributor Lara Logan cautioned that Iran treats retaliation as a long game and would be unlikely to stop here. The right is not unified, though — Sens. Rand Paul, Susan Collins, Lisa Murkowski and Bill Cassidy have crossed party lines on Iran war powers, and House Republicans Thomas Massie and Warren Davidson among others have voted to constrain the campaign.</p>
-  <p><strong>Watch for</strong></p>
-  <p>CNBC's read is that the strike reflects Washington's frustration that sanctions are working too slowly, which implies more kinetic action rather than less. Energy analysts see the risk premium re-entering crude: Brent is near $88 after peaking above $110 in May, and BloombergNEF has sketched a path toward $91 in late 2026 on sustained Iranian disruption. EIA now assumes Hormuz constraints persist into early 2027 with roughly 0.6 million barrels a day of lasting disruption. Watch whether Gulf states quietly distance themselves from US basing, whether Jordan's government faces domestic pressure, and whether war-risk insurance rates move again — that is usually the first place a genuine escalation shows up.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.cnn.com/2026/08/30/politics/us-iran-strikes-larak-island">CNN</a>
-    <a href="https://www.foxnews.com/live-news/iran-news-trump-war-israel-hormuz-august-30">Fox News</a>
-    <a href="https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island">Al Jazeera</a>
-    <a href="https://time.com/article/2026/08/31/us-iran-strikes-larak-island/">TIME</a>
-    <a href="https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html">CNBC</a>
-    <a href="https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions">NPR</a>
-  </p>
-</article>
-
-<article>
-  <h3>Venezuela oil deal draws fire from both parties — including the WSJ editorial board</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Trump announced an agreement giving the United States a stake in Venezuela's oil reserves — the largest proven reserves in the world — following the January raid that captured Nicolás Maduro and his extradition to New York on federal drug-trafficking charges.</li>
-    <li>The White House has released few specifics. Drilling timelines, funding structure, and how revenue is split remain unclear, as does whether Congress has any role. Trump called it the biggest oil deal in world history.</li>
-    <li>The Wall Street Journal reported Chevron and Halliburton are in talks to invest billions in Venezuelan fields; Bloomberg confirmed Chevron is nearing a deal to expand there.</li>
-    <li>Fortune noted the unusual structure: the US federal government would effectively control a company sitting on the world's second-largest reserves, something it has no domestic equivalent for.</li>
-    <li>Venezuelans surveyed by Fortune were largely critical of their own government's role in handing over the reserves.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Democrats say the deal retroactively exposes the motive for the Maduro operation. Sen. Tim Kaine (D-Va.) called it corruption at epic scale and argued gas prices will not fall by anything close to what the Iran war added to them. Sen. Chris Van Hollen (D-Md.) told The Hill this is not a win and said service members were put at risk to secure oil for well-connected firms. House Oversight Democrats have an open investigation into administration communications with oil companies during the Venezuela takeover.</p>
-  <p><strong>Right view</strong></p>
-  <p>Sen. Bernie Moreno (R-Ohio) defends it as historic and mutually beneficial, arguing that the alternative was Maduro in power and Venezuelan crude flowing to China at a discount. But the right is split in a notable way: the Wall Street Journal editorial board ran a piece titled "Trump Takes the Oil in Venezuela," comparing the arrangement to a scene from The Godfather Part II, questioning its legality and calling it crony statism. That is a free-market conservative objection, not a progressive one — the complaint is about the state owning an oil company, not about intervention.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Energy analysts note Venezuelan heavy crude needs years of capital and infrastructure before it moves global prices, so anyone promising near-term pump relief is overselling. The near-term market question is whether Chevron and Halliburton actually sign and what indemnities they demand against future US or Venezuelan legal challenge. Watch for the legal architecture to surface — whether this runs through an executive agreement, a sanctions carve-out, or something requiring Senate action — and whether the WSJ editorial line spreads to Senate Republicans, which is the signal that would make this a real intraparty fight rather than a one-off.</p>
-  <p><em>Sources:</em> 
-    <a href="https://thehill.com/homenews/senate/6059052-democrats-slam-trump-venezuela-oil-deal/">The Hill</a>
-    <a href="https://www.pbs.org/newshour/politics/what-we-know-about-trumps-deal-giving-u-s-access-to-vast-oil-reserves-in-venezuela">PBS NewsHour</a>
-    <a href="https://www.bloomberg.com/news/articles/2026-08-28/chevron-nears-deal-to-expand-in-venezuela-wsj-says">Bloomberg</a>
-    <a href="https://fortune.com/2026/08/29/us-state-owned-oil-giant-venezuela-second-largest-reserves-trump/">Fortune</a>
-    <a href="https://www.newsmax.com/world/globaltalk/wsj-trump-venezuela/2026/08/30/id/1267811/">Newsmax on WSJ ed board</a>
-    <a href="https://www.nwaonline.com/news/2026/aug/31/few-details-of-venezuela-oil-deal-offered-to/">AP via NWA Democrat-Gazette</a>
-  </p>
-</article>
-
-<article>
-  <h3>Fed's Warsh signals rate hikes are back on the table — ten weeks before the midterms</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>In his Jackson Hole keynote Friday, Fed Chair Kevin Warsh said the central bank has "work to do" if it is not confident inflation is returning to 2% clearly and quickly — read across markets as an explicit opening for hikes.</li>
-    <li>CPI rose 3.4% over the twelve months through July; the Fed's preferred PCE measure ran 3.7% over the same period.</li>
-    <li>Warsh said he was impressed by the economy's overall strength but troubled that underlying inflation trends have not improved. He recommitted to the 2% PCE target and declined to offer forward guidance or a reaction function.</li>
-    <li>Markets repriced immediately: the S&amp;P 500 fell 0.25% Friday to 7,711.76 and the Nasdaq dropped 0.52%, though the S&amp;P still closed the week higher.</li>
-    <li>Trump, who appointed Warsh in January, has said he would not have chosen him if he wanted rate hikes, and has blamed the Fed's board for what he calls political bias.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR's framing is that the inflation Warsh is fighting is substantially self-inflicted — an energy shock produced by a war the administration chose and a tariff regime it expanded — which makes attacks on the Fed a deflection. Democrats point to the same polling Republicans are seeing and argue voters are correctly attributing $4 gas and 3.4% CPI to policy rather than to the central bank.</p>
-  <p><strong>Right view</strong></p>
-  <p>The Washington Examiner reports that market expectations of a hike "haunt Warsh and the GOP," acknowledging the political problem directly: a pre-election hike would spotlight mortgage and auto loan costs for households already stretched. The Hill reports Republicans are divided over a pre-election stimulus push in response. Hawkish conservatives and the Fed-independence wing counter that credibility is the whole asset — that a chair who blinks under presidential pressure gets neither lower inflation nor lower long rates.</p>
-  <p><strong>Watch for</strong></p>
-  <p>The next CPI and PCE prints are the whole ballgame; another 3-handle makes a hike hard to avoid and a September or October move increasingly live. Economists flag the collision course between the White House and a chair Trump himself picked, and the possibility Trump escalates rhetorically against the board rather than the chair. For markets, watch the long end — the 30-year already hit a 19-year high this month — and rate-sensitive sectors. Politically, watch whether GOP leadership converges on a stimulus or tax-relief package as a hedge.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.washingtonpost.com/business/2026/08/28/fed-chair-warsh-speaks-jackson-hole-conference/">Washington Post</a>
-    <a href="https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html">CNBC</a>
-    <a href="https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm">Federal Reserve (speech text)</a>
-    <a href="https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates">NPR</a>
-    <a href="https://www.washingtonexaminer.com/policy/finance-and-economy/4584533/market-expectations-rate-hike-haunt-warsh-gop/">Washington Examiner</a>
-    <a href="https://www.axios.com/2026/08/28/kevin-warsh-federal-reserve-jackson-hole">Axios</a>
-  </p>
-</article>
-
-<article>
-  <h3>Russian drone strike on Kyiv-area depot kills 38 — the war's deadliest attack this year</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>A Russian drone hit a warehouse in Myla, about three miles west of Kyiv, at roughly 8:10 p.m. local time Friday. Ukrainian officials say the site stored shells, mines and other ammunition.</li>
-    <li>The secondary detonations set off fires that swept through dozens of nearby homes and buildings. The toll rose to 38 by Sunday, per Zelenskyy — the deadliest single attack of 2026.</li>
-    <li>Emergency crews were still extinguishing fires Sunday and bomb disposal teams were clearing unexploded ordnance from the site.</li>
-    <li>Russia hit Kyiv for a third consecutive night on Aug. 29–30, with repeated air raid alerts and fires reported in the capital.</li>
-    <li>Zelenskyy said Russia launched nearly 2,000 attack drones, more than 1,600 glide bombs and 31 missiles — including North Korean ballistic missiles — at Ukraine in the past week alone.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>NPR and The Guardian's coverage centers the civilian cost and the pattern: near-continuous drone saturation designed to exhaust air defenses and civilian endurance rather than to take ground. The presence of North Korean ballistic missiles in the salvo is treated as evidence that sanctions have failed to isolate Moscow's supply chain, and as an argument for accelerating Western air defense transfers rather than conditioning them.</p>
-  <p><strong>Right view</strong></p>
-  <p>Coverage on the right is comparatively thin today — Ukraine has been crowded out by Iran and Venezuela across right-leaning outlets. Where it appears, the framing splits: hawkish voices at National Review treat the North Korean missiles as proof of an axis requiring a harder line, while restraint-minded outlets argue a US already fighting Iran and reworking Venezuela cannot sustain a third theater and should push toward a negotiated end. Worth flagging: the depot detail — that the target was an ammunition store — is being used by some commentators to contest the "civilian massacre" framing, though the deaths were overwhelmingly in surrounding homes.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Analysts expect the drone-volume trend to continue climbing, which puts interceptor supply, not political will, as the binding constraint through autumn. Watch European air defense pledges in September, whether the North Korean missile evidence triggers new secondary sanctions, and whether the Kyiv strike shifts the administration's posture — Ukraine policy has been on the back burner while Iran consumes attention and munitions inventory, and those two theaters compete for the same interceptors.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv">NPR</a>
-    <a href="https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38">Al Jazeera</a>
-    <a href="https://www.usnews.com/news/world/articles/2026-08-29/russian-strike-on-kyiv-area-warehouse-causes-detonation-killing-27">US News / Reuters</a>
-    <a href="https://kyivindependent.com/russia-continues-attacks-on-kyiv-as-air-raids-sound-on-and-off-in-ukraines-capital/">Kyiv Independent</a>
-  </p>
-</article>
-
-<article>
-  <h3>Nepal–Tibet flood toll passes 900 with more than 4,000 still missing</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Flash floods on Aug. 26 tore through dozens of settlements along a 72-km stretch of the Trishuli River in Nepal.</li>
-    <li>Confirmed figures now stand at roughly 903 dead and 4,247 missing in Nepal, plus 16 dead and 546 missing in Tibet — a sharp rise from the 750 reported a day earlier.</li>
-    <li>The trigger is believed to be a glacier collapse on Langtang Lirung, which produced a tremor of magnitude Ms 5.2 registered by seismometers worldwide.</li>
-    <li>At least 261 foreigners are among the missing, including 18 US citizens. Earlier NPR reporting put the number of missing Americans as high as 90 before identifications narrowed it.</li>
-    <li>Floodwaters carried some victims' bodies as far as 240 km downstream into India. Poor weather continues to hamper rescue and recovery.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>The Guardian and NPR tie the glacier collapse directly to Himalayan warming and accelerating glacial lake outburst risk, arguing this is the category of disaster climate scientists have warned about for a decade and that early-warning infrastructure in the region is badly underfunded. Coverage also notes the aid response is arriving late and thin relative to the scale.</p>
-  <p><strong>Right view</strong></p>
-  <p>Right-leaning outlets are covering this primarily as a consular story — the missing Americans and the State Department's response — rather than as a climate story, with some commentators cautioning against attributing a single glacier collapse to warming without attribution analysis. The Free Press and similar outlets have focused on rescue logistics and the limits of aid in remote high-altitude terrain. Mainstream and center coverage is doing most of the work here; there is not much of a partisan argument yet.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Disaster researchers expect the missing count to convert largely into confirmed deaths, which would place this among the deadliest Himalayan events on record. Watch for a formal glaciological assessment of the Langtang Lirung collapse, pressure on Nepal and China to build out GLOF early-warning systems, and the State Department's consular accounting of the 18 Americans. Downstream, monsoon-season debris flows in the same drainage remain a live risk for weeks.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.cbsnews.com/news/nepal-flash-flood-death-missing-americans-rescue/">CBS News</a>
-    <a href="https://www.cnn.com/2026/08/29/world/live-news/nepal-china-flood">CNN</a>
-    <a href="https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods">NPR</a>
-    <a href="https://abcnews.com/International/hundreds-dead-1000-remain-missing-massive-nepal-tibet/story?id=136022919">ABC News</a>
-  </p>
-</article>
-
-<article>
-  <h3>NASA's Roman Space Telescope launches on a Falcon Heavy</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>The Nancy Grace Roman Space Telescope lifted off at 7:26 a.m. EDT Sunday from Launch Complex 39A at Kennedy Space Center aboard a SpaceX Falcon Heavy.</li>
-    <li>Roman separated from the rocket on schedule at 7:57 a.m. EDT, 31 minutes after launch, and NASA concluded launch coverage with the vehicle healthy.</li>
-    <li>Next steps are solar panel deployment and a mid-course correction burn en route to the L2 Lagrange point, about one million miles from Earth on the anti-sun side.</li>
-    <li>The $4 billion observatory's science program targets dark energy and dark matter, plus a wide-field exoplanet survey — its field of view is roughly 100 times Hubble's at comparable resolution.</li>
-    <li>Trump called in live during NASA's post-launch press conference.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Left-leaning science coverage frames Roman as a vindication of long-horizon federal science funding — a mission conceived over a decade ago, repeatedly threatened with cancellation in budget cycles, that survived to launch. The implicit argument is a caution against the deeper NASA science cuts proposed in recent budget requests.</p>
-  <p><strong>Right view</strong></p>
-  <p>Coverage on the right emphasizes the public-private model: a NASA payload on a commercial Falcon Heavy at a fraction of the historical launch cost, offered as evidence that competitive contracting outperforms legacy government-built launch systems. This is one of the rare stories today where both sides are essentially pleased and are simply crediting different things.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Roman needs roughly a month to reach L2, followed by a commissioning period before first light. The first cosmology data releases are where the actual stakes sit — Roman is designed to test whether dark energy's equation of state is constant, and a deviation would be the most consequential physics result in a generation. Nearer term, watch the mid-course correction burn confirmation and the instrument checkout milestones.</p>
-  <p><em>Sources:</em> 
-    <a href="https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/">NASA</a>
-    <a href="https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-30-2026">Space.com</a>
-  </p>
-</article>
-
-<h2>Markets &amp; Economy</h2>
-<ul>
-  <li><strong>S&amp;P 500:</strong> closed Friday at 7,711.76, down 0.25%, but still positive on the week. <strong>Dow:</strong> 53,559.99, essentially flat at −9.45 points (−0.02%). <strong>Nasdaq:</strong> 26,402.42, down 0.52% as rate-sensitive tech took the brunt of the Warsh repricing.</li>
-  <li><strong>Oil:</strong> WTI near $83.40, Brent near $88.10 — well below July's spike above $100 and May's peak above $110, but the Larak strike puts a fresh risk premium in play. EIA sees Brent averaging about $85 in Q3; BloombergNEF has flagged a path to $91 by late 2026 if Iranian disruption persists.</li>
-  <li><strong>Gas:</strong> AAA national average $4.079 a gallon as of Aug. 30 — up from $4.07 a week ago and $3.85 a month ago. For the first time on record the national average has been above $4 every single day in August, making this the most expensive August at the pump ever, passing 2022. Notably, demand is down and prices are still rising, which points squarely at crude rather than consumption.</li>
-  <li><strong>Other:</strong> The consumer squeeze is broadening. Airfares are up 25.5% year over year. A 2026 LendingTree survey found 29% of buy-now-pay-later users have financed groceries. Delinquencies at banks outside the top 100 by assets — where lower-income borrowers concentrate — sit at 6.43%. CPI is running 3.4% and PCE 3.7%, with Democrats leading the generic congressional ballot by about 6 points (D+8.1 on Nate Silver's likely-voter adjustment) ahead of the Nov. 3 midterms.</li>
-</ul>
-
-<h2>Sports Watercooler</h2>
-<ul>
-  <li><strong>Golf:</strong> Scottie Scheffler won the Tour Championship by three over Viktor Hovland at 16-under 264, taking the FedEx Cup and the $10 million winner's share of a $40 million purse. It was his third PGA Tour win of the season.</li>
-  <li><strong>Tennis:</strong> The US Open main draw opened Sunday and runs through Sept. 13. Aryna Sabalenka is the two-time defending women's champion and No. 1 seed; Carlos Alcaraz defends the men's title as the No. 2 seed. Among the Brits, Katie Boulter and Toby Samuel advanced while Cam Norrie went out in round one.</li>
-  <li><strong>Squash:</strong> The PSA has published its August–December calendar — 24 World Events tournaments across 14 countries. The Karachi event runs Aug. 31–Sept. 4, and the London Squash Classic follows at Alexandra Palace Sept. 1–6, with the QTerminals Qatar Classic in Doha Sept. 12–18.</li>
-  <li><strong>WWE:</strong> NXT Heatwave came from Bert Ogden Arena in Edinburg, TX on Sunday, with Tony D'Angelo defending the NXT title in a fatal four-way against Grayson Waller, Zilla Fatu and Cruz Montana, and Kendal Grey defending the women's title against Kelani Jordan. WWE also closed its Summer Tour in North Charleston with Punk, Rhodes, GUNTHER and Morgan advertised. Counterprogramming note: AEW ran All In from London the same night.</li>
-  <li><strong>Hockey:</strong> Cale Makar re-signed with Colorado on Aug. 28 for eight years and $163.2 million — a record extension. Elsewhere in a busy offseason following Carolina's first Cup since 2006: Patrick Kane back to Chicago on a two-year, $16M deal, Mason Marchment to San Jose (5 years, $6.75M AAV), Jack Roslovic to Toronto, and Tyson Foerster on an eight-year Flyers extension. Jason Robertson and Adam Fantilli remain unsigned RFAs.</li>
-  <li><strong>Soccer:</strong> Premier League matchweek 2 wrapped Sunday. Chelsea edged Brighton 4–3 at Stamford Bridge, and Manchester United won 5–2 behind a Bruno Fernandes hat-trick. Leeds hosted Brentford and Sunderland hosted Fulham in the same window.</li>
-  <li><strong>Football:</strong> NFL rosters had to be cut to 53 by 6 p.m. ET Sunday — earlier than the usual Tuesday deadline, moved up because the 49ers fly to Melbourne this week for their Sept. 10 opener against the Rams. The Bears and Titans drew the short straw, playing their final preseason game Saturday night with under 24 hours to finalize. Waiver claims settle over the next 48 hours.</li>
 </ul>]]></content:encoded>
 </item>
 </channel>
