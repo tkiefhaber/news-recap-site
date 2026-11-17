@@ -6,8 +6,160 @@
 <description>A balanced daily brief: the day&#x27;s top stories with straight facts, left and right framings, and expert read on downstream effects. Plus markets and a sports watercooler.</description>
 <language>en-us</language>
 <atom:link href="https://news-recap-site.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 16 Nov 2026 07:00:00 -0500</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 07:00:00 -0500</lastBuildDate>
 <ttl>720</ttl>
+<item>
+<title>Tue Nov 17, 2026 — Chip rout drags Wall Street down as Commerce closes a &quot;remote access&quot; loophole; Nvidia reports tonight</title>
+<link>https://news-recap-site.pages.dev/archive/2026-11-17.html</link>
+<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-11-17.html</guid>
+<pubDate>Tue, 17 Nov 2026 07:00:00 -0500</pubDate>
+<description>Chip rout drags Wall Street down as Commerce closes a &quot;remote access&quot; loophole; Nvidia reports tonight · Trump lands in Manila for the Quad and ASEAN, with Xi and Putin on Thursday · Ukraine&#x27;s record drone barrage hits the Crimean Bridge two nights running · Iran strikes U.S. radar in Bahrain a third time as Trump weighs his next move</description>
+<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
+
+<article>
+  <h3>Chip rout drags Wall Street down as Commerce closes a "remote access" loophole; Nvidia reports tonight</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Stocks fell hard Monday. The Nasdaq lost 2.5%, the S&amp;P 500 1.9% and the Dow 1.4%. Nvidia fell 4.2% to $156 on more than double its normal volume, AMD fell 5.6% and Broadcom 3.9%. The VIX jumped about 19% to near 23 (Yahoo Finance).</li>
+    <li>Commerce's Bureau of Industry and Security issued an interim rule on Monday. It targets "remote access" to advanced AI chips, meaning compute rented through data centers in third countries. Exports of advanced chips to Brazil, Indonesia, Malaysia, Singapore and Thailand now need licenses. Trump said selling other chips "is a good thing, not a bad thing" (Yahoo/AP, NPR).</li>
+    <li>Commerce Secretary Lutnick is taking fire from both parties. Sen. Maria Cantwell (D) accuses Commerce of ignoring its authority and leaving paths for China to train advanced models. Sen. Tim Scott (R) wants Lutnick and Jensen Huang to testify Dec. 3. Bessent says other agencies wanted Megaspeed blacklisted long ago. House Intel Chair Rick Crawford calls it premature to blame Lutnick (Daily Caller, The Hill).</li>
+    <li>Nvidia reports after the close, and interim CEO Colette Kress hosts the 5 p.m. ET call. Consensus is about $109B in revenue (+91% y/y) and $2.47 in adjusted EPS. Company guidance was $108B ±2% and a 74% gross margin (Saxo/Bloomberg). The stock is down about 29% in 30 days. Per the FT, the board is not considering reinstating Huang (Fortune).</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>CNN's reporting focuses on how Lutnick cultivated Jensen Huang while chip controls slipped. Cantwell's letter, widely covered on the center-left, ties that to a reported $1.2B family Nvidia stake held through Cantor Fitzgerald when he was nominated. CNBC also reports she is urging Lutnick to halt AI chip sales to China before Trump sees Xi. MS NOW leads with Republicans now turning on Lutnick.</p>
+  <p><strong>Right view</strong></p>
+  <p>The Daily Caller casts Lutnick as caught in "bipartisan crossfire," but notes that most of the case against him so far is allegation, not findings. The administration is split. Bessent (on Fox and elsewhere) blames Commerce and wants an outside CEO at Nvidia, while Trump continues to defend chip sales, and Crawford and other Lutnick allies urge waiting for facts.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Analysts say tonight is about guidance and governance, not the already-locked quarter. Watch Blackwell/Rubin ramp commentary, margins and memory costs, any hit from the new license countries (Nvidia already excludes China data-center sales from its outlook), and who speaks for leadership on the call. Morgan Stanley's Lisa Shalett says money is rotating out of mega-caps rather than leaving equities, and BofA's Michael Hartnett says few investors are "physically" bearish. A weak guide would hit the whole AI complex the day before Anthropic's IPO prices (Markets, below).</p>
+  <p><em>Sources:</em> 
+    <a href="https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-223002959.html">Yahoo Finance</a>
+    <a href="https://www.yahoo.com/news/politics/articles/commerce-department-moves-curb-remote-151352909.html">AP (via Yahoo)</a>
+    <a href="https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department">NPR</a>
+    <a href="https://www.cnn.com/2026/11/15/politics/lutnick-jensen-alice-huang-trump-nvidia">CNN</a>
+    <a href="https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html">CNBC</a>
+    <a href="https://dailycaller.com/2026/11/16/howard-lutnick-maria-cantwell-tim-scott-commerce-department-nvidia-jensen-huang/">Daily Caller</a>
+    <a href="https://www.ms.now/news/lutnick-nvidia-jensen-huang-china-chips">MS NOW</a>
+    <a href="https://fortune.com/2026/11/17/nvidia-q3-earnings-colette-kress-madison-huang/">Fortune</a>
+    <a href="https://www.home.saxo/en-mena/content/articles/equities/nvidia-earnings-preview-the-first-big-test-after-jensen-huangs-exit-16112026">Saxo</a>
+  </p>
+</article>
+
+<article>
+  <h3>Trump lands in Manila for the Quad and ASEAN, with Xi and Putin on Thursday</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Trump arrived in Manila Tuesday. It's his first trip abroad since Republicans' midterm losses. Today brings the first Quad leaders' meeting of his second term (U.S., Japan, India, Australia), a special summit with ASEAN on trade, Myanmar and the South China Sea, and a gala dinner (AP via KPBS).</li>
+    <li>He is set to sign a Thailand trade deal built on an October framework. Thailand would cut tariffs on most U.S. goods and buy U.S. aircraft, farm goods and LNG. Wednesday brings a state visit with President Marcos, then Trump flies to Shenzhen for APEC.</li>
+    <li>On Thursday comes the first-ever three-way meeting with Xi and Putin. The White House says the main focus is nuclear proliferation, Iran will likely come up, and Ukraine isn't expected to be discussed. Trump says he may also meet Kim Jong Un. Bessent, Lutnick and Elon Musk are on the trip (CBS News).</li>
+    <li>About 1,500 left-wing protesters rallied in Manila against the visit (AP).</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>AP and other mainstream outlets present the trip against a run of domestic setbacks: the midterm losses, last week's FAA ground stop and the Nvidia spy scandal. Democrats are pressing on China in particular. Cantwell wants chip sales to China halted before the Xi meeting (CNBC). In AP's reporting, Zelenskyy warns that a U.S.-floated new European security framework could be used by Russia to weaken NATO, which adds to unease that Ukraine is off the summit agenda.</p>
+  <p><strong>Right view</strong></p>
+  <p>The administration frames the trip around deals and nuclear arms control, and its supporters see a chance at a legacy-defining summit. National Review is running a piece arguing that a Trump–Xi–Putin meeting could remake the world order. Its framing calls for a renewed U.S.-led order rather than a great-power carve-up. China hawks on the right are watching for any concessions on Taiwan arms sales or export controls.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Near-term deliverables are likely trade "frameworks" in Southeast Asia and Quad statements on maritime security. The bigger market variables are any extension of the U.S.–China trade truce (it expires Jan. 10), rare-earth commitments, and whether Taiwan language or chip controls come up in Shenzhen. A surprise Kim meeting would dominate headlines but analysts expect little substance on denuclearization, which Trump himself called a "tough subject."</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.kpbs.org/news/international/2026/11/17/trump-arrives-in-philippines-to-kick-off-asia-trip">AP (via KPBS)</a>
+    <a href="https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/">CBS News</a>
+    <a href="https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines">NPR</a>
+    <a href="https://www.nationalreview.com/article/a-trump-xi-putin-summit-could-remake-the-world-order">National Review</a>
+    <a href="https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html">CNBC</a>
+    <a href="https://www.justsecurity.org/164727/early-edition-november-16-2026/">Just Security digest</a>
+  </p>
+</article>
+
+<article>
+  <h3>Ukraine's record drone barrage hits the Crimean Bridge two nights running</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Russia's Defense Ministry reported downing about 1,300–2,000 Ukrainian drones over 15–21 regions across Sunday and Monday nights, the largest Ukrainian drone attack of the war. Moscow's mayor said hundreds of drones were aimed at the capital. All four Moscow airports were put under flight restrictions (Irish Times/Reuters, ABC News). None of these figures can be independently verified.</li>
+    <li>The Kerch (Crimean) Bridge was hit Sunday night and again Monday night. The Kremlin first called the damage minor, but by Tuesday Crimea's Russian-installed head said traffic was suspended. Two people were killed in a drone strike near Kerch, he said. Ukrainian outlets report a road span was badly damaged (ABC News, Euromaidan Press).</li>
+    <li>Fires hit industrial sites in Rostov and Krasnodar. Zelenskyy claims more than half of Russia's refining capacity is disabled; industry sources cited by Reuters put it nearer 30% (Fox News).</li>
+    <li>Russia is striking Dnipro River bridges in Kyiv. Zelenskyy says Moscow is "trying to divide Ukraine along the Dnipro." The first U.S.-led talks in nine months, held in Abu Dhabi, ended without a breakthrough. Estonia will close its Russian border crossings Dec. 1 (Irish Times, POLITICO).</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Center-left and wire coverage (AP, BBC, Reuters) emphasizes the humanitarian stakes and the stalled diplomacy. Nuclear-safety regulators warn that accident risk in Ukraine is rising this winter. Russia is targeting power links between western and eastern Ukraine. Zelenskyy is also complaining that SpaceX's Starshield is too slow. Coverage notes concern that Thursday's Trump–Xi–Putin meeting excludes Ukraine.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News frames the strikes as mounting Ukrainian pressure on "Putin's prized bridge." It highlights a Vedomosti report that ruling-party lawmakers were told to prepare for "victory" and for returning soldiers, while noting there's no timetable. Fox's analyst, retired Lt. Gen. Richard Newton, argues that sustained pressure could shift Putin and that the U.S. should keep backing Kyiv.</p>
+  <p><strong>Watch for</strong></p>
+  <p>A lasting closure of the bridge's road deck would squeeze Russian logistics into Crimea through winter. Expect heavy Russian retaliation on Ukraine's grid. Refinery outages keep pressure on Russian fuel exports, but the global oil surplus is muting the price impact so far. Watch whether Putin raises the strikes in Shenzhen even though the White House says Ukraine isn't on the agenda.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.irishtimes.com/world/europe/2026/11/16/ukraine-strikes-crimean-bridge-in-record-drone-attack/">Irish Times (Reuters)</a>
+    <a href="https://abcnews.com/International/ukraine-attacks-crimean-bridge-2nd-consecutive-night-officials/story?id=138201512">ABC News</a>
+    <a href="https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory">Fox News</a>
+    <a href="https://euromaidanpress.com/2026/11/17/the-night-the-kerch-bridge-lost-its-road-arch-ukraines-drones-also-reached-bashkortostan-and-kursk/">Euromaidan Press</a>
+    <a href="https://www.nbcnews.com/world/ukraine/ukraine-launches-biggest-drone-attack-russia-war-began-rcna609555">NBC News</a>
+    <a href="https://www.justsecurity.org/164727/early-edition-november-16-2026/">Just Security digest</a>
+  </p>
+</article>
+
+<article>
+  <h3>Iran strikes U.S. radar in Bahrain a third time as Trump weighs his next move</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>Iran fired drones at a U.S. radar facility in Bahrain on Tuesday, its third attack on American targets there in five days, after about two months of calm. Bahrain says it intercepted the drones, and little damage has been visible in any of the attacks (AP).</li>
+    <li>Tehran calls the strikes retaliation for U.S. attacks on Iranian telecom towers and for drone surveillance. Three U.S. carriers are now in the region, including the newly arrived Theodore Roosevelt, supporting the blockade of Iranian shipping. Trump is weighing whether to resume full strikes or tighten the blockade (AP).</li>
+    <li>U.S. officials told the WSJ that Iran may still hold 1,500–2,500 missiles. It's a low-confidence estimate that conflicts with Trump's claims that Iran's military was decimated. Qatar-led mediation remains stalled.</li>
+    <li>Bahrain sentenced dozens to life in prison for allegedly colluding with the IRGC. A rights group says 60 of the 64 defendants were Shi'ite clerics (NYT, Reuters).</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>Mainstream and center-left coverage puts the escalation risk on both capitals. AP quotes the International Crisis Group's Hamidreza Azizi: renewed war "no longer depends solely" on Trump, but on whether Tehran sees restraint as the costlier path. NYT and Reuters also highlight Bahrain's mass sentencing of Shi'ite clerics, a reminder of the domestic strain on Gulf hosts of U.S. bases.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News' live coverage leads with Bahrain's air defenses foiling the IRGC and with Trump's warning that he'd strike again with "no hesitation." The WSJ's missile-stockpile reporting gives hawks an argument that the job isn't finished. Others on the right, echoing JD Vance's post-midterm comments, see the war as a political liability.</p>
+  <p><strong>Watch for</strong></p>
+  <p>The IISS's Sascha Bruchmann reads the strikes as Iranian impatience under economic strain, but says "this is not it — yet." The trigger to watch is any U.S. casualty in Bahrain. So far oil traders shrug: Brent is down Tuesday because the market expects a Q4 surplus. Iran will likely come up at Thursday's Trump–Xi–Putin meeting.</p>
+  <p><em>Sources:</em> 
+    <a href="https://www.wsls.com/business/2026/11/17/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain/">AP (via WSLS)</a>
+    <a href="https://www.foxnews.com/live-news/iran-war-strikes-donald-trump-strait-hormuz-irgc-november-15">Fox News</a>
+    <a href="https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes">Al Jazeera</a>
+    <a href="https://www.jpost.com/middle-east/iran-news/article-914794">Jerusalem Post</a>
+    <a href="https://www.justsecurity.org/164727/early-edition-november-16-2026/">Just Security digest (WSJ, NYT, Reuters)</a>
+  </p>
+</article>
+
+<article>
+  <h3>PAHO set to formally strip the U.S. of measles-elimination status today</h3>
+  <p><strong>Facts</strong></p>
+  <ul>
+    <li>The Pan American Health Organization concluded that measles has spread continuously in the U.S. for more than a year, and its public announcement is planned for today. The U.S. had held elimination status since 2000. The decision traces to a Utah outbreak chain that passed one year in June (KFF Health News, WSJ).</li>
+    <li>The CDC counts 5,412 confirmed cases in 2026 through Nov. 12, more than double all of 2025. KFF counts more than 8,000 illnesses, 830+ hospitalizations and 13 deaths over two years. Kindergarten MMR coverage is 92%, below the roughly 95% herd-immunity threshold (Fox News, NBC).</li>
+    <li>Getting the status back requires 12 months without sustained spread once current outbreaks end. Outbreaks are still active in South Carolina, Utah and Pennsylvania.</li>
+  </ul>
+  <p><strong>Left view</strong></p>
+  <p>KFF Health News and NPR center the federal response. Former CDC deputy director Anne Schuchat says leaders spreading "disinformation and flat-out falsehoods" has been "unforgivable," and an unnamed CDC official alleges a deliberate downplaying of vaccine-preventable disease. MS NOW frames it as a scandal Health Secretary Kennedy must answer for.</p>
+  <p><strong>Right view</strong></p>
+  <p>Fox News presents it as a gap in community immunity rather than a vaccine failure, quoting doctors who say the shot is about 97% effective with two doses, and Dr. Marc Siegel urging vaccine clinics in low-coverage areas. The Washington Examiner's coverage is procedural and assigns no blame. HHS says the gaps predate this administration, notes $100M in added CDC funding, and says Kennedy and the CDC director still recommend MMR.</p>
+  <p><strong>Watch for</strong></p>
+  <p>Experts like former CDC official Paul Rota say regaining the status isn't "on the horizon" given expanding outbreaks. Expect pressure on school vaccine exemptions, more early infant doses (from 6 months) in outbreak areas, and congressional Democrats using January oversight power to probe CDC reporting delays.</p>
+  <p><em>Sources:</em> 
+    <a href="https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/">KFF Health News</a>
+    <a href="https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho">NPR</a>
+    <a href="https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide">Fox News</a>
+    <a href="https://www.washingtonexaminer.com/policy/healthcare/4797421/us-likely-to-lose-its-measles-elimination-status-this-week-battling-outbreaks/">Washington Examiner</a>
+    <a href="https://www.usnews.com/news/top-news/articles/2026-11-13/us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-reports">Reuters/WSJ (via US News)</a>
+  </p>
+</article>
+
+<h2>Markets &amp; Economy</h2>
+<ul>
+  <li><strong>S&amp;P 500:</strong> 7,416.59 (−1.92%). <strong>Dow:</strong> 51,608.17 (−1.41%). <strong>Nasdaq:</strong> 24,509.76 (−2.49%), its third straight losing day. The VIX is near 22.9 and the 10-year yield about 5.12% (Yahoo Finance).</li>
+  <li><strong>Oil:</strong> WTI fell about 4% Monday. Early Tuesday Brent is about $91.8 and WTI about $85.2, both down another 0.6–0.7%, on the IEA's forecast of a Q4 surplus of about 1.7M barrels a day. OPEC+ meets Nov. 29. The Strategic Petroleum Reserve is at 276.4M barrels, its lowest since 1982 (HDFC Sky/IEA).</li>
+  <li><strong>Gas:</strong> The AAA national average is $3.81 (Nov. 16), down from $3.90 on Nov. 12 and $4.27 in late October (AAA).</li>
+  <li><strong>Other:</strong> On Monday Fed Chair Warsh called AI possibly transformational but said it could still "disappoint." He gave no signal on rates, so a December hike stays priced in, and FOMC minutes come Wednesday (CNBC). Anthropic's IPO prices Wednesday. Home Depot reports today, and Target and Lowe's Wednesday. Bitcoin is about $65K.</li>
+</ul>
+
+<h2>Sports Watercooler</h2>
+<ul>
+  <li><strong>Golf:</strong> The PGA Tour's fall finale, the RSM Classic at Sea Island, starts Thursday. It's the last chance for players on the bubble to keep their cards (PGA Tour).</li>
+  <li><strong>Tennis:</strong> At the ATP Finals in Turin, Carlos Alcaraz routed Frances Tiafoe 6-2, 6-2 and Daniil Medvedev beat home favorite Flavio Cobolli 7-6(4), 6-3 in the Ivan Lendl Group (ATP Tour).</li>
+  <li><strong>Squash:</strong> Malaysia's Sanjay Jeeva won the PSA Singapore Classic (New Straits Times).</li>
+  <li><strong>WWE:</strong> On Raw, IYO SKY won the Women's IC title from Raquel Rodriguez, and The 946 (Hayes and Montana) beat the Usos to earn the WarGames advantage. LA Knight beat The Miz to join Team USA. Cena added Liv Morgan to the Cena Classic, and Becky Lynch vs. Morgan is set for Survivor Series on Nov. 28 (WWE.com, Wrestling Inc.).</li>
+  <li><strong>Hockey:</strong> Will Cuylle scored twice, including a short-handed go-ahead goal, as the Rangers beat Montreal 3-1. Brock Boeser's late power-play goal lifted Vancouver over Utah 3-2, the Mammoth's sixth straight loss (CP).</li>
+  <li><strong>Soccer:</strong> A quiet day after the international window wrapped. Club leagues resume this weekend.</li>
+  <li><strong>Football:</strong> The Chargers (1-8) ended an 11-game losing streak, 23-20 in Baltimore. They outrushed the Ravens 160-16, and Tarheeb Still forced a late Zay Flowers fumble. Baltimore (4-6) has lost five straight. Jacoby Brissett threw for 340 yards in his Ravens debut with Lamar Jackson on IR (ESPN).</li>
+</ul>]]></content:encoded>
+</item>
 <item>
 <title>Mon Nov 16, 2026 — Iran hits Bahrain again as a third U.S. carrier arrives in the Gulf</title>
 <link>https://news-recap-site.pages.dev/archive/2026-11-16.html</link>
@@ -4274,135 +4426,6 @@
   <li><strong>Hockey:</strong> Brady Tkachuk had back-to-back hat tricks, the second capped in OT in a 3&ndash;2 Panthers win over Vancouver. Also: Devils 7, Rangers 1; Sabres 5, Maple Leafs 4 (OT); Mammoth 4, Oilers 2.</li>
   <li><strong>Soccer:</strong> Premier League: Man City 2&ndash;1 Ipswich, Brentford 0&ndash;0 Liverpool, Everton 0&ndash;2 Chelsea, Fulham 1&ndash;0 Hull City. City lead with 21 points. Today: Leeds v Man United, Forest v Arsenal (4:30pm), Brighton v Palace, Bournemouth v Sunderland.</li>
   <li><strong>Football:</strong> Week 6 opened with Denver beating Seattle 17&ndash;14 in overtime on Thursday. Week 7 starts Thursday Oct 22 with the Patriots at the Bears.</li>
-</ul>]]></content:encoded>
-</item>
-<item>
-<title>Sat Oct 17, 2026 — Trump weighs strike on Iran&#x27;s &quot;Pickaxe Mountain&quot; site as Tehran ties Hormuz reopening to a U.S. exit</title>
-<link>https://news-recap-site.pages.dev/archive/2026-10-17.html</link>
-<guid isPermaLink="true">https://news-recap-site.pages.dev/archive/2026-10-17.html</guid>
-<pubDate>Sat, 17 Oct 2026 07:00:00 -0400</pubDate>
-<description>Trump weighs strike on Iran&#x27;s &quot;Pickaxe Mountain&quot; site as Tehran ties Hormuz reopening to a U.S. exit · Trump waives many Russia sanctions and tariffs under the new Graham Act · Bend, Oregon elementary school shooting leaves four dead plus the 16-year-old gunman · Tech and AI stocks slide again as hot inflation keeps the Fed in play</description>
-<content:encoded><![CDATA[<h2>The Big Stories Today</h2>
-
-<article>
-  <h3>Trump weighs strike on Iran's "Pickaxe Mountain" site as Tehran ties Hormuz reopening to a U.S. exit</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>In a Thursday (Oct 16) interview Trump confirmed the U.S. is evaluating Iran's Pickaxe Mountain nuclear complex as a possible target ("We'll knock it out fast"), ruled out nuclear weapons and ground troops, and left conventional air strikes open (Fox News live blog).</li>
-    <li>Iranian Army spokesman Mohammad Akraminia said the Strait of Hormuz will reopen "if America leaves the region"; President Pezeshkian said Tehran does not seek nuclear weapons and "will not submit to coercion."</li>
-    <li>Trump also suggested he may have gone too far in targeting Iranian leaders because he now has few people left to negotiate with.</li>
-    <li>This follows earlier reporting that Trump said he would not attack Iran before the Nov 3 midterms; Friday's remarks leave that timeline unclear.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>I could not retrieve a left-leaning take on today's remarks. Earlier this week NPR and CBS coverage stressed a war with no exit, and Sen. Chris Murphy has said it is "spiraling out of control"; Pew polling cited by Al Jazeera shows roughly 65% disapprove of Trump's handling.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News frames the remarks as Trump keeping maximum pressure while signaling optimism that the back-and-forth could end the conflict quickly, and stresses his line that Iran is no longer "the bully of the Middle East." No separate National Review or Washington Examiner piece was retrieved.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Brent settled near $109.5 Friday (up 3.5%), so any strike on a hardened nuclear site is a clear upside risk for crude, gasoline and jet fuel, and for inflation and Fed expectations. Iran's demand for a U.S. withdrawal makes a near-term deal look unlikely; analysts earlier this week saw continued blockade and escorts as the base case.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-october-16">Fox News live blog</a>
-    <a href="https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html">Yahoo Finance</a>
-  </p>
-</article>
-
-<article>
-  <h3>Trump waives many Russia sanctions and tariffs under the new Graham Act</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Trump signed an executive order Friday waiving many Russia-related sanctions and tariffs under the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, certifying the waiver is in U.S. national interests (Fox Business).</li>
-    <li>The law, signed last month, would have imposed tariffs of up to 100% on the largest buyers of Russian oil and gas. Trump keeps the power to reinstate them; earlier executive-order sanctions are not affected.</li>
-    <li>Fox Business ties the move to a Trump-Putin deal under which Moscow would eventually release millions of tons of diesel onto global markets, as diesel prices climb amid the Iran and Ukraine wars.</li>
-    <li>Last week Trump said it was "time for Ukraine to get a new president" and warned Kyiv to stop hitting Russian refineries. Graham died suddenly in July.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>I did not retrieve a left-outlet piece on the waiver itself. Earlier Ukrainian-press coverage (Ukrainska Pravda) described a bipartisan group of lawmakers urging Trump to use the Graham Act and Congress reminding him of it after the Putin deal, which suggests Democrats and some Republicans will frame the waiver as gutting a sanctions law named for a Ukraine hawk.</p>
-  <p><strong>Right view</strong></p>
-  <p>The Fox Business report presents it as a cost-of-living measure: Republicans have pressed Trump to lower fuel prices before the midterms, and the waiver is paired with the diesel deal. No dedicated right-leaning commentary was retrieved, and the article carried no lawmaker reaction.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Watch for congressional pushback (the law is bipartisan), Ukraine's response, and whether Russian diesel volumes actually materialize; if they do not, the tariff threat can be revived. Market effect would be modestly bearish for diesel if flows rise.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.foxbusiness.com/politics/trump-waives-many-russian-sanctions-under-new-law-backed-lindsey-graham">Fox Business</a>
-    <a href="https://www.pravda.com.ua/eng/news/2026/10/11/8057438/">Ukrainska Pravda</a>
-  </p>
-</article>
-
-<article>
-  <h3>Bend, Oregon elementary school shooting leaves four dead plus the 16-year-old gunman</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>On Thursday (Oct 15) a 16-year-old opened fire at Silver Rail Elementary in Bend. Police say three children (ages 5, 8 and 11) and a 25-year-old teacher were killed; a 7-year-old and a 54-year-old teacher were injured (Fox News, KSL).</li>
-    <li>The shooter died at the scene. Police say Kaylub Giamanco, 36, a carpenter and father of two students, drove to the school, went in and shot the attacker with a legally owned pistol; a teacher also tackled the gunman and fought for his firearm.</li>
-    <li>Officers arrived about three minutes after the first 911 call at 12:59 p.m. Early reports varied on the toll; Fox's Friday update is the latest figure retrieved.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>Common Dreams (left-leaning) covered the shooting and its victims, and former Rep. Gabrielle Giffords said she was "heartbroken" and urged leaders at every level to act, pointing toward renewed calls for gun-safety legislation. The retrieved Common Dreams page did not include policy discussion.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News leads with the "hero dad" who stopped the attacker, the kind of coverage that supports the argument that armed citizens and armed school staff can limit casualties; KSL notes gun-rights advocates have pushed for arming teachers.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Expect the familiar debate over school security, red-flag laws and arming staff, but with midterms on Nov 3 and war and inflation dominating, it is unlikely to produce new federal legislation soon. Watch for details on how a 16-year-old obtained the weapon, which will shape any state-level response in Oregon.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.foxnews.com/us/hero-dad-took-down-oregon-school-shooter-identified-along-teacher-killed-attack">Fox News</a>
-    <a href="https://www.ksl.com/article/51637003/shooter-is-killed-at-oregon-elementary-school-at-least-two-taken-away-in-ambulance">KSL</a>
-    <a href="https://www.commondreams.org/news/a-devastating-day-for-oregon-suspect-dead-kids-among-victims-in-elementary-school-shooting">Common Dreams</a>
-  </p>
-</article>
-
-<article>
-  <h3>Tech and AI stocks slide again as hot inflation keeps the Fed in play</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>The Nasdaq fell 2.1% and the S&P 500 1.2% on Friday; for the week the Nasdaq lost 4.5% and the S&P 500 2%, while the Dow gained 0.7% (Yahoo Finance).</li>
-    <li>AI-linked names led the drop: CoreWeave fell 12%, a semiconductor ETF 4%, and Meta nearly 4%. September CPI hit 3.7% and PPI also ran hot, with gasoline the main driver.</li>
-    <li>The 10-year Treasury yield sits above 5.09% after spiking to 5.33% on the CPI release. CME FedWatch put a late-October hike at 17% (down from 28%) and a December hike at 89%; Fed Chair Kevin Warsh gave no signal.</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>I could not retrieve a left-leaning column on this today. The household framing from earlier coverage is that the war-driven energy shock is squeezing families, with wages up about 3% against 3.7% inflation.</p>
-  <p><strong>Right view</strong></p>
-  <p>I could not retrieve a right-leaning piece today either. Right-of-center outlets such as the WSJ editorial page typically argue for Fed credibility and for more domestic energy supply; that is a general pattern, not a quote from today.</p>
-  <p><strong>Watch for</strong></p>
-  <p>Analysts cited by Yahoo see rate-hike risk and war-driven oil as the two forces pressuring valuations. A hold on Oct 28 followed by a December move is now the market's central case; further chip-sector weakness (South Korea's KOSPI was down about 12% over five days earlier this week) is the main equity risk.</p>
-  <p><em>Sources:</em> 
-    <a href="https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html">Yahoo Finance</a>
-    <a href="https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html">Yahoo Finance live blog</a>
-  </p>
-</article>
-
-<article>
-  <h3>Trump's new press secretary exits after about five days</h3>
-  <p><strong>Facts</strong></p>
-  <ul>
-    <li>Katie Zacharia is leaving the press secretary job after roughly five days; she first briefed reporters Tuesday and took questions from only three reporters (Fox News).</li>
-    <li>Peter Doocy reported Friday she is "transitioning out." Trump said he asked whether the job was right for her. Karoline Leavitt left the role in August, and the search for a replacement continues.</li>
-    <li>Several correspondents criticized the debut and questioned her claims of being a lawyer; communications director Steven Cheung said reporters "have the thinnest skin."</li>
-  </ul>
-  <p><strong>Left view</strong></p>
-  <p>I did not retrieve a left-leaning outlet on this. Fox quotes NBC's Garrett Haake, who said the episode reflects a larger problem for the White House heading into the midterms.</p>
-  <p><strong>Right view</strong></p>
-  <p>Fox News reports the story straight but gives the White House response (Cheung's "thinnest skin" remark) alongside press-corps criticism; no separate conservative commentary was retrieved.</p>
-  <p><strong>Watch for</strong></p>
-  <p>A third press secretary in two months raises questions about White House messaging discipline ahead of Nov 3. Low market impact; watch who is named and whether briefings continue at their current pace.</p>
-  <p><em>Sources:</em> 
-    <a href="https://www.foxnews.com/media/white-house-reporters-react-katie-zacharia-brutal-exit-trump-press-secretary">Fox News</a>
-  </p>
-</article>
-
-<h2>Markets &amp; Economy</h2>
-<ul>
-  <li><strong>Close (Fri):</strong> S&amp;P 500 -1.2% (-2% on the week). Dow -0.3% (+0.7% on the week). Nasdaq -2.1% (-4.5% on the week).</li>
-  <li><strong>Oil:</strong> WTI +3.4% to about $101.35; Brent +3.5% to about $109.55 on Middle East risk.</li>
-  <li><strong>Gas:</strong> AAA national average $4.33 for regular, down about 4 cents on the week and month but up about $1.27 (roughly 41%) from a year ago.</li>
-  <li><strong>Other:</strong> 10-year Treasury yield above 5.09%; gold about $4,190; Bitcoin about $81,400; dollar index 101.80. Next Fed meeting is Oct 28. Source: Yahoo Finance, AAA.</li>
-</ul>
-
-<h2>Sports Watercooler</h2>
-<ul>
-  <li><strong>Golf:</strong> DP World India Championship (Delhi): round two suspended by darkness. Hidalgo, Luiten and Meronk lead at 8 under; Eugenio Chacarra is 7 under mid-round and Rory McIlroy 4 under; race leader Patrick Reed is on the cut line at even par. Play resumes Saturday morning (Athlon). I did not find a PGA Tour result.</li>
-  <li><strong>Tennis:</strong> Novak Djokovic took a wildcard into Swiss Indoors Basel (Oct 24-Nov 1) to chase an ATP Finals spot; he is 11th in the Race to Turin, and a title would be his 103rd, tying Federer. Wawrinka plans to retire in Basel (Yardbarker). I did not verify other results.</li>
-  <li><strong>Squash:</strong> Diego Elias beat Mostafa Asal in five games for his first Egyptian Open title; Amina Orfi beat Hania El Hammamy for the women's title (PSA). Next: Silicon Valley Open, Oct 20-24.</li>
-  <li><strong>WWE:</strong> Friday SmackDown (Sacramento) featured Cody Rhodes and Randy Orton face to face, Rey Fenix vs. Ricky Saints for the AAA Cruiserweight title, and R-Truth vs. Damian Priest; the road leads to Crown Jewel in Riyadh on Nov 7. I did not find results, only the preview (Khel Now).</li>
-  <li><strong>Hockey:</strong> Avalanche 5, Penguins 2 (MacKinnon goal and three assists; Crosby's 1,110th assist moved him to seventh all-time). Devils 7, Rangers 1; Wild 5, Blues 4 (Boldy hat trick); Sabres 5, Maple Leafs 4 OT; Panthers 3, Canucks 2 (Brady Tkachuk natural hat trick) (NHL.com, 32 Hockey Updates).</li>
-  <li><strong>Soccer:</strong> Premier League matchweek 7 starts today. Man City (six wins from six) host Ipswich; Brentford host Liverpool; Everton host Chelsea. Sunday: Leeds v. Man United and Forest v. Arsenal (Fanbanter, based on pre-week standings).</li>
-  <li><strong>Football:</strong> Week 7 Sunday slate includes Texans-Jaguars in London, Ravens-Browns and Jets-Patriots. Houston acquired WR Marvin Harrison Jr. from Arizona; Denver beat Seattle 17-14 in OT last week (Bleacher Report).</li>
 </ul>]]></content:encoded>
 </item>
 </channel>
